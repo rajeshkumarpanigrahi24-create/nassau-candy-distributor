@@ -1,0 +1,1501 @@
+shipment_id,factory_location,customer_location,shipping_route,distance_km,traffic_level,weather_condition,shipment_weight_kg,shipping_mode,shipping_cost,dispatch_hour,expected_delivery_days,actual_delivery_days,delivery_status
+SHP-00001,Factory B,Marsh Harbour,Factory B to Marsh Harbour,321.0,High,Clear,7.9,Truck,126.0,8,2,2,On Time
+SHP-00002,Factory A,Spanish Wells,Factory A to Spanish Wells,151.4,Low,Clear,38.1,Van,66.87,17,1,1,On Time
+SHP-00003,Factory C,Freeport,Factory C to Freeport,208.7,Medium,Clear,42.3,Truck,113.61,15,1,4,Delayed
+SHP-00004,Factory B,Freeport,Factory B to Freeport,200.2,Low,Clear,17.4,Van,66.41,7,1,1,On Time
+SHP-00005,Factory A,George Town,Factory A to George Town,415.6,Low,Clear,40.7,Truck,129.52,15,2,2,On Time
+SHP-00006,Factory C,Freeport,Factory C to Freeport,250.8,High,Rain,28.2,Van,100.34,14,1,4,Delayed
+SHP-00007,Factory B,Marsh Harbour,Factory B to Marsh Harbour,288.5,Medium,Storm,13.9,Van,119.94,9,1,2,Delayed
+SHP-00008,Factory B,Freeport,Factory B to Freeport,261.6,Low,Clear,59.4,Truck,73.05,11,1,2,Delayed
+SHP-00009,Factory A,Nassau,Factory A to Nassau,57.8,Low,Clear,24.4,Truck,66.3,17,1,1,On Time
+SHP-00010,Factory A,George Town,Factory A to George Town,390.4,High,Clear,27.3,Truck,134.62,7,2,2,On Time
+SHP-00011,Factory A,Nassau,Factory A to Nassau,29.7,Low,Clear,26.2,Van,18.93,15,1,1,On Time
+SHP-00012,Factory C,Nassau,Factory C to Nassau,80.6,Medium,Clear,89.1,Van,40.85,17,1,1,On Time
+SHP-00013,Factory B,Marsh Harbour,Factory B to Marsh Harbour,306.1,Low,Clear,35.5,Van,82.31,19,2,3,Delayed
+SHP-00014,Factory C,George Town,Factory C to George Town,466.8,Low,Clear,38.7,Truck,129.96,9,2,2,On Time
+SHP-00015,Factory A,Spanish Wells,Factory A to Spanish Wells,172.6,Medium,Clear,26.6,Freight,146.84,8,1,2,Delayed
+SHP-00016,Factory A,Nassau,Factory A to Nassau,48.1,Low,Rain,51.1,Van,44.76,19,1,3,Delayed
+SHP-00017,Factory B,Nassau,Factory B to Nassau,78.0,Medium,Clear,96.7,Truck,65.4,11,1,1,On Time
+SHP-00018,Factory A,Spanish Wells,Factory A to Spanish Wells,143.9,Low,Clear,58.4,Truck,74.59,13,1,2,Delayed
+SHP-00019,Factory C,Nassau,Factory C to Nassau,96.6,Medium,Clear,60.0,Truck,61.33,12,1,1,On Time
+SHP-00020,Factory B,Nassau,Factory B to Nassau,51.7,Medium,Clear,56.6,Truck,63.05,12,1,1,On Time
+SHP-00021,Factory B,Nassau,Factory B to Nassau,12.0,Medium,Clear,13.5,Truck,56.11,14,1,1,On Time
+SHP-00022,Factory A,Freeport,Factory A to Freeport,171.7,Low,Rain,19.5,Truck,94.42,11,1,2,Delayed
+SHP-00023,Factory C,George Town,Factory C to George Town,419.7,Medium,Rain,31.6,Truck,151.24,10,2,4,Delayed
+SHP-00024,Factory C,George Town,Factory C to George Town,447.6,High,Clear,21.7,Truck,165.3,11,2,4,Delayed
+SHP-00025,Factory B,Marsh Harbour,Factory B to Marsh Harbour,304.0,Low,Clear,17.0,Truck,115.22,14,2,2,On Time
+SHP-00026,Factory A,Nassau,Factory A to Nassau,38.3,Low,Clear,9.5,Freight,138.17,17,1,1,On Time
+SHP-00027,Factory A,Freeport,Factory A to Freeport,245.1,High,Clear,13.9,Van,96.09,13,1,1,On Time
+SHP-00028,Factory A,Freeport,Factory A to Freeport,187.2,Low,Clear,30.4,Truck,77.51,15,1,2,Delayed
+SHP-00029,Factory A,Nassau,Factory A to Nassau,34.5,Medium,Rain,34.8,Van,29.88,11,1,1,On Time
+SHP-00030,Factory B,Nassau,Factory B to Nassau,62.5,Medium,Clear,20.7,Van,34.09,16,1,3,Delayed
+SHP-00031,Factory B,Nassau,Factory B to Nassau,43.7,Low,Clear,38.7,Truck,42.0,10,1,1,On Time
+SHP-00032,Factory C,Nassau,Factory C to Nassau,83.5,Medium,Clear,26.8,Truck,66.68,11,1,1,On Time
+SHP-00033,Factory A,Freeport,Factory A to Freeport,181.2,Medium,Clear,80.3,Truck,77.29,5,1,1,On Time
+SHP-00034,Factory A,Marsh Harbour,Factory A to Marsh Harbour,305.4,Low,Rain,32.6,Van,100.45,8,2,2,On Time
+SHP-00035,Factory A,Nassau,Factory A to Nassau,22.7,High,Clear,60.4,Truck,41.57,16,1,1,On Time
+SHP-00036,Factory A,Freeport,Factory A to Freeport,246.6,Low,,42.4,Truck,73.25,6,1,3,Delayed
+SHP-00037,Factory A,George Town,Factory A to George Town,389.4,Medium,Clear,13.3,Van,97.23,8,2,2,On Time
+SHP-00038,Factory A,George Town,Factory A to George Town,408.5,High,Rain,34.3,Freight,224.47,16,2,3,Delayed
+SHP-00039,Factory A,George Town,Factory A to George Town,389.0,Low,Clear,15.0,Truck,109.12,18,2,4,Delayed
+SHP-00040,Factory B,Freeport,Factory B to Freeport,231.4,High,Clear,33.9,Van,72.52,11,1,2,Delayed
+SHP-00041,Factory A,George Town,Factory A to George Town,379.5,Low,Clear,21.4,Truck,113.22,11,2,4,Delayed
+SHP-00042,Factory C,Nassau,Factory C to Nassau,85.1,Medium,Clear,48.2,Van,43.42,12,1,3,Delayed
+SHP-00043,Factory B,Freeport,Factory B to Freeport,237.7,Low,Rain,13.9,Van,64.62,16,1,1,On Time
+SHP-00044,Factory A,Nassau,Factory A to Nassau,20.9,Medium,Clear,37.0,Van,23.91,12,1,3,Delayed
+SHP-00045,Factory C,Freeport,Factory C to Freeport,255.7,Medium,Clear,55.3,Truck,101.52,7,1,2,Delayed
+SHP-00046,Factory C,Freeport,Factory C to Freeport,247.0,,Clear,70.3,Truck,122.5,11,1,2,Delayed
+SHP-00047,Factory A,Nassau,Factory A to Nassau,76.4,High,Clear,21.1,Freight,150.78,8,1,3,Delayed
+SHP-00048,Factory A,George Town,Factory A to George Town,388.4,Medium,Clear,37.1,Truck,132.96,15,2,2,On Time
+SHP-00049,Factory B,Nassau,Factory B to Nassau,84.8,Medium,Rain,41.8,Freight,136.91,7,1,1,On Time
+SHP-00050,Factory A,Nassau,Factory A to Nassau,31.5,Medium,Clear,111.5,Truck,50.62,14,1,1,On Time
+SHP-00051,Factory A,Nassau,Factory A to Nassau,39.7,High,Clear,12.6,Van,48.14,6,1,1,On Time
+SHP-00052,Factory A,Freeport,Factory A to Freeport,186.2,Medium,Clear,19.0,Truck,88.46,19,1,2,Delayed
+SHP-00053,Factory B,Nassau,Factory B to Nassau,49.0,High,Rain,275.7,Truck,98.97,14,1,1,On Time
+SHP-00054,Factory B,Freeport,Factory B to Freeport,235.8,,Clear,30.1,Freight,139.41,7,2,2,On Time
+SHP-00055,Factory B,Nassau,Factory B to Nassau,85.5,Medium,Clear,9.4,Truck,57.32,19,1,3,Delayed
+SHP-00056,Factory B,George Town,Factory B to George Town,416.0,Medium,Clear,24.1,Van,108.68,13,2,2,On Time
+SHP-00057,Factory A,Spanish Wells,Factory A to Spanish Wells,189.9,Low,Clear,5.0,Van,54.09,14,1,1,On Time
+SHP-00058,Factory B,Freeport,Factory B to Freeport,243.5,Low,Storm,43.5,Freight,177.43,5,2,2,On Time
+SHP-00059,Factory A,Marsh Harbour,Factory A to Marsh Harbour,309.3,High,Clear,65.6,Van,81.44,7,2,3,Delayed
+SHP-00060,Factory A,George Town,Factory A to George Town,388.9,Medium,Clear,19.0,Freight,220.23,17,2,3,Delayed
+SHP-00061,Factory B,Spanish Wells,Factory B to Spanish Wells,230.0,Low,Clear,26.1,Freight,151.23,12,2,3,Delayed
+SHP-00062,Factory A,Marsh Harbour,Factory A to Marsh Harbour,271.3,Low,Clear,71.2,Truck,78.9,14,2,2,On Time
+SHP-00063,Factory B,George Town,Factory B to George Town,398.2,Medium,Clear,10.4,Freight,223.14,19,2,3,Delayed
+SHP-00064,Factory B,Spanish Wells,Factory B to Spanish Wells,165.2,Medium,Clear,14.1,Freight,153.26,11,1,2,Delayed
+SHP-00065,Factory B,George Town,Factory B to George Town,454.0,High,Clear,31.1,Truck,154.58,10,2,2,On Time
+SHP-00066,Factory B,Freeport,Factory B to Freeport,246.8,High,Rain,21.3,Van,79.3,17,1,4,Delayed
+SHP-00067,Factory B,Nassau,Factory B to Nassau,51.0,Medium,Rain,29.6,Truck,59.85,5,1,2,Delayed
+SHP-00068,Factory A,Nassau,Factory A to Nassau,57.5,Medium,Clear,14.7,Van,50.47,11,1,1,On Time
+SHP-00069,Factory A,Freeport,Factory A to Freeport,222.4,Low,Storm,42.7,Truck,91.91,17,1,2,Delayed
+SHP-00070,Factory A,Freeport,Factory A to Freeport,245.4,High,Storm,32.9,Van,88.0,8,1,4,Delayed
+SHP-00071,Factory A,Freeport,Factory A to Freeport,182.1,Low,,54.3,Truck,71.06,9,1,2,Delayed
+SHP-00072,Factory A,Marsh Harbour,Factory A to Marsh Harbour,275.2,Low,Clear,42.3,Van,72.72,12,1,2,Delayed
+SHP-00073,Factory C,Freeport,Factory C to Freeport,249.7,High,Clear,42.5,Truck,103.6,6,1,2,Delayed
+SHP-00074,Factory A,George Town,Factory A to George Town,354.5,High,Clear,12.9,Van,109.91,6,2,4,Delayed
+SHP-00075,Factory A,Nassau,Factory A to Nassau,54.1,Low,Clear,52.2,Van,44.74,8,1,1,On Time
+SHP-00076,Factory A,Nassau,Factory A to Nassau,30.1,Medium,Clear,28.8,Van,34.94,18,1,1,On Time
+SHP-00077,Factory A,George Town,Factory A to George Town,403.3,Medium,Storm,32.5,Truck,165.11,8,2,3,Delayed
+SHP-00078,Factory B,George Town,Factory B to George Town,454.5,Low,Clear,77.8,Truck,145.69,15,2,2,On Time
+SHP-00079,Factory B,Spanish Wells,Factory B to Spanish Wells,180.6,Low,Rain,21.8,Truck,84.74,11,1,1,On Time
+SHP-00080,Factory B,George Town,Factory B to George Town,404.4,Low,Clear,96.8,Freight,196.1,16,2,2,On Time
+SHP-00081,Factory B,George Town,Factory B to George Town,414.1,Medium,Clear,103.5,Truck,128.08,9,2,2,On Time
+SHP-00082,Factory A,Nassau,Factory A to Nassau,52.8,Medium,Rain,62.9,Van,29.91,18,1,1,On Time
+SHP-00083,Factory C,Freeport,Factory C to Freeport,247.8,Medium,Clear,18.1,Truck,96.12,10,1,2,Delayed
+SHP-00084,Factory A,Nassau,Factory A to Nassau,23.6,Low,Clear,7.6,Van,25.77,16,1,1,On Time
+SHP-00085,Factory A,Marsh Harbour,Factory A to Marsh Harbour,299.0,High,Clear,79.6,Truck,105.36,17,2,2,On Time
+SHP-00086,Factory A,Spanish Wells,Factory A to Spanish Wells,171.8,Medium,Rain,39.7,Truck,90.37,11,1,2,Delayed
+SHP-00087,Factory B,Freeport,Factory B to Freeport,195.2,High,Clear,21.4,Truck,85.46,15,1,4,Delayed
+SHP-00088,Factory A,Freeport,Factory A to Freeport,187.9,Low,Clear,85.2,Truck,68.65,6,1,1,On Time
+SHP-00089,Factory A,Nassau,Factory A to Nassau,62.0,Medium,Clear,19.7,Truck,47.74,12,1,1,On Time
+SHP-00090,Factory B,Nassau,Factory B to Nassau,64.2,High,Clear,27.0,Truck,52.67,10,1,1,On Time
+SHP-00091,Factory A,Nassau,Factory A to Nassau,21.3,Low,Clear,53.4,Van,32.8,19,1,1,On Time
+SHP-00092,Factory B,Nassau,Factory B to Nassau,53.9,Low,Clear,16.4,Freight,108.65,19,1,2,Delayed
+SHP-00093,Factory A,Spanish Wells,Factory A to Spanish Wells,165.2,Low,Clear,33.8,Truck,83.47,16,1,1,On Time
+SHP-00094,Factory A,Freeport,Factory A to Freeport,223.2,Low,Clear,80.2,Freight,154.98,19,2,2,On Time
+SHP-00095,Factory A,George Town,Factory A to George Town,365.6,,Clear,42.6,Truck,121.35,19,2,2,On Time
+SHP-00096,Factory B,Marsh Harbour,Factory B to Marsh Harbour,286.9,Low,Rain,89.9,Truck,134.96,16,2,2,On Time
+SHP-00097,Factory A,Nassau,Factory A to Nassau,39.9,Low,Clear,82.8,Truck,27.84,13,1,1,On Time
+SHP-00098,Factory A,Nassau,Factory A to Nassau,33.2,Medium,Clear,36.8,Truck,64.89,8,1,1,On Time
+SHP-00099,Factory A,George Town,Factory A to George Town,400.3,Low,Clear,6.8,Truck,146.26,17,2,4,Delayed
+SHP-00100,Factory C,Nassau,Factory C to Nassau,60.9,Low,Storm,16.5,Freight,145.82,7,1,3,Delayed
+SHP-00101,Factory C,Spanish Wells,Factory C to Spanish Wells,219.4,Medium,Clear,63.4,Van,65.84,7,1,1,On Time
+SHP-00102,Factory B,Nassau,Factory B to Nassau,76.6,Low,Clear,12.0,Van,50.46,18,1,1,On Time
+SHP-00103,Factory A,Marsh Harbour,Factory A to Marsh Harbour,288.8,Low,Clear,28.9,Van,70.89,6,1,1,On Time
+SHP-00104,Factory C,George Town,Factory C to George Town,440.5,Low,Clear,46.7,Truck,129.18,7,2,2,On Time
+SHP-00105,Factory B,Nassau,Factory B to Nassau,55.3,Low,Clear,105.4,Van,30.7,12,1,1,On Time
+SHP-00106,Factory B,Nassau,Factory B to Nassau,42.0,Medium,Clear,24.2,Truck,44.03,13,1,2,Delayed
+SHP-00107,Factory A,Spanish Wells,Factory A to Spanish Wells,163.7,Low,Clear,23.0,Truck,61.44,5,1,1,On Time
+SHP-00108,Factory A,Nassau,Factory A to Nassau,57.7,Low,Clear,35.2,Truck,62.35,10,1,2,Delayed
+SHP-00109,Factory A,Freeport,Factory A to Freeport,207.9,High,Clear,47.1,Truck,90.89,8,1,2,Delayed
+SHP-00110,Factory C,Freeport,Factory C to Freeport,242.0,High,Rain,32.8,Van,89.76,9,1,3,Delayed
+SHP-00111,Factory A,Nassau,Factory A to Nassau,26.1,Low,Clear,77.9,Truck,26.57,7,1,1,On Time
+SHP-00112,Factory A,George Town,Factory A to George Town,393.6,Low,Rain,20.6,Truck,133.93,15,2,4,Delayed
+SHP-00113,Factory A,George Town,Factory A to George Town,383.3,Medium,Rain,39.9,Freight,203.85,12,2,3,Delayed
+SHP-00114,Factory B,Freeport,Factory B to Freeport,240.7,High,Rain,50.4,Freight,173.99,19,2,2,On Time
+SHP-00115,Factory A,George Town,Factory A to George Town,399.4,High,Rain,27.4,Truck,149.92,5,2,3,Delayed
+SHP-00116,Factory C,Nassau,Factory C to Nassau,99.0,Low,Clear,67.0,Van,53.85,16,1,1,On Time
+SHP-00117,Factory B,Nassau,Factory B to Nassau,82.6,Low,Clear,40.7,Van,41.62,18,1,4,Delayed
+SHP-00118,Factory B,Marsh Harbour,Factory B to Marsh Harbour,319.9,Medium,Clear,64.6,Truck,122.92,12,2,2,On Time
+SHP-00119,Factory A,Spanish Wells,Factory A to Spanish Wells,148.2,High,Clear,42.1,Truck,84.63,15,1,3,Delayed
+SHP-00120,Factory B,Nassau,Factory B to Nassau,40.7,High,Clear,48.0,Truck,57.73,11,1,2,Delayed
+SHP-00121,Factory B,Nassau,Factory B to Nassau,55.6,Low,Clear,23.2,Truck,57.44,13,1,1,On Time
+SHP-00122,Factory B,Freeport,Factory B to Freeport,223.9,Medium,Clear,23.2,Freight,157.75,18,2,1,On Time
+SHP-00123,Factory A,George Town,Factory A to George Town,369.5,Low,Rain,88.4,Van,111.96,12,2,2,On Time
+SHP-00124,Factory A,Nassau,Factory A to Nassau,27.0,Medium,Rain,57.8,Freight,133.41,13,1,1,On Time
+SHP-00125,Factory A,Freeport,Factory A to Freeport,201.5,High,Clear,17.5,Van,63.33,19,1,1,On Time
+SHP-00126,Factory A,George Town,Factory A to George Town,377.9,Medium,Clear,41.7,Van,90.18,12,2,3,Delayed
+SHP-00127,Factory A,Freeport,Factory A to Freeport,204.3,Low,Clear,6.6,Van,50.7,7,1,1,On Time
+SHP-00128,Factory A,Nassau,Factory A to Nassau,56.2,Medium,Rain,24.2,Van,26.65,15,1,1,On Time
+SHP-00129,Factory A,Nassau,Factory A to Nassau,38.6,Medium,Clear,73.1,Truck,46.9,15,1,1,On Time
+SHP-00130,Factory B,Freeport,Factory B to Freeport,276.5,High,Clear,33.4,Truck,130.88,8,2,2,On Time
+SHP-00131,Factory A,Freeport,Factory A to Freeport,213.1,Low,Clear,39.8,Van,48.53,15,1,1,On Time
+SHP-00132,Factory C,George Town,Factory C to George Town,432.8,High,Clear,4.2,Truck,165.66,5,2,4,Delayed
+SHP-00133,Factory B,Marsh Harbour,Factory B to Marsh Harbour,302.1,Low,Rain,27.6,Truck,107.66,9,2,2,On Time
+SHP-00134,Factory A,Marsh Harbour,Factory A to Marsh Harbour,284.6,Low,Storm,46.7,Truck,151.16,17,2,3,Delayed
+SHP-00135,Factory B,Spanish Wells,Factory B to Spanish Wells,194.8,Low,Clear,51.2,Van,50.16,14,1,1,On Time
+SHP-00136,Factory A,Freeport,Factory A to Freeport,247.4,Low,Clear,73.2,Truck,92.83,14,1,1,On Time
+SHP-00137,Factory C,Freeport,Factory C to Freeport,242.8,Low,Clear,31.5,Truck,80.5,14,1,2,Delayed
+SHP-00138,Factory A,Spanish Wells,Factory A to Spanish Wells,180.5,Medium,Clear,32.5,Van,52.16,7,1,2,Delayed
+SHP-00139,Factory B,Nassau,Factory B to Nassau,60.7,Low,Storm,14.0,Truck,88.72,19,1,1,On Time
+SHP-00140,Factory A,Marsh Harbour,Factory A to Marsh Harbour,251.7,Low,Rain,31.6,Freight,180.28,9,2,2,On Time
+SHP-00141,Factory A,George Town,Factory A to George Town,403.9,Low,Clear,14.8,Truck,139.98,16,2,2,On Time
+SHP-00142,Factory A,Nassau,Factory A to Nassau,57.8,Low,Clear,9.7,Truck,31.99,19,1,3,Delayed
+SHP-00143,Factory C,Freeport,Factory C to Freeport,242.6,High,Clear,16.8,Truck,114.5,8,1,2,Delayed
+SHP-00144,Factory B,Nassau,Factory B to Nassau,56.8,High,Clear,108.4,Freight,119.04,14,1,2,Delayed
+SHP-00145,Factory A,Nassau,Factory A to Nassau,12.0,Low,Clear,30.1,Van,15.0,5,1,1,On Time
+SHP-00146,Factory A,Freeport,Factory A to Freeport,187.3,Medium,Rain,42.9,Truck,96.09,14,1,4,Delayed
+SHP-00147,Factory A,Nassau,Factory A to Nassau,53.9,Medium,Clear,25.3,Truck,56.4,11,1,2,Delayed
+SHP-00148,Factory B,George Town,Factory B to George Town,403.6,High,Clear,10.1,Van,111.98,6,2,4,Delayed
+SHP-00149,Factory A,Spanish Wells,Factory A to Spanish Wells,145.0,Low,Rain,71.8,Freight,154.72,15,1,2,Delayed
+SHP-00150,Factory A,George Town,Factory A to George Town,394.1,Low,Rain,7.7,Truck,143.51,19,2,2,On Time
+SHP-00151,Factory C,Nassau,Factory C to Nassau,73.6,Medium,Clear,24.5,Truck,75.79,6,1,1,On Time
+SHP-00152,Factory C,Nassau,Factory C to Nassau,74.5,High,Clear,35.2,Truck,54.61,18,1,1,On Time
+SHP-00153,Factory A,Nassau,Factory A to Nassau,48.3,Medium,Clear,43.2,Truck,71.29,17,1,1,On Time
+SHP-00154,Factory B,Nassau,Factory B to Nassau,36.1,Medium,Rain,21.7,Van,62.86,13,1,1,On Time
+SHP-00155,Factory A,Spanish Wells,Factory A to Spanish Wells,148.7,Low,Clear,9.7,Freight,132.58,18,1,2,Delayed
+SHP-00156,Factory B,Freeport,Factory B to Freeport,234.8,Medium,Clear,20.6,Freight,147.44,9,2,2,On Time
+SHP-00157,Factory A,Nassau,Factory A to Nassau,52.4,High,Clear,21.3,Van,28.74,15,1,1,On Time
+SHP-00158,Factory B,George Town,Factory B to George Town,434.3,,Clear,21.0,Truck,135.4,15,2,2,On Time
+SHP-00159,Factory B,Freeport,Factory B to Freeport,220.0,Medium,Clear,73.6,Freight,189.35,13,2,2,On Time
+SHP-00160,Factory B,Nassau,Factory B to Nassau,73.9,Medium,Rain,15.3,Truck,65.97,17,1,2,Delayed
+SHP-00161,Factory A,Nassau,Factory A to Nassau,20.9,Medium,Clear,45.5,Truck,39.68,18,1,3,Delayed
+SHP-00162,Factory C,Marsh Harbour,Factory C to Marsh Harbour,360.9,Medium,Clear,41.0,Van,87.01,16,2,3,Delayed
+SHP-00163,Factory A,George Town,Factory A to George Town,369.6,Medium,Storm,73.1,Truck,136.79,13,2,4,Delayed
+SHP-00164,Factory A,Nassau,Factory A to Nassau,58.9,High,Clear,33.3,Freight,139.15,19,1,4,Delayed
+SHP-00165,Factory B,Spanish Wells,Factory B to Spanish Wells,175.2,Medium,Clear,64.7,Freight,151.22,13,1,2,Delayed
+SHP-00166,Factory A,George Town,Factory A to George Town,426.2,Low,Clear,32.3,Van,126.28,14,2,2,On Time
+SHP-00167,Factory C,George Town,Factory C to George Town,448.6,Medium,Clear,50.0,Van,120.02,7,2,2,On Time
+SHP-00168,Factory C,Nassau,Factory C to Nassau,64.7,Low,,12.4,Truck,59.46,9,1,1,On Time
+SHP-00169,Factory A,Nassau,Factory A to Nassau,25.6,Low,Rain,5.5,Truck,45.26,18,1,1,On Time
+SHP-00170,Factory C,George Town,Factory C to George Town,452.1,Low,Clear,48.0,Van,93.93,12,2,2,On Time
+SHP-00171,Factory A,Nassau,Factory A to Nassau,53.9,Medium,Clear,49.9,Van,27.0,12,1,3,Delayed
+SHP-00172,Factory B,Marsh Harbour,Factory B to Marsh Harbour,300.7,Low,Clear,51.5,Freight,164.57,17,2,2,On Time
+SHP-00173,Factory A,George Town,Factory A to George Town,390.8,Low,Rain,25.1,Truck,144.06,9,2,2,On Time
+SHP-00174,Factory C,Nassau,Factory C to Nassau,96.7,Medium,Clear,107.0,Truck,62.97,8,1,1,On Time
+SHP-00175,Factory A,George Town,Factory A to George Town,392.4,Low,Rain,26.3,Truck,145.0,5,2,2,On Time
+SHP-00176,Factory A,Spanish Wells,Factory A to Spanish Wells,141.7,Medium,Clear,49.6,Van,55.78,8,1,1,On Time
+SHP-00177,Factory A,Marsh Harbour,Factory A to Marsh Harbour,265.4,High,Clear,56.2,Van,84.57,12,1,1,On Time
+SHP-00178,Factory C,Freeport,Factory C to Freeport,262.2,Medium,Clear,126.2,Freight,164.8,15,2,2,On Time
+SHP-00179,Factory C,George Town,Factory C to George Town,459.9,Low,Clear,29.1,Truck,144.85,9,2,4,Delayed
+SHP-00180,Factory B,Freeport,Factory B to Freeport,261.1,Low,Clear,22.9,Van,66.47,11,1,3,Delayed
+SHP-00181,Factory C,George Town,Factory C to George Town,452.0,Medium,Rain,12.4,Truck,163.41,8,2,3,Delayed
+SHP-00182,Factory C,George Town,Factory C to George Town,443.2,Medium,Clear,111.9,Truck,138.95,17,2,3,Delayed
+SHP-00183,Factory B,George Town,Factory B to George Town,425.5,Low,Clear,49.6,Truck,141.74,12,2,2,On Time
+SHP-00184,Factory A,Nassau,Factory A to Nassau,23.0,Medium,Clear,50.7,Van,51.36,7,1,1,On Time
+SHP-00185,Factory B,Nassau,Factory B to Nassau,54.2,Medium,Clear,345.2,Truck,73.0,14,1,2,Delayed
+SHP-00186,Factory B,Nassau,Factory B to Nassau,42.2,Low,Clear,46.2,Truck,55.44,10,1,1,On Time
+SHP-00187,Factory A,Freeport,Factory A to Freeport,187.5,Medium,Clear,14.3,Van,67.42,17,1,2,Delayed
+SHP-00188,Factory A,Freeport,Factory A to Freeport,216.0,Low,Clear,31.8,Freight,179.37,9,1,1,On Time
+SHP-00189,Factory B,Marsh Harbour,Factory B to Marsh Harbour,305.3,Low,Clear,18.1,Truck,109.58,17,2,2,On Time
+SHP-00190,Factory A,Freeport,Factory A to Freeport,222.4,High,Clear,27.5,Truck,110.93,15,1,2,Delayed
+SHP-00191,Factory C,George Town,Factory C to George Town,447.8,Low,Clear,27.4,Van,104.43,7,2,2,On Time
+SHP-00192,Factory A,Spanish Wells,Factory A to Spanish Wells,169.4,Medium,Clear,24.0,Van,48.45,16,1,2,Delayed
+SHP-00193,Factory A,Nassau,Factory A to Nassau,45.0,Medium,Clear,13.4,Freight,99.57,15,1,1,On Time
+SHP-00194,Factory C,Marsh Harbour,Factory C to Marsh Harbour,327.2,Low,Rain,115.2,Truck,138.22,11,2,2,On Time
+SHP-00195,Factory A,Marsh Harbour,Factory A to Marsh Harbour,287.4,High,Clear,45.4,Van,79.46,7,1,2,Delayed
+SHP-00196,Factory A,Freeport,Factory A to Freeport,196.9,Low,Rain,31.1,Freight,168.17,12,1,3,Delayed
+SHP-00197,Factory B,Nassau,Factory B to Nassau,63.7,Low,Clear,63.1,Truck,56.8,14,1,2,Delayed
+SHP-00198,Factory C,George Town,Factory C to George Town,450.0,High,Clear,51.4,Truck,167.08,6,2,2,On Time
+SHP-00199,Factory A,Spanish Wells,Factory A to Spanish Wells,152.9,Medium,Clear,44.6,Freight,139.2,10,1,1,On Time
+SHP-00200,Factory A,Marsh Harbour,Factory A to Marsh Harbour,280.9,Medium,Clear,59.9,Truck,98.11,15,2,1,On Time
+SHP-00201,Factory B,Spanish Wells,Factory B to Spanish Wells,175.8,Low,Clear,40.3,Van,58.56,13,1,2,Delayed
+SHP-00202,Factory C,Spanish Wells,Factory C to Spanish Wells,203.5,Low,Rain,59.3,Freight,158.55,19,1,3,Delayed
+SHP-00203,Factory B,Freeport,Factory B to Freeport,211.8,Medium,Clear,62.9,Truck,77.09,8,1,1,On Time
+SHP-00204,Factory A,Marsh Harbour,Factory A to Marsh Harbour,302.8,Low,Clear,41.1,Van,101.47,16,2,1,On Time
+SHP-00205,Factory A,Freeport,Factory A to Freeport,229.2,Low,Clear,31.2,Truck,78.78,11,1,1,On Time
+SHP-00206,Factory A,Spanish Wells,Factory A to Spanish Wells,174.7,Medium,Clear,110.2,Freight,141.85,8,1,2,Delayed
+SHP-00207,Factory A,Nassau,Factory A to Nassau,70.5,Low,Rain,25.9,Freight,120.74,19,1,4,Delayed
+SHP-00208,Factory B,Freeport,Factory B to Freeport,228.6,Low,Clear,48.5,Freight,175.74,14,2,2,On Time
+SHP-00209,Factory A,George Town,Factory A to George Town,444.6,Low,Clear,49.3,Truck,112.72,13,2,2,On Time
+SHP-00210,Factory B,Nassau,Factory B to Nassau,52.9,Medium,Rain,23.6,Van,57.62,9,1,3,Delayed
+SHP-00211,Factory B,George Town,Factory B to George Town,416.6,Medium,Storm,20.5,Freight,231.43,18,2,3,Delayed
+SHP-00212,Factory B,Freeport,Factory B to Freeport,224.8,High,,28.4,Van,81.73,5,1,3,Delayed
+SHP-00213,Factory A,Spanish Wells,Factory A to Spanish Wells,171.7,Low,Clear,25.7,Van,44.18,6,1,1,On Time
+SHP-00214,Factory C,George Town,Factory C to George Town,453.0,Low,Rain,12.8,Truck,170.73,7,2,2,On Time
+SHP-00215,Factory B,Nassau,Factory B to Nassau,54.9,Medium,Clear,22.9,Freight,118.67,14,1,2,Delayed
+SHP-00216,Factory B,George Town,Factory B to George Town,444.0,Medium,Clear,44.3,Truck,135.84,6,2,2,On Time
+SHP-00217,Factory A,Freeport,Factory A to Freeport,214.3,Medium,Clear,91.1,Truck,90.23,16,1,1,On Time
+SHP-00218,Factory A,Marsh Harbour,Factory A to Marsh Harbour,284.9,High,Rain,54.6,Freight,201.76,7,2,2,On Time
+SHP-00219,Factory C,Marsh Harbour,Factory C to Marsh Harbour,311.6,Medium,Rain,5.6,Freight,198.58,15,2,2,On Time
+SHP-00220,Factory A,George Town,Factory A to George Town,397.5,Medium,Clear,58.1,Freight,219.6,16,2,4,Delayed
+SHP-00221,Factory A,Nassau,Factory A to Nassau,32.6,High,Clear,24.5,Truck,58.71,18,1,3,Delayed
+SHP-00222,Factory A,Nassau,Factory A to Nassau,24.1,Low,Clear,50.7,Truck,25.55,9,1,1,On Time
+SHP-00223,Factory B,Marsh Harbour,Factory B to Marsh Harbour,288.0,High,Clear,36.2,Truck,113.97,6,2,4,Delayed
+SHP-00224,Factory C,Marsh Harbour,Factory C to Marsh Harbour,376.1,Medium,Rain,31.9,Truck,143.38,16,2,3,Delayed
+SHP-00225,Factory A,Freeport,Factory A to Freeport,205.3,Medium,Clear,34.0,Freight,151.64,11,1,2,Delayed
+SHP-00226,Factory C,Nassau,Factory C to Nassau,56.8,High,Clear,36.0,Van,55.21,19,1,3,Delayed
+SHP-00227,Factory A,Freeport,Factory A to Freeport,197.4,Medium,Rain,96.3,Truck,98.6,7,1,1,On Time
+SHP-00228,Factory B,George Town,Factory B to George Town,411.1,Medium,Clear,36.1,Truck,133.75,13,2,2,On Time
+SHP-00229,Factory B,Nassau,Factory B to Nassau,66.8,Low,Rain,80.0,Truck,75.69,6,1,1,On Time
+SHP-00230,Factory A,Freeport,Factory A to Freeport,220.0,Medium,Clear,72.0,Freight,144.26,12,2,4,Delayed
+SHP-00231,Factory A,Spanish Wells,Factory A to Spanish Wells,177.2,Medium,Rain,59.2,Van,61.41,5,1,2,Delayed
+SHP-00232,Factory A,Nassau,Factory A to Nassau,23.4,Low,Clear,10.1,Truck,54.68,16,1,1,On Time
+SHP-00233,Factory C,George Town,Factory C to George Town,444.1,Medium,Clear,81.8,Truck,168.19,14,2,2,On Time
+SHP-00234,Factory B,Nassau,Factory B to Nassau,41.2,Medium,Clear,26.3,Truck,78.22,6,1,1,On Time
+SHP-00235,Factory C,George Town,Factory C to George Town,426.8,Medium,Clear,61.3,Truck,141.83,12,2,2,On Time
+SHP-00236,Factory C,George Town,Factory C to George Town,421.5,Low,Clear,18.2,Freight,219.15,11,2,2,On Time
+SHP-00237,Factory A,George Town,Factory A to George Town,368.6,Medium,Clear,15.6,Van,104.86,15,2,2,On Time
+SHP-00238,Factory B,Nassau,Factory B to Nassau,76.2,Low,Clear,151.9,Truck,74.42,12,1,1,On Time
+SHP-00239,Factory A,Freeport,Factory A to Freeport,222.4,Low,Rain,18.4,Van,73.21,11,1,1,On Time
+SHP-00240,Factory A,George Town,Factory A to George Town,407.6,Medium,Clear,83.5,Truck,149.04,17,2,2,On Time
+SHP-00241,Factory C,Nassau,Factory C to Nassau,83.7,Low,Clear,39.9,Truck,60.76,12,1,1,On Time
+SHP-00242,Factory B,Nassau,Factory B to Nassau,71.0,Low,Rain,27.0,Van,47.51,17,1,3,Delayed
+SHP-00243,Factory A,Nassau,Factory A to Nassau,12.0,Medium,Clear,35.4,Truck,33.51,18,1,1,On Time
+SHP-00244,Factory B,Spanish Wells,Factory B to Spanish Wells,202.5,Low,Rain,14.3,Truck,85.34,17,1,2,Delayed
+SHP-00245,Factory B,Marsh Harbour,Factory B to Marsh Harbour,305.2,High,Clear,36.2,Freight,191.45,19,2,4,Delayed
+SHP-00246,Factory C,Marsh Harbour,Factory C to Marsh Harbour,339.3,High,Clear,16.8,Freight,192.33,15,2,2,On Time
+SHP-00247,Factory B,George Town,Factory B to George Town,418.8,Medium,Clear,27.5,Truck,117.88,13,2,2,On Time
+SHP-00248,Factory A,Freeport,Factory A to Freeport,192.2,High,Rain,71.3,Van,78.07,12,1,1,On Time
+SHP-00249,Factory A,Freeport,Factory A to Freeport,183.0,High,Clear,43.9,Truck,91.12,8,1,2,Delayed
+SHP-00250,Factory A,Freeport,Factory A to Freeport,197.2,Low,Clear,12.6,Van,57.55,17,1,2,Delayed
+SHP-00251,Factory B,Marsh Harbour,Factory B to Marsh Harbour,312.2,Medium,Storm,67.6,Truck,145.85,15,2,3,Delayed
+SHP-00252,Factory C,Nassau,Factory C to Nassau,95.4,Low,Clear,,Van,40.75,18,1,1,On Time
+SHP-00253,Factory A,George Town,Factory A to George Town,365.4,Medium,Rain,24.8,Truck,130.2,15,2,3,Delayed
+SHP-00254,Factory A,George Town,Factory A to George Town,372.3,Medium,Rain,62.7,Freight,204.46,12,2,2,On Time
+SHP-00255,Factory A,Freeport,Factory A to Freeport,197.0,Low,Rain,32.4,Freight,169.82,9,1,2,Delayed
+SHP-00256,Factory B,Marsh Harbour,Factory B to Marsh Harbour,295.6,Low,Rain,15.8,Truck,109.56,19,2,2,On Time
+SHP-00257,Factory C,Nassau,Factory C to Nassau,58.5,High,Storm,138.4,Van,72.91,16,1,2,Delayed
+SHP-00258,Factory A,Spanish Wells,Factory A to Spanish Wells,139.4,Low,Clear,36.1,Truck,65.63,18,1,1,On Time
+SHP-00259,Factory A,Spanish Wells,Factory A to Spanish Wells,150.2,Low,Rain,34.5,Van,47.99,13,1,2,Delayed
+SHP-00260,Factory B,Spanish Wells,Factory B to Spanish Wells,188.6,Low,Rain,27.3,Truck,80.37,12,1,1,On Time
+SHP-00261,Factory A,Freeport,Factory A to Freeport,188.7,Medium,Clear,85.6,Truck,80.93,5,1,1,On Time
+SHP-00262,Factory C,Nassau,Factory C to Nassau,80.9,High,Clear,25.1,Van,47.55,6,1,1,On Time
+SHP-00263,Factory A,Nassau,Factory A to Nassau,54.1,Medium,Storm,12.0,Truck,84.91,15,1,2,Delayed
+SHP-00264,Factory A,Nassau,Factory A to Nassau,12.0,Medium,Clear,22.5,Van,32.63,8,1,3,Delayed
+SHP-00265,Factory C,Nassau,Factory C to Nassau,79.3,Low,Clear,95.1,Van,57.81,6,1,1,On Time
+SHP-00266,Factory A,Nassau,Factory A to Nassau,53.4,Low,Clear,66.6,Truck,64.15,16,1,2,Delayed
+SHP-00267,Factory A,Spanish Wells,Factory A to Spanish Wells,157.5,Medium,Clear,30.5,Truck,101.23,14,1,1,On Time
+SHP-00268,Factory A,Nassau,Factory A to Nassau,24.7,High,Rain,,Van,59.8,6,1,1,On Time
+SHP-00269,Factory A,Nassau,Factory A to Nassau,55.9,Medium,Clear,62.7,Van,45.21,12,1,1,On Time
+SHP-00270,Factory A,George Town,Factory A to George Town,384.5,Medium,Rain,30.2,Truck,132.1,12,2,2,On Time
+SHP-00271,Factory A,Marsh Harbour,Factory A to Marsh Harbour,299.9,Medium,Rain,32.5,Truck,128.51,5,2,2,On Time
+SHP-00272,Factory A,George Town,Factory A to George Town,397.7,Medium,Clear,46.4,Van,94.71,14,2,2,On Time
+SHP-00273,Factory A,Marsh Harbour,Factory A to Marsh Harbour,273.8,Medium,Rain,20.1,Van,67.68,10,1,2,Delayed
+SHP-00274,Factory B,George Town,Factory B to George Town,420.6,Medium,Clear,36.7,Freight,238.37,18,2,2,On Time
+SHP-00275,Factory B,Marsh Harbour,Factory B to Marsh Harbour,307.8,Medium,Rain,45.7,Truck,106.09,6,2,2,On Time
+SHP-00276,Factory A,Freeport,Factory A to Freeport,228.4,Medium,Storm,10.9,Van,97.37,17,1,4,Delayed
+SHP-00277,Factory A,Marsh Harbour,Factory A to Marsh Harbour,270.1,High,Clear,31.9,Van,76.83,5,1,3,Delayed
+SHP-00278,Factory B,Freeport,Factory B to Freeport,232.7,Medium,Rain,29.4,Truck,116.51,16,1,4,Delayed
+SHP-00279,Factory C,Freeport,Factory C to Freeport,256.9,Low,Clear,76.7,Truck,112.08,16,1,2,Delayed
+SHP-00280,Factory C,Freeport,Factory C to Freeport,270.7,Low,Clear,9.7,Truck,103.1,11,2,1,On Time
+SHP-00281,Factory A,Nassau,Factory A to Nassau,16.5,Medium,Rain,27.8,Freight,129.55,9,1,1,On Time
+SHP-00282,Factory A,George Town,Factory A to George Town,408.3,Medium,Clear,25.9,Truck,135.29,7,2,2,On Time
+SHP-00283,Factory A,Nassau,Factory A to Nassau,43.4,Medium,Clear,73.1,Van,63.81,10,1,2,Delayed
+SHP-00284,Factory A,Nassau,Factory A to Nassau,12.0,Medium,Clear,35.5,Van,37.54,15,1,1,On Time
+SHP-00285,Factory B,Nassau,Factory B to Nassau,78.7,Low,Clear,133.4,Truck,47.96,15,1,1,On Time
+SHP-00286,Factory A,George Town,Factory A to George Town,430.2,Medium,Rain,59.0,Freight,232.36,7,2,2,On Time
+SHP-00287,Factory A,Freeport,Factory A to Freeport,228.0,Medium,Clear,27.2,Van,67.26,5,1,2,Delayed
+SHP-00288,Factory A,Marsh Harbour,Factory A to Marsh Harbour,305.7,,Clear,43.5,Truck,109.48,13,2,2,On Time
+SHP-00289,Factory B,George Town,Factory B to George Town,413.5,Medium,Clear,28.4,Van,84.53,13,2,2,On Time
+SHP-00290,Factory A,Nassau,Factory A to Nassau,12.0,Low,Rain,67.9,Van,37.34,19,1,3,Delayed
+SHP-00291,Factory C,George Town,Factory C to George Town,404.8,Medium,Clear,14.0,Truck,117.17,16,2,3,Delayed
+SHP-00292,Factory A,Nassau,Factory A to Nassau,39.6,Medium,Clear,20.2,Van,15.0,13,1,1,On Time
+SHP-00293,Factory C,Nassau,Factory C to Nassau,72.3,High,Clear,50.8,Van,46.91,13,1,3,Delayed
+SHP-00294,Factory A,Marsh Harbour,Factory A to Marsh Harbour,263.5,Medium,Clear,88.5,Truck,95.96,14,1,3,Delayed
+SHP-00295,Factory C,Spanish Wells,Factory C to Spanish Wells,211.9,Low,Storm,7.5,Freight,168.26,11,1,2,Delayed
+SHP-00296,Factory C,Nassau,Factory C to Nassau,94.1,Medium,Clear,98.5,Van,15.0,15,1,1,On Time
+SHP-00297,Factory C,Marsh Harbour,Factory C to Marsh Harbour,301.9,Medium,Clear,33.1,Van,73.3,7,2,3,Delayed
+SHP-00298,Factory C,Nassau,Factory C to Nassau,74.9,Low,Rain,9.4,Truck,57.61,17,1,3,Delayed
+SHP-00299,Factory B,Freeport,Factory B to Freeport,259.2,High,Clear,4.2,Truck,102.22,17,1,4,Delayed
+SHP-00300,Factory B,Marsh Harbour,Factory B to Marsh Harbour,282.6,Low,Clear,12.2,Truck,104.26,11,2,2,On Time
+SHP-00301,Factory B,Marsh Harbour,Factory B to Marsh Harbour,317.7,Low,Clear,36.1,Van,97.42,11,2,1,On Time
+SHP-00302,Factory A,Marsh Harbour,Factory A to Marsh Harbour,271.3,Low,Clear,34.9,Van,78.01,12,1,1,On Time
+SHP-00303,Factory B,Nassau,Factory B to Nassau,66.8,Low,Rain,57.7,Van,54.76,17,1,1,On Time
+SHP-00304,Factory B,Marsh Harbour,Factory B to Marsh Harbour,321.8,High,Rain,24.6,Truck,146.55,7,2,4,Delayed
+SHP-00305,Factory C,Marsh Harbour,Factory C to Marsh Harbour,341.3,Medium,Rain,16.5,Van,85.69,10,2,2,On Time
+SHP-00306,Factory A,Marsh Harbour,Factory A to Marsh Harbour,296.4,Low,Rain,27.2,Freight,192.21,14,2,3,Delayed
+SHP-00307,Factory A,Nassau,Factory A to Nassau,14.3,Medium,Clear,37.5,Van,41.1,15,1,1,On Time
+SHP-00308,Factory B,Freeport,Factory B to Freeport,252.0,Medium,Clear,43.2,Van,69.46,9,1,2,Delayed
+SHP-00309,Factory A,Freeport,Factory A to Freeport,194.7,Low,Clear,20.7,Freight,140.75,6,1,2,Delayed
+SHP-00310,Factory A,Nassau,Factory A to Nassau,39.7,Low,Storm,70.0,Truck,77.0,12,1,1,On Time
+SHP-00311,Factory A,Nassau,Factory A to Nassau,39.6,Medium,Rain,23.4,Van,23.27,14,1,1,On Time
+SHP-00312,Factory A,Freeport,Factory A to Freeport,218.7,Low,Clear,19.6,Freight,143.87,16,2,2,On Time
+SHP-00313,Factory A,George Town,Factory A to George Town,396.1,Medium,Rain,24.8,Van,100.87,5,2,2,On Time
+SHP-00314,Factory A,Nassau,Factory A to Nassau,19.8,Low,Rain,79.4,Truck,55.93,5,1,1,On Time
+SHP-00315,Factory A,George Town,Factory A to George Town,365.7,Medium,,33.3,Freight,215.19,10,2,3,Delayed
+SHP-00316,Factory A,Freeport,Factory A to Freeport,225.7,High,Rain,22.2,Truck,123.41,13,1,2,Delayed
+SHP-00317,Factory A,George Town,Factory A to George Town,393.3,,Clear,71.3,Truck,116.96,5,2,2,On Time
+SHP-00318,Factory B,Freeport,Factory B to Freeport,252.7,Low,Clear,171.2,Truck,88.98,7,1,1,On Time
+SHP-00319,Factory A,Freeport,Factory A to Freeport,209.2,High,Clear,42.6,Truck,106.53,11,1,2,Delayed
+SHP-00320,Factory C,Marsh Harbour,Factory C to Marsh Harbour,302.7,Medium,Clear,89.0,Truck,104.49,9,2,2,On Time
+SHP-00321,Factory C,Spanish Wells,Factory C to Spanish Wells,230.4,Medium,Storm,77.2,Van,89.55,15,1,3,Delayed
+SHP-00322,Factory A,Freeport,Factory A to Freeport,203.3,Low,Clear,23.7,Freight,130.47,5,1,3,Delayed
+SHP-00323,Factory A,Freeport,Factory A to Freeport,216.2,Low,Clear,37.3,Truck,89.08,18,1,1,On Time
+SHP-00324,Factory B,Marsh Harbour,Factory B to Marsh Harbour,290.3,Medium,Clear,14.5,Van,98.59,7,1,1,On Time
+SHP-00325,Factory C,Marsh Harbour,Factory C to Marsh Harbour,357.6,High,Clear,31.6,Freight,199.88,11,2,2,On Time
+SHP-00326,Factory B,Nassau,Factory B to Nassau,41.2,Low,Clear,23.3,Freight,119.61,19,1,1,On Time
+SHP-00327,Factory C,Freeport,Factory C to Freeport,251.9,Medium,Clear,27.4,Truck,98.59,14,1,1,On Time
+SHP-00328,Factory B,Freeport,Factory B to Freeport,233.9,Medium,Rain,21.3,Truck,81.68,19,1,2,Delayed
+SHP-00329,Factory B,Spanish Wells,Factory B to Spanish Wells,167.3,Low,Clear,29.8,Van,40.99,5,1,1,On Time
+SHP-00330,Factory A,Freeport,Factory A to Freeport,215.9,Low,Clear,53.7,Freight,145.85,15,1,3,Delayed
+SHP-00331,Factory B,Freeport,Factory B to Freeport,261.0,Low,Clear,33.6,Van,65.98,6,1,2,Delayed
+SHP-00332,Factory A,Spanish Wells,Factory A to Spanish Wells,156.2,Medium,Clear,9.6,Truck,81.44,14,1,1,On Time
+SHP-00333,Factory B,Freeport,Factory B to Freeport,239.1,Medium,Rain,21.4,Van,101.01,9,1,2,Delayed
+SHP-00334,Factory C,Nassau,Factory C to Nassau,33.5,Medium,Rain,12.3,Van,21.99,16,1,3,Delayed
+SHP-00335,Factory A,Nassau,Factory A to Nassau,34.3,Low,Clear,43.6,Van,21.53,6,1,1,On Time
+SHP-00336,Factory B,Nassau,Factory B to Nassau,51.4,Medium,Storm,52.6,Freight,130.48,18,1,3,Delayed
+SHP-00337,Factory A,Nassau,Factory A to Nassau,20.3,Medium,Rain,44.0,Van,23.5,12,1,1,On Time
+SHP-00338,Factory B,Freeport,Factory B to Freeport,251.5,Medium,Clear,20.8,Van,74.28,12,1,2,Delayed
+SHP-00339,Factory A,George Town,Factory A to George Town,384.1,Medium,Clear,43.7,Van,99.84,13,2,2,On Time
+SHP-00340,Factory C,Marsh Harbour,Factory C to Marsh Harbour,324.8,Low,Clear,26.1,Van,59.64,5,2,2,On Time
+SHP-00341,Factory A,Nassau,Factory A to Nassau,28.2,Medium,Rain,16.1,Van,38.62,9,1,1,On Time
+SHP-00342,Factory C,Marsh Harbour,Factory C to Marsh Harbour,293.5,Medium,Clear,62.4,Truck,96.16,15,2,2,On Time
+SHP-00343,Factory C,Nassau,Factory C to Nassau,62.6,Medium,Clear,66.0,Van,40.33,19,1,1,On Time
+SHP-00344,Factory B,Spanish Wells,Factory B to Spanish Wells,204.3,Low,Rain,72.5,Van,84.76,19,1,1,On Time
+SHP-00345,Factory B,Nassau,Factory B to Nassau,19.0,Medium,Rain,23.6,Truck,59.11,13,1,1,On Time
+SHP-00346,Factory B,Marsh Harbour,Factory B to Marsh Harbour,288.2,Medium,Clear,85.6,Truck,112.7,8,2,1,On Time
+SHP-00347,Factory C,Freeport,Factory C to Freeport,250.8,Low,Rain,25.7,Van,68.98,12,1,1,On Time
+SHP-00348,Factory A,Marsh Harbour,Factory A to Marsh Harbour,311.4,High,Clear,58.6,Van,97.78,11,2,2,On Time
+SHP-00349,Factory B,Freeport,Factory B to Freeport,245.8,High,Rain,25.3,Truck,122.56,10,1,2,Delayed
+SHP-00350,Factory A,George Town,Factory A to George Town,380.0,Low,Clear,31.1,Truck,128.52,10,2,2,On Time
+SHP-00351,Factory B,Nassau,Factory B to Nassau,80.5,Medium,Clear,6.4,Truck,57.64,18,1,1,On Time
+SHP-00352,Factory A,Spanish Wells,Factory A to Spanish Wells,151.7,Medium,Storm,29.4,Freight,171.11,10,1,3,Delayed
+SHP-00353,Factory B,Freeport,Factory B to Freeport,250.2,High,Clear,39.1,Freight,166.63,5,2,2,On Time
+SHP-00354,Factory B,George Town,Factory B to George Town,387.5,Low,Clear,27.2,Van,84.58,15,2,2,On Time
+SHP-00355,Factory A,George Town,Factory A to George Town,409.3,Low,Clear,129.6,Truck,143.11,14,2,2,On Time
+SHP-00356,Factory B,Spanish Wells,Factory B to Spanish Wells,179.7,Medium,Clear,15.8,Van,69.27,10,1,2,Delayed
+SHP-00357,Factory B,Nassau,Factory B to Nassau,38.5,Low,Clear,24.4,Van,28.02,14,1,1,On Time
+SHP-00358,Factory B,Nassau,Factory B to Nassau,53.1,Medium,Clear,19.1,Freight,134.28,19,1,1,On Time
+SHP-00359,Factory A,Nassau,Factory A to Nassau,40.0,Medium,Rain,24.4,Truck,64.52,18,1,1,On Time
+SHP-00360,Factory B,Nassau,Factory B to Nassau,48.1,Low,Rain,76.9,Truck,54.11,16,1,1,On Time
+SHP-00361,Factory C,Marsh Harbour,Factory C to Marsh Harbour,338.0,Medium,Clear,106.1,Van,80.48,13,2,2,On Time
+SHP-00362,Factory A,Spanish Wells,Factory A to Spanish Wells,154.5,High,Clear,22.1,Truck,103.9,5,1,2,Delayed
+SHP-00363,Factory A,Spanish Wells,Factory A to Spanish Wells,176.2,Medium,Rain,21.7,Van,76.13,12,1,3,Delayed
+SHP-00364,Factory A,Freeport,Factory A to Freeport,218.0,Medium,Clear,15.9,Van,88.03,17,1,1,On Time
+SHP-00365,Factory B,Marsh Harbour,Factory B to Marsh Harbour,300.9,Low,Clear,93.7,Truck,133.89,17,2,2,On Time
+SHP-00366,Factory A,George Town,Factory A to George Town,382.1,,Clear,82.0,Truck,110.54,16,2,2,On Time
+SHP-00367,Factory B,Spanish Wells,Factory B to Spanish Wells,189.7,High,Clear,33.9,Van,56.83,19,1,2,Delayed
+SHP-00368,Factory B,Nassau,Factory B to Nassau,66.9,Medium,Clear,13.4,Freight,85.84,12,1,1,On Time
+SHP-00369,Factory A,Freeport,Factory A to Freeport,247.1,,Rain,14.3,Van,90.9,6,1,1,On Time
+SHP-00370,Factory C,George Town,Factory C to George Town,454.9,High,Storm,41.4,Truck,188.57,12,2,4,Delayed
+SHP-00371,Factory B,Nassau,Factory B to Nassau,74.6,Low,Clear,54.4,Van,36.88,9,1,1,On Time
+SHP-00372,Factory A,Freeport,Factory A to Freeport,265.6,Medium,,8.3,Truck,86.79,17,1,2,Delayed
+SHP-00373,Factory A,Spanish Wells,Factory A to Spanish Wells,174.3,Low,Clear,29.0,Van,51.93,16,1,2,Delayed
+SHP-00374,Factory A,Spanish Wells,Factory A to Spanish Wells,173.7,Low,Clear,117.4,Van,60.85,11,1,1,On Time
+SHP-00375,Factory A,Spanish Wells,Factory A to Spanish Wells,177.7,Medium,Rain,31.3,Truck,99.83,10,1,3,Delayed
+SHP-00376,Factory A,George Town,Factory A to George Town,371.8,Medium,Clear,107.0,Van,104.87,7,2,2,On Time
+SHP-00377,Factory C,Nassau,Factory C to Nassau,75.0,High,Storm,58.4,Van,84.01,5,1,2,Delayed
+SHP-00378,Factory A,Freeport,Factory A to Freeport,200.9,Low,Clear,16.8,Truck,79.56,9,1,1,On Time
+SHP-00379,Factory A,Freeport,Factory A to Freeport,221.7,High,Clear,29.6,Van,92.22,8,1,3,Delayed
+SHP-00380,Factory B,Marsh Harbour,Factory B to Marsh Harbour,298.9,Medium,Clear,33.4,Freight,193.44,8,2,2,On Time
+SHP-00381,Factory B,Freeport,Factory B to Freeport,234.5,Medium,Clear,18.4,Van,55.51,19,1,4,Delayed
+SHP-00382,Factory C,Marsh Harbour,Factory C to Marsh Harbour,347.6,High,Rain,18.2,Truck,155.53,15,2,4,Delayed
+SHP-00383,Factory B,Freeport,Factory B to Freeport,247.5,Medium,Rain,108.3,Van,100.77,13,1,2,Delayed
+SHP-00384,Factory A,George Town,Factory A to George Town,387.1,Medium,Clear,18.1,Truck,135.52,7,2,2,On Time
+SHP-00385,Factory A,Freeport,Factory A to Freeport,197.9,Low,Clear,79.6,Van,64.14,17,1,1,On Time
+SHP-00386,Factory C,Freeport,Factory C to Freeport,278.4,Low,Clear,26.7,Van,92.53,14,1,2,Delayed
+SHP-00387,Factory B,Nassau,Factory B to Nassau,70.9,High,Rain,35.9,Truck,56.5,12,1,1,On Time
+SHP-00388,Factory C,Nassau,Factory C to Nassau,54.1,Medium,Clear,54.8,Truck,70.08,11,1,2,Delayed
+SHP-00389,Factory A,George Town,Factory A to George Town,384.4,Low,Clear,23.8,Freight,197.75,13,2,2,On Time
+SHP-00390,Factory C,Freeport,Factory C to Freeport,261.0,Low,Clear,55.1,Truck,109.93,17,1,2,Delayed
+SHP-00391,Factory B,Nassau,Factory B to Nassau,71.0,Medium,Clear,8.4,Van,39.48,15,1,1,On Time
+SHP-00392,Factory A,George Town,Factory A to George Town,406.4,Medium,Clear,50.2,Van,89.56,12,2,2,On Time
+SHP-00393,Factory B,Freeport,Factory B to Freeport,237.1,Low,Clear,6.2,Van,57.49,15,1,1,On Time
+SHP-00394,Factory B,Nassau,Factory B to Nassau,67.5,Medium,Clear,31.1,Truck,69.34,18,1,1,On Time
+SHP-00395,Factory A,Nassau,Factory A to Nassau,36.2,Medium,Clear,67.7,Truck,49.19,9,1,1,On Time
+SHP-00396,Factory A,Nassau,Factory A to Nassau,22.9,Medium,Clear,57.3,Truck,40.67,18,1,3,Delayed
+SHP-00397,Factory C,Marsh Harbour,Factory C to Marsh Harbour,323.3,Low,Rain,14.4,Van,80.82,14,2,2,On Time
+SHP-00398,Factory A,Nassau,Factory A to Nassau,35.3,Medium,Clear,15.8,Freight,119.14,7,1,1,On Time
+SHP-00399,Factory A,Nassau,Factory A to Nassau,34.4,Low,Clear,22.3,Freight,126.42,19,1,1,On Time
+SHP-00400,Factory A,Nassau,Factory A to Nassau,12.0,Medium,Clear,41.8,Truck,19.16,15,1,2,Delayed
+SHP-00401,Factory A,Marsh Harbour,Factory A to Marsh Harbour,272.8,Medium,Clear,8.5,Truck,136.78,10,2,3,Delayed
+SHP-00402,Factory C,Nassau,Factory C to Nassau,84.0,Medium,Rain,36.3,Truck,71.58,8,1,1,On Time
+SHP-00403,Factory B,George Town,Factory B to George Town,406.9,Low,Clear,45.8,Freight,217.5,18,2,2,On Time
+SHP-00404,Factory A,Nassau,Factory A to Nassau,30.6,High,Clear,29.9,Truck,53.3,17,1,1,On Time
+SHP-00405,Factory C,Marsh Harbour,Factory C to Marsh Harbour,336.8,Low,Rain,53.4,Truck,122.09,5,2,1,On Time
+SHP-00406,Factory C,Freeport,Factory C to Freeport,238.6,Medium,Rain,43.0,Van,82.44,14,1,1,On Time
+SHP-00407,Factory A,Freeport,Factory A to Freeport,180.7,High,Rain,24.8,Van,65.36,6,1,2,Delayed
+SHP-00408,Factory C,Nassau,Factory C to Nassau,76.7,Medium,Clear,9.1,Truck,48.43,9,1,1,On Time
+SHP-00409,Factory A,George Town,Factory A to George Town,403.8,High,Clear,40.3,Van,127.56,13,2,3,Delayed
+SHP-00410,Factory C,Spanish Wells,Factory C to Spanish Wells,243.4,Medium,Rain,18.4,Truck,86.27,8,1,1,On Time
+SHP-00411,Factory B,Nassau,Factory B to Nassau,71.1,Medium,Clear,24.1,Truck,62.85,12,1,1,On Time
+SHP-00412,Factory B,Nassau,Factory B to Nassau,30.6,Medium,Rain,51.7,Truck,53.18,11,1,1,On Time
+SHP-00413,Factory A,Spanish Wells,Factory A to Spanish Wells,160.8,Medium,Rain,101.5,Truck,78.53,13,1,3,Delayed
+SHP-00414,Factory C,Freeport,Factory C to Freeport,262.6,Low,Clear,35.6,Freight,193.44,17,2,3,Delayed
+SHP-00415,Factory A,Nassau,Factory A to Nassau,38.2,Medium,Clear,54.5,Van,23.35,7,1,1,On Time
+SHP-00416,Factory A,Nassau,Factory A to Nassau,44.7,Low,Clear,12.9,Van,15.0,16,1,1,On Time
+SHP-00417,Factory A,Marsh Harbour,Factory A to Marsh Harbour,263.5,High,Clear,43.7,Truck,110.55,8,1,2,Delayed
+SHP-00418,Factory B,Marsh Harbour,Factory B to Marsh Harbour,303.2,Low,Clear,35.1,Van,68.67,5,2,1,On Time
+SHP-00419,Factory A,Marsh Harbour,Factory A to Marsh Harbour,287.6,Low,Rain,88.7,Freight,186.71,11,2,2,On Time
+SHP-00420,Factory C,Spanish Wells,Factory C to Spanish Wells,227.9,High,Clear,,Truck,105.52,9,1,2,Delayed
+SHP-00421,Factory B,Freeport,Factory B to Freeport,217.5,Low,Rain,30.8,Freight,167.79,7,1,2,Delayed
+SHP-00422,Factory A,Nassau,Factory A to Nassau,28.8,Medium,Clear,78.4,Van,33.08,11,1,3,Delayed
+SHP-00423,Factory A,Freeport,Factory A to Freeport,161.3,Medium,Rain,34.3,Van,56.45,18,1,1,On Time
+SHP-00424,Factory A,Freeport,Factory A to Freeport,198.8,Low,Clear,16.5,Truck,88.27,13,1,1,On Time
+SHP-00425,Factory B,Nassau,Factory B to Nassau,47.6,Low,Rain,229.8,Van,48.64,15,1,1,On Time
+SHP-00426,Factory C,Nassau,Factory C to Nassau,64.6,Medium,Rain,16.8,Van,39.42,7,1,1,On Time
+SHP-00427,Factory A,Freeport,Factory A to Freeport,213.0,Low,Clear,34.9,Freight,173.62,6,1,2,Delayed
+SHP-00428,Factory C,Marsh Harbour,Factory C to Marsh Harbour,327.0,Low,Clear,47.0,Freight,186.75,10,2,2,On Time
+SHP-00429,Factory A,Nassau,Factory A to Nassau,12.0,Low,Rain,44.4,Truck,60.08,16,1,1,On Time
+SHP-00430,Factory C,Freeport,Factory C to Freeport,261.9,Medium,Clear,31.9,Freight,190.17,18,2,2,On Time
+SHP-00431,Factory C,Marsh Harbour,Factory C to Marsh Harbour,311.3,,Rain,32.0,Freight,206.74,6,2,2,On Time
+SHP-00432,Factory B,Marsh Harbour,Factory B to Marsh Harbour,310.7,Low,Storm,30.9,Van,111.34,12,2,3,Delayed
+SHP-00433,Factory B,George Town,Factory B to George Town,388.9,Medium,Rain,16.4,Truck,138.26,10,2,2,On Time
+SHP-00434,Factory C,George Town,Factory C to George Town,438.5,Medium,Clear,172.1,Truck,148.69,16,2,2,On Time
+SHP-00435,Factory A,Marsh Harbour,Factory A to Marsh Harbour,274.9,Low,Clear,31.2,Truck,95.86,8,2,2,On Time
+SHP-00436,Factory A,Nassau,Factory A to Nassau,40.5,Low,Storm,56.2,Truck,44.12,12,1,3,Delayed
+SHP-00437,Factory A,Freeport,Factory A to Freeport,212.2,High,Clear,28.8,Freight,180.05,17,1,3,Delayed
+SHP-00438,Factory B,Marsh Harbour,Factory B to Marsh Harbour,297.4,Medium,Clear,28.3,Truck,112.75,11,2,2,On Time
+SHP-00439,Factory B,Nassau,Factory B to Nassau,29.3,Medium,Clear,26.4,Van,41.19,16,1,1,On Time
+SHP-00440,Factory B,Nassau,Factory B to Nassau,30.4,Medium,Rain,12.0,Van,37.15,14,1,2,Delayed
+SHP-00441,Factory C,Nassau,Factory C to Nassau,72.5,Low,Clear,32.6,Van,41.87,13,1,1,On Time
+SHP-00442,Factory A,Freeport,Factory A to Freeport,209.9,High,Clear,27.3,Truck,83.11,8,1,2,Delayed
+SHP-00443,Factory B,Freeport,Factory B to Freeport,221.1,High,Clear,85.1,Van,67.51,19,1,2,Delayed
+SHP-00444,Factory A,Nassau,Factory A to Nassau,46.3,High,Rain,15.5,Van,22.09,8,1,1,On Time
+SHP-00445,Factory A,George Town,Factory A to George Town,385.0,Low,Clear,24.2,Van,91.11,18,2,2,On Time
+SHP-00446,Factory B,Spanish Wells,Factory B to Spanish Wells,169.6,Low,Rain,19.2,Truck,72.7,19,1,2,Delayed
+SHP-00447,Factory C,Nassau,Factory C to Nassau,78.0,Low,Rain,103.4,Van,36.7,12,1,1,On Time
+SHP-00448,Factory B,Spanish Wells,Factory B to Spanish Wells,191.1,Low,Storm,19.6,Truck,106.95,18,1,2,Delayed
+SHP-00449,Factory A,Nassau,Factory A to Nassau,40.8,Low,Rain,54.9,Van,32.21,15,1,1,On Time
+SHP-00450,Factory B,Spanish Wells,Factory B to Spanish Wells,220.8,Medium,Clear,73.6,Truck,77.27,16,1,2,Delayed
+SHP-00451,Factory A,Spanish Wells,Factory A to Spanish Wells,153.0,Low,Clear,32.9,Truck,101.37,6,1,2,Delayed
+SHP-00452,Factory C,Nassau,Factory C to Nassau,81.7,High,Clear,13.6,Van,49.96,7,1,3,Delayed
+SHP-00453,Factory B,George Town,Factory B to George Town,419.7,Low,Storm,13.7,Truck,142.22,6,2,2,On Time
+SHP-00454,Factory A,Spanish Wells,Factory A to Spanish Wells,164.6,Low,Clear,68.0,Freight,135.43,5,1,4,Delayed
+SHP-00455,Factory A,Spanish Wells,Factory A to Spanish Wells,156.0,High,Clear,14.8,Freight,153.12,17,1,1,On Time
+SHP-00456,Factory A,Spanish Wells,Factory A to Spanish Wells,137.1,Medium,Rain,48.5,Truck,79.86,7,1,1,On Time
+SHP-00457,Factory C,Freeport,Factory C to Freeport,248.8,Low,Clear,39.7,Truck,108.83,5,1,2,Delayed
+SHP-00458,Factory A,Nassau,Factory A to Nassau,15.7,Medium,Rain,48.0,Truck,53.06,19,1,2,Delayed
+SHP-00459,Factory B,George Town,Factory B to George Town,380.9,Low,Clear,51.4,Freight,225.71,9,2,2,On Time
+SHP-00460,Factory B,Marsh Harbour,Factory B to Marsh Harbour,287.7,Low,Clear,18.7,Van,68.69,17,1,2,Delayed
+SHP-00461,Factory B,Marsh Harbour,Factory B to Marsh Harbour,283.2,Medium,Clear,18.1,Truck,111.16,19,2,2,On Time
+SHP-00462,Factory A,Freeport,Factory A to Freeport,220.5,Low,Clear,61.2,Van,76.14,12,1,1,On Time
+SHP-00463,Factory C,Marsh Harbour,Factory C to Marsh Harbour,338.8,Medium,Clear,23.3,Truck,133.43,18,2,4,Delayed
+SHP-00464,Factory A,Nassau,Factory A to Nassau,18.7,Low,Rain,5.1,Van,45.63,19,1,2,Delayed
+SHP-00465,Factory B,Marsh Harbour,Factory B to Marsh Harbour,297.3,Medium,Clear,58.4,Van,81.02,7,1,3,Delayed
+SHP-00466,Factory B,Nassau,Factory B to Nassau,23.6,Medium,Clear,17.4,Truck,46.23,7,1,2,Delayed
+SHP-00467,Factory B,Marsh Harbour,Factory B to Marsh Harbour,293.1,Low,Rain,51.2,Freight,157.11,10,2,2,On Time
+SHP-00468,Factory C,George Town,Factory C to George Town,445.2,Low,Rain,99.8,Truck,147.03,13,2,2,On Time
+SHP-00469,Factory A,Freeport,Factory A to Freeport,224.8,Medium,Clear,37.0,Van,82.21,16,1,3,Delayed
+SHP-00470,Factory B,Freeport,Factory B to Freeport,219.2,Medium,Storm,75.0,Van,105.29,7,1,2,Delayed
+SHP-00471,Factory A,Nassau,Factory A to Nassau,53.9,Medium,Clear,40.9,Freight,116.49,7,1,1,On Time
+SHP-00472,Factory A,Spanish Wells,Factory A to Spanish Wells,137.7,Medium,Clear,114.8,Van,78.01,9,1,1,On Time
+SHP-00473,Factory A,Marsh Harbour,Factory A to Marsh Harbour,257.5,Medium,,17.0,Freight,169.09,9,2,2,On Time
+SHP-00474,Factory A,Freeport,Factory A to Freeport,222.8,Low,Rain,36.4,Truck,86.47,19,1,3,Delayed
+SHP-00475,Factory A,Nassau,Factory A to Nassau,65.1,Medium,Clear,59.4,Freight,115.69,10,1,2,Delayed
+SHP-00476,Factory A,Nassau,Factory A to Nassau,43.9,Low,Clear,31.9,Truck,32.22,18,1,1,On Time
+SHP-00477,Factory A,Freeport,Factory A to Freeport,209.3,Medium,Rain,83.9,Van,84.69,5,1,2,Delayed
+SHP-00478,Factory B,Spanish Wells,Factory B to Spanish Wells,147.5,Low,Clear,26.8,Truck,72.73,6,1,1,On Time
+SHP-00479,Factory B,Marsh Harbour,Factory B to Marsh Harbour,265.6,Low,Clear,162.4,Freight,182.37,17,2,2,On Time
+SHP-00480,Factory A,Nassau,Factory A to Nassau,37.3,Medium,Rain,168.7,Freight,120.38,8,1,1,On Time
+SHP-00481,Factory A,George Town,Factory A to George Town,383.6,Medium,Clear,44.8,Truck,129.77,6,2,2,On Time
+SHP-00482,Factory A,Freeport,Factory A to Freeport,190.1,Medium,Clear,54.5,Van,37.52,13,1,1,On Time
+SHP-00483,Factory B,George Town,Factory B to George Town,413.2,Medium,Clear,86.3,Van,112.63,7,2,2,On Time
+SHP-00484,Factory A,Nassau,Factory A to Nassau,37.1,High,Storm,15.6,Truck,84.5,5,1,2,Delayed
+SHP-00485,Factory A,Marsh Harbour,Factory A to Marsh Harbour,297.0,High,Clear,14.2,Van,78.15,11,1,2,Delayed
+SHP-00486,Factory A,Spanish Wells,Factory A to Spanish Wells,167.5,High,Clear,90.4,Van,70.45,13,1,2,Delayed
+SHP-00487,Factory A,Nassau,Factory A to Nassau,57.1,Medium,Clear,44.6,Van,34.65,12,1,1,On Time
+SHP-00488,Factory A,Marsh Harbour,Factory A to Marsh Harbour,280.1,Medium,Clear,31.1,Truck,127.15,13,2,2,On Time
+SHP-00489,Factory B,Spanish Wells,Factory B to Spanish Wells,184.9,,Storm,36.9,Freight,165.33,5,1,2,Delayed
+SHP-00490,Factory B,Nassau,Factory B to Nassau,76.2,Medium,Clear,6.6,Truck,61.83,9,1,1,On Time
+SHP-00491,Factory B,Nassau,Factory B to Nassau,39.4,Low,Clear,31.9,Van,15.0,10,1,1,On Time
+SHP-00492,Factory B,Marsh Harbour,Factory B to Marsh Harbour,352.7,Medium,Clear,21.3,Truck,115.49,9,2,2,On Time
+SHP-00493,Factory B,Freeport,Factory B to Freeport,238.8,Low,Clear,70.9,Truck,95.79,13,1,1,On Time
+SHP-00494,Factory A,Nassau,Factory A to Nassau,41.9,Low,Clear,74.9,Truck,44.85,8,1,1,On Time
+SHP-00495,Factory B,Freeport,Factory B to Freeport,241.5,High,Storm,,Truck,132.24,14,1,2,Delayed
+SHP-00496,Factory B,George Town,Factory B to George Town,445.8,Low,Rain,48.7,Van,117.86,19,2,2,On Time
+SHP-00497,Factory A,Nassau,Factory A to Nassau,49.3,Medium,Clear,12.5,Van,28.26,14,1,1,On Time
+SHP-00498,Factory B,Freeport,Factory B to Freeport,203.1,Medium,Clear,56.0,Van,76.84,10,1,1,On Time
+SHP-00499,Factory A,George Town,Factory A to George Town,415.3,Low,Clear,57.6,Van,96.99,11,2,2,On Time
+SHP-00500,Factory B,Freeport,Factory B to Freeport,225.9,High,Clear,89.7,Truck,105.27,13,1,2,Delayed
+SHP-00501,Factory B,George Town,Factory B to George Town,413.9,Low,Clear,168.2,Truck,141.94,15,2,2,On Time
+SHP-00502,Factory C,Freeport,Factory C to Freeport,235.0,High,Clear,10.8,Van,82.08,9,1,2,Delayed
+SHP-00503,Factory C,Spanish Wells,Factory C to Spanish Wells,222.5,Medium,Rain,27.7,Van,83.81,5,1,2,Delayed
+SHP-00504,Factory B,Marsh Harbour,Factory B to Marsh Harbour,290.3,Low,Rain,21.4,Van,86.35,15,1,1,On Time
+SHP-00505,Factory B,Nassau,Factory B to Nassau,58.8,Low,Clear,41.4,Truck,55.22,14,1,1,On Time
+SHP-00506,Factory B,George Town,Factory B to George Town,406.9,Low,Rain,37.0,Freight,214.32,6,2,3,Delayed
+SHP-00507,Factory A,Freeport,Factory A to Freeport,244.7,,Clear,30.9,Truck,85.0,14,1,4,Delayed
+SHP-00508,Factory C,Nassau,Factory C to Nassau,118.7,Low,Clear,76.7,Van,28.41,6,1,1,On Time
+SHP-00509,Factory A,Nassau,Factory A to Nassau,35.8,High,Rain,16.6,Truck,47.02,14,1,1,On Time
+SHP-00510,Factory A,Marsh Harbour,Factory A to Marsh Harbour,281.2,Low,Clear,17.3,Van,93.71,16,1,1,On Time
+SHP-00511,Factory A,Nassau,Factory A to Nassau,28.3,High,Clear,17.5,Truck,30.83,5,1,1,On Time
+SHP-00512,Factory C,Nassau,Factory C to Nassau,102.9,Low,Rain,28.2,Van,61.71,15,1,1,On Time
+SHP-00513,Factory A,Nassau,Factory A to Nassau,29.1,High,Clear,15.1,Truck,47.6,6,1,1,On Time
+SHP-00514,Factory A,Freeport,Factory A to Freeport,202.4,Low,Rain,35.3,Van,80.99,8,1,2,Delayed
+SHP-00515,Factory A,Freeport,Factory A to Freeport,227.6,Medium,Clear,32.5,Truck,67.54,15,1,1,On Time
+SHP-00516,Factory A,Freeport,Factory A to Freeport,200.3,Medium,Rain,20.8,Van,68.59,10,1,4,Delayed
+SHP-00517,Factory A,Nassau,Factory A to Nassau,34.3,Low,Clear,68.7,Truck,62.77,19,1,1,On Time
+SHP-00518,Factory B,Nassau,Factory B to Nassau,28.5,High,Clear,35.1,Truck,66.87,19,1,3,Delayed
+SHP-00519,Factory A,Marsh Harbour,Factory A to Marsh Harbour,292.7,Low,Clear,78.7,Van,74.68,19,1,2,Delayed
+SHP-00520,Factory C,Freeport,Factory C to Freeport,292.9,Medium,Rain,31.8,Truck,93.64,6,2,2,On Time
+SHP-00521,Factory C,Marsh Harbour,Factory C to Marsh Harbour,341.0,Medium,Clear,36.0,Truck,104.36,7,2,2,On Time
+SHP-00522,Factory A,Nassau,Factory A to Nassau,61.3,Medium,Rain,24.4,Freight,143.69,7,1,1,On Time
+SHP-00523,Factory A,Nassau,Factory A to Nassau,19.8,Low,Clear,36.4,Van,19.95,13,1,2,Delayed
+SHP-00524,Factory B,Nassau,Factory B to Nassau,61.3,Low,Clear,61.1,Freight,113.44,11,1,2,Delayed
+SHP-00525,Factory A,Freeport,Factory A to Freeport,193.0,Low,Clear,27.2,Truck,83.15,16,1,2,Delayed
+SHP-00526,Factory A,Freeport,Factory A to Freeport,205.9,Low,Clear,53.2,Van,44.94,9,1,1,On Time
+SHP-00527,Factory C,George Town,Factory C to George Town,451.9,Low,Storm,20.4,Van,134.07,7,2,2,On Time
+SHP-00528,Factory C,Freeport,Factory C to Freeport,259.8,High,Clear,63.2,Truck,107.88,14,1,3,Delayed
+SHP-00529,Factory B,Freeport,Factory B to Freeport,206.6,Medium,Rain,24.1,Van,76.34,14,1,1,On Time
+SHP-00530,Factory A,Marsh Harbour,Factory A to Marsh Harbour,256.3,Medium,Clear,67.6,Truck,95.39,15,1,2,Delayed
+SHP-00531,Factory B,Nassau,Factory B to Nassau,32.1,Low,Clear,38.2,Freight,86.45,9,1,1,On Time
+SHP-00532,Factory B,Freeport,Factory B to Freeport,240.8,Low,Clear,109.4,Van,65.73,12,1,1,On Time
+SHP-00533,Factory A,Freeport,Factory A to Freeport,247.2,Medium,Rain,15.9,Van,87.69,18,1,2,Delayed
+SHP-00534,Factory B,Freeport,Factory B to Freeport,256.5,Low,Rain,12.6,Truck,106.35,14,1,1,On Time
+SHP-00535,Factory A,Nassau,Factory A to Nassau,12.0,Low,Clear,23.5,Truck,38.31,18,1,1,On Time
+SHP-00536,Factory A,George Town,Factory A to George Town,415.6,Medium,Clear,13.5,Truck,147.04,11,2,2,On Time
+SHP-00537,Factory B,Spanish Wells,Factory B to Spanish Wells,203.9,Medium,Clear,13.5,Van,61.18,5,1,1,On Time
+SHP-00538,Factory A,Nassau,Factory A to Nassau,12.0,High,Clear,57.3,Van,40.68,16,1,2,Delayed
+SHP-00539,Factory A,Marsh Harbour,Factory A to Marsh Harbour,274.5,Low,Clear,36.5,Van,66.77,11,1,1,On Time
+SHP-00540,Factory C,George Town,Factory C to George Town,457.7,Medium,Clear,25.9,Truck,158.05,5,2,2,On Time
+SHP-00541,Factory C,Nassau,Factory C to Nassau,92.9,Low,Rain,27.7,Van,48.95,7,1,1,On Time
+SHP-00542,Factory B,George Town,Factory B to George Town,388.4,Low,Storm,23.8,Truck,141.84,9,2,2,On Time
+SHP-00543,Factory C,Marsh Harbour,Factory C to Marsh Harbour,339.0,Medium,Storm,120.1,Truck,130.11,7,2,4,Delayed
+SHP-00544,Factory C,Spanish Wells,Factory C to Spanish Wells,174.5,Low,Rain,21.6,Freight,165.88,15,1,1,On Time
+SHP-00545,Factory A,Spanish Wells,Factory A to Spanish Wells,161.0,Medium,Clear,14.1,Van,46.58,14,1,2,Delayed
+SHP-00546,Factory A,Nassau,Factory A to Nassau,55.5,Medium,Rain,64.9,Van,47.63,9,1,1,On Time
+SHP-00547,Factory A,Freeport,Factory A to Freeport,210.3,Low,Clear,31.3,Freight,183.21,6,1,1,On Time
+SHP-00548,Factory A,Freeport,Factory A to Freeport,201.0,High,Clear,158.8,Truck,113.79,6,1,1,On Time
+SHP-00549,Factory B,Nassau,Factory B to Nassau,73.0,Medium,Clear,25.1,Freight,141.65,19,1,1,On Time
+SHP-00550,Factory A,Freeport,Factory A to Freeport,227.5,Medium,Clear,67.3,Van,65.14,10,1,2,Delayed
+SHP-00551,Factory A,Spanish Wells,Factory A to Spanish Wells,188.6,Medium,Storm,79.8,Van,101.87,6,1,2,Delayed
+SHP-00552,Factory A,Nassau,Factory A to Nassau,50.7,High,Rain,25.1,Truck,71.24,15,1,1,On Time
+SHP-00553,Factory A,Freeport,Factory A to Freeport,229.5,Low,Clear,21.4,Truck,92.25,18,1,2,Delayed
+SHP-00554,Factory C,George Town,Factory C to George Town,451.2,Medium,Clear,62.4,Truck,171.15,6,2,2,On Time
+SHP-00555,Factory A,Freeport,Factory A to Freeport,214.8,Medium,Rain,55.4,Truck,96.83,19,1,2,Delayed
+SHP-00556,Factory A,Freeport,Factory A to Freeport,211.6,Low,Clear,13.3,Truck,83.56,15,1,1,On Time
+SHP-00557,Factory A,Spanish Wells,Factory A to Spanish Wells,160.7,Medium,Rain,16.2,Van,52.75,8,1,3,Delayed
+SHP-00558,Factory A,Freeport,Factory A to Freeport,188.2,High,Storm,5.9,Van,104.8,16,1,4,Delayed
+SHP-00559,Factory B,Nassau,Factory B to Nassau,39.8,Medium,Clear,56.2,Truck,45.24,11,1,3,Delayed
+SHP-00560,Factory A,Nassau,Factory A to Nassau,29.9,Medium,Clear,30.3,Van,43.92,14,1,1,On Time
+SHP-00561,Factory A,Spanish Wells,Factory A to Spanish Wells,169.3,Medium,Clear,32.6,Freight,129.75,6,1,1,On Time
+SHP-00562,Factory A,Nassau,Factory A to Nassau,60.9,High,Clear,10.8,Van,52.86,8,1,3,Delayed
+SHP-00563,Factory C,Freeport,Factory C to Freeport,257.2,High,Clear,16.6,Van,76.22,16,1,2,Delayed
+SHP-00564,Factory B,Nassau,Factory B to Nassau,75.1,Medium,Clear,25.9,Van,48.72,17,1,2,Delayed
+SHP-00565,Factory B,Freeport,Factory B to Freeport,251.4,Low,Clear,22.6,Truck,92.79,5,1,1,On Time
+SHP-00566,Factory B,Spanish Wells,Factory B to Spanish Wells,182.8,Low,Clear,39.8,Truck,71.61,8,1,3,Delayed
+SHP-00567,Factory B,Freeport,Factory B to Freeport,242.7,Medium,Clear,55.7,Freight,166.27,14,2,3,Delayed
+SHP-00568,Factory A,Spanish Wells,Factory A to Spanish Wells,160.6,High,Rain,187.6,Van,74.5,18,1,1,On Time
+SHP-00569,Factory A,Nassau,Factory A to Nassau,58.8,Medium,Clear,36.1,Van,47.57,15,1,1,On Time
+SHP-00570,Factory B,Freeport,Factory B to Freeport,243.4,Low,Rain,81.7,Freight,161.43,15,2,2,On Time
+SHP-00571,Factory A,George Town,Factory A to George Town,368.6,Low,Clear,20.1,Truck,116.58,10,2,2,On Time
+SHP-00572,Factory C,Freeport,Factory C to Freeport,260.9,Medium,Clear,11.0,Truck,104.7,5,1,1,On Time
+SHP-00573,Factory A,Nassau,Factory A to Nassau,64.7,High,Clear,28.4,Van,67.5,16,1,1,On Time
+SHP-00574,Factory B,George Town,Factory B to George Town,408.7,Low,Rain,11.6,Truck,136.47,16,2,2,On Time
+SHP-00575,Factory C,Freeport,Factory C to Freeport,266.1,Medium,Clear,37.0,Van,74.05,11,1,2,Delayed
+SHP-00576,Factory B,Freeport,Factory B to Freeport,241.8,Medium,Clear,20.9,Van,74.58,12,1,3,Delayed
+SHP-00577,Factory C,Spanish Wells,Factory C to Spanish Wells,194.3,High,Clear,9.0,Van,46.62,8,1,2,Delayed
+SHP-00578,Factory B,Nassau,Factory B to Nassau,66.2,Low,Storm,127.7,Truck,65.23,11,1,4,Delayed
+SHP-00579,Factory C,Nassau,Factory C to Nassau,57.9,High,Clear,24.9,Van,42.12,8,1,1,On Time
+SHP-00580,Factory A,Nassau,Factory A to Nassau,23.7,Medium,Clear,11.3,Truck,37.46,11,1,2,Delayed
+SHP-00581,Factory A,Freeport,Factory A to Freeport,229.4,Medium,Rain,69.9,Freight,156.47,7,2,2,On Time
+SHP-00582,Factory B,Nassau,Factory B to Nassau,63.4,Low,Clear,21.7,Truck,59.96,14,1,1,On Time
+SHP-00583,Factory A,Marsh Harbour,Factory A to Marsh Harbour,274.5,Medium,Clear,80.2,Freight,183.78,8,2,3,Delayed
+SHP-00584,Factory A,Nassau,Factory A to Nassau,43.0,Medium,Rain,21.6,Van,43.26,15,1,3,Delayed
+SHP-00585,Factory C,Marsh Harbour,Factory C to Marsh Harbour,326.9,Low,Clear,24.8,Truck,102.1,12,2,1,On Time
+SHP-00586,Factory B,Nassau,Factory B to Nassau,57.2,Medium,Clear,46.9,Van,38.87,18,1,1,On Time
+SHP-00587,Factory A,Freeport,Factory A to Freeport,221.8,Medium,Clear,56.1,Truck,99.99,8,1,2,Delayed
+SHP-00588,Factory A,Freeport,Factory A to Freeport,196.9,Medium,Clear,63.6,Truck,85.29,9,1,2,Delayed
+SHP-00589,Factory A,Marsh Harbour,Factory A to Marsh Harbour,280.7,Low,Rain,34.3,Freight,188.13,8,2,4,Delayed
+SHP-00590,Factory A,Freeport,Factory A to Freeport,204.4,Medium,Clear,53.5,Van,56.76,14,1,2,Delayed
+SHP-00591,Factory C,Freeport,Factory C to Freeport,229.5,Low,Clear,62.6,Truck,91.08,6,1,1,On Time
+SHP-00592,Factory A,George Town,Factory A to George Town,373.4,High,Clear,42.3,Van,121.41,15,2,3,Delayed
+SHP-00593,Factory A,Marsh Harbour,Factory A to Marsh Harbour,308.2,High,Rain,33.0,Freight,221.24,17,2,3,Delayed
+SHP-00594,Factory B,Nassau,Factory B to Nassau,63.9,Low,Rain,12.9,Freight,137.27,15,1,1,On Time
+SHP-00595,Factory A,Spanish Wells,Factory A to Spanish Wells,141.2,Low,Clear,56.3,Truck,72.72,7,1,2,Delayed
+SHP-00596,Factory A,Freeport,Factory A to Freeport,182.3,Low,Rain,37.7,Truck,86.19,12,1,2,Delayed
+SHP-00597,Factory B,Nassau,Factory B to Nassau,55.0,Medium,Clear,27.2,Freight,111.97,13,1,1,On Time
+SHP-00598,Factory B,Freeport,Factory B to Freeport,260.1,High,Rain,91.8,Truck,100.72,10,1,2,Delayed
+SHP-00599,Factory C,Nassau,Factory C to Nassau,79.6,Medium,Clear,13.1,Truck,42.82,11,1,2,Delayed
+SHP-00600,Factory B,Nassau,Factory B to Nassau,80.5,Low,Clear,119.5,Van,39.05,16,1,1,On Time
+SHP-00601,Factory A,George Town,Factory A to George Town,396.3,Low,Rain,36.0,Truck,133.65,17,2,2,On Time
+SHP-00602,Factory B,Nassau,Factory B to Nassau,65.5,Low,Rain,46.0,Freight,139.9,9,1,1,On Time
+SHP-00603,Factory C,George Town,Factory C to George Town,414.0,High,Clear,27.5,Truck,162.37,9,2,2,On Time
+SHP-00604,Factory B,Spanish Wells,Factory B to Spanish Wells,203.9,Medium,Clear,11.0,Van,55.22,8,1,2,Delayed
+SHP-00605,Factory C,Marsh Harbour,Factory C to Marsh Harbour,322.0,Medium,Rain,33.1,Freight,210.14,11,2,2,On Time
+SHP-00606,Factory B,Marsh Harbour,Factory B to Marsh Harbour,317.5,Low,Clear,46.6,Freight,179.81,13,2,1,On Time
+SHP-00607,Factory C,Marsh Harbour,Factory C to Marsh Harbour,313.3,High,Clear,59.6,Freight,209.0,15,2,2,On Time
+SHP-00608,Factory A,Spanish Wells,Factory A to Spanish Wells,168.2,Low,Clear,31.7,Freight,152.88,9,1,2,Delayed
+SHP-00609,Factory B,Freeport,Factory B to Freeport,238.3,High,Clear,7.5,Truck,120.09,8,1,2,Delayed
+SHP-00610,Factory A,Nassau,Factory A to Nassau,32.2,High,Clear,12.1,Freight,114.53,5,1,1,On Time
+SHP-00611,Factory B,Freeport,Factory B to Freeport,239.3,Medium,Clear,160.4,Freight,185.79,6,2,2,On Time
+SHP-00612,Factory B,Freeport,Factory B to Freeport,227.2,High,Rain,16.7,Van,63.78,5,1,1,On Time
+SHP-00613,Factory C,Nassau,Factory C to Nassau,71.3,Low,Clear,102.3,Truck,71.07,8,1,1,On Time
+SHP-00614,Factory C,Marsh Harbour,Factory C to Marsh Harbour,356.9,Medium,Clear,18.7,Truck,122.72,15,2,2,On Time
+SHP-00615,Factory A,Nassau,Factory A to Nassau,53.9,Low,Storm,32.1,Van,54.28,16,1,2,Delayed
+SHP-00616,Factory B,Spanish Wells,Factory B to Spanish Wells,173.3,Medium,,57.4,Van,36.21,19,1,2,Delayed
+SHP-00617,Factory B,Nassau,Factory B to Nassau,67.2,Low,Clear,20.3,Truck,45.81,13,1,1,On Time
+SHP-00618,Factory A,Nassau,Factory A to Nassau,21.6,Low,Clear,115.2,Truck,60.99,11,1,1,On Time
+SHP-00619,Factory A,Nassau,Factory A to Nassau,13.7,Low,Clear,38.6,Van,17.99,18,1,1,On Time
+SHP-00620,Factory A,Nassau,Factory A to Nassau,53.6,Low,Clear,51.0,Truck,57.44,7,1,1,On Time
+SHP-00621,Factory B,Nassau,Factory B to Nassau,26.3,Medium,Storm,30.2,Freight,133.84,14,1,3,Delayed
+SHP-00622,Factory A,Nassau,Factory A to Nassau,51.7,Medium,Rain,58.8,Truck,75.58,17,1,1,On Time
+SHP-00623,Factory C,Nassau,Factory C to Nassau,78.5,Low,Clear,114.1,Truck,60.06,12,1,1,On Time
+SHP-00624,Factory A,Nassau,Factory A to Nassau,31.2,High,Clear,33.3,Truck,47.66,8,1,1,On Time
+SHP-00625,Factory C,Freeport,Factory C to Freeport,265.4,High,Rain,127.2,Freight,198.44,14,2,2,On Time
+SHP-00626,Factory A,Freeport,Factory A to Freeport,220.5,Low,Clear,23.6,Freight,176.78,19,2,2,On Time
+SHP-00627,Factory B,Freeport,Factory B to Freeport,217.1,Medium,Rain,63.4,Truck,107.07,8,1,2,Delayed
+SHP-00628,Factory A,Freeport,Factory A to Freeport,222.9,Medium,Clear,52.0,Truck,92.47,13,1,1,On Time
+SHP-00629,Factory B,Nassau,Factory B to Nassau,59.0,Medium,Rain,17.0,Truck,89.49,5,1,2,Delayed
+SHP-00630,Factory C,Nassau,Factory C to Nassau,60.4,Medium,Rain,42.7,Truck,77.94,8,1,1,On Time
+SHP-00631,Factory C,Nassau,Factory C to Nassau,79.9,Medium,Clear,36.8,Van,51.37,16,1,2,Delayed
+SHP-00632,Factory C,George Town,Factory C to George Town,462.9,Low,Clear,19.8,Truck,145.27,12,2,2,On Time
+SHP-00633,Factory A,Spanish Wells,Factory A to Spanish Wells,195.2,Low,Rain,47.4,Van,74.93,7,1,2,Delayed
+SHP-00634,Factory A,Spanish Wells,Factory A to Spanish Wells,177.9,Medium,Clear,40.7,Truck,92.1,10,1,1,On Time
+SHP-00635,Factory A,Freeport,Factory A to Freeport,188.6,Medium,Clear,34.7,Truck,58.92,6,1,3,Delayed
+SHP-00636,Factory A,Freeport,Factory A to Freeport,218.8,High,Clear,34.8,Truck,106.8,16,1,2,Delayed
+SHP-00637,Factory B,Nassau,Factory B to Nassau,72.3,Low,Clear,34.3,Truck,50.41,19,1,1,On Time
+SHP-00638,Factory B,George Town,Factory B to George Town,425.1,Low,Rain,28.1,Truck,135.18,6,2,2,On Time
+SHP-00639,Factory B,George Town,Factory B to George Town,426.1,Low,Clear,40.5,Truck,131.68,8,2,2,On Time
+SHP-00640,Factory C,George Town,Factory C to George Town,444.5,Low,Clear,23.0,Truck,118.71,17,2,2,On Time
+SHP-00641,Factory B,Spanish Wells,Factory B to Spanish Wells,185.7,Low,Rain,247.9,Freight,142.02,18,1,3,Delayed
+SHP-00642,Factory C,Freeport,Factory C to Freeport,247.0,Medium,Clear,13.3,Truck,112.43,16,1,2,Delayed
+SHP-00643,Factory A,George Town,Factory A to George Town,355.8,Medium,Clear,24.0,Truck,128.58,15,2,2,On Time
+SHP-00644,Factory A,George Town,Factory A to George Town,396.1,Medium,Clear,25.4,Truck,103.42,17,2,2,On Time
+SHP-00645,Factory B,Nassau,Factory B to Nassau,60.3,Medium,Rain,159.0,Van,46.88,10,1,1,On Time
+SHP-00646,Factory C,Spanish Wells,Factory C to Spanish Wells,223.0,Low,Clear,14.1,Freight,168.5,18,2,3,Delayed
+SHP-00647,Factory A,Nassau,Factory A to Nassau,12.0,Medium,Rain,49.7,Van,34.15,18,1,1,On Time
+SHP-00648,Factory B,Spanish Wells,Factory B to Spanish Wells,198.6,Low,Clear,43.8,Van,73.52,8,1,1,On Time
+SHP-00649,Factory B,George Town,Factory B to George Town,449.0,High,Clear,46.5,Freight,250.94,6,2,2,On Time
+SHP-00650,Factory A,Nassau,Factory A to Nassau,36.4,Low,Storm,89.1,Truck,54.55,12,1,3,Delayed
+SHP-00651,Factory A,Marsh Harbour,Factory A to Marsh Harbour,278.9,Medium,Rain,87.8,Freight,188.45,16,2,2,On Time
+SHP-00652,Factory C,Nassau,Factory C to Nassau,88.6,High,Clear,26.5,Van,47.18,17,1,3,Delayed
+SHP-00653,Factory B,George Town,Factory B to George Town,448.6,Medium,Clear,42.1,Truck,128.61,7,2,3,Delayed
+SHP-00654,Factory A,George Town,Factory A to George Town,371.6,Medium,Clear,9.6,Truck,108.5,10,2,4,Delayed
+SHP-00655,Factory C,Marsh Harbour,Factory C to Marsh Harbour,331.7,Medium,Clear,39.3,Truck,108.58,16,2,2,On Time
+SHP-00656,Factory A,George Town,Factory A to George Town,375.6,Low,Rain,20.7,Truck,121.73,5,2,2,On Time
+SHP-00657,Factory C,Nassau,Factory C to Nassau,73.2,Medium,Rain,32.0,Freight,134.01,15,1,1,On Time
+SHP-00658,Factory A,Nassau,Factory A to Nassau,34.1,High,Clear,10.9,Truck,70.92,9,1,2,Delayed
+SHP-00659,Factory B,Freeport,Factory B to Freeport,256.3,High,Clear,49.0,Van,92.05,5,1,1,On Time
+SHP-00660,Factory A,Nassau,Factory A to Nassau,67.4,Medium,Clear,10.8,Freight,129.25,8,1,3,Delayed
+SHP-00661,Factory A,Freeport,Factory A to Freeport,218.1,Low,Clear,40.7,Truck,83.0,16,1,2,Delayed
+SHP-00662,Factory C,Nassau,Factory C to Nassau,76.2,Medium,Rain,15.1,Truck,73.52,18,1,1,On Time
+SHP-00663,Factory A,Freeport,Factory A to Freeport,254.9,Medium,Clear,19.9,Van,71.94,6,1,2,Delayed
+SHP-00664,Factory A,Freeport,Factory A to Freeport,202.3,Low,Clear,84.0,Van,56.6,11,1,1,On Time
+SHP-00665,Factory A,George Town,Factory A to George Town,379.7,Low,Clear,55.9,Truck,146.89,8,2,3,Delayed
+SHP-00666,Factory B,Nassau,Factory B to Nassau,25.1,Low,Storm,83.7,Truck,39.99,15,1,1,On Time
+SHP-00667,Factory C,Spanish Wells,Factory C to Spanish Wells,238.1,Medium,Clear,112.5,Van,54.07,16,1,2,Delayed
+SHP-00668,Factory C,Freeport,Factory C to Freeport,275.4,Low,Clear,21.0,Freight,177.44,19,2,2,On Time
+SHP-00669,Factory A,Freeport,Factory A to Freeport,253.5,Low,Clear,107.7,Truck,94.51,10,1,1,On Time
+SHP-00670,Factory A,Freeport,Factory A to Freeport,185.0,Low,Clear,12.7,Truck,59.94,9,1,1,On Time
+SHP-00671,Factory A,Freeport,Factory A to Freeport,236.2,High,Clear,62.6,Freight,166.67,9,2,2,On Time
+SHP-00672,Factory B,Nassau,Factory B to Nassau,58.3,Low,Clear,25.7,Truck,37.6,16,1,1,On Time
+SHP-00673,Factory C,Freeport,Factory C to Freeport,272.5,Low,Clear,18.7,Truck,108.32,11,2,2,On Time
+SHP-00674,Factory B,Nassau,Factory B to Nassau,27.3,Medium,Clear,57.0,Van,47.44,5,1,1,On Time
+SHP-00675,Factory B,Freeport,Factory B to Freeport,258.4,Low,Rain,72.3,Truck,124.72,19,1,3,Delayed
+SHP-00676,Factory A,Marsh Harbour,Factory A to Marsh Harbour,294.2,High,Clear,70.7,Truck,102.13,6,2,4,Delayed
+SHP-00677,Factory C,Freeport,Factory C to Freeport,257.3,High,Clear,42.7,Van,69.26,18,1,2,Delayed
+SHP-00678,Factory A,George Town,Factory A to George Town,401.6,Medium,Clear,40.2,Van,85.69,7,2,2,On Time
+SHP-00679,Factory A,Nassau,Factory A to Nassau,21.2,Medium,Rain,53.5,Van,54.97,13,1,1,On Time
+SHP-00680,Factory A,Spanish Wells,Factory A to Spanish Wells,154.6,Medium,Rain,45.5,Truck,90.84,9,1,1,On Time
+SHP-00681,Factory A,George Town,Factory A to George Town,381.7,Low,Rain,54.0,Van,103.0,15,2,2,On Time
+SHP-00682,Factory A,Spanish Wells,Factory A to Spanish Wells,131.7,Low,Clear,42.4,Van,48.53,11,1,1,On Time
+SHP-00683,Factory A,George Town,Factory A to George Town,405.5,Low,Clear,67.1,Van,98.73,10,2,2,On Time
+SHP-00684,Factory A,Nassau,Factory A to Nassau,56.4,Low,Clear,11.3,Van,16.0,12,1,1,On Time
+SHP-00685,Factory B,Freeport,Factory B to Freeport,219.4,Medium,Clear,33.3,Van,74.01,19,1,3,Delayed
+SHP-00686,Factory A,Nassau,Factory A to Nassau,41.3,Low,Clear,13.5,Freight,104.8,8,1,1,On Time
+SHP-00687,Factory A,George Town,Factory A to George Town,385.2,Low,Clear,44.7,Freight,190.02,8,2,2,On Time
+SHP-00688,Factory C,Marsh Harbour,Factory C to Marsh Harbour,333.9,Medium,Clear,119.4,Truck,129.66,5,2,2,On Time
+SHP-00689,Factory B,Nassau,Factory B to Nassau,45.7,Medium,Clear,26.0,Freight,109.6,16,1,1,On Time
+SHP-00690,Factory B,Spanish Wells,Factory B to Spanish Wells,171.1,Low,Clear,40.1,Freight,147.04,15,1,2,Delayed
+SHP-00691,Factory A,Nassau,Factory A to Nassau,53.9,Low,Clear,63.1,Truck,48.05,14,1,2,Delayed
+SHP-00692,Factory C,Marsh Harbour,Factory C to Marsh Harbour,326.9,Low,Rain,8.3,Truck,128.3,5,2,1,On Time
+SHP-00693,Factory A,Marsh Harbour,Factory A to Marsh Harbour,316.4,Low,Clear,25.1,Van,82.39,16,2,3,Delayed
+SHP-00694,Factory A,Nassau,Factory A to Nassau,35.8,High,Rain,47.6,Truck,58.01,17,1,3,Delayed
+SHP-00695,Factory C,Marsh Harbour,Factory C to Marsh Harbour,311.3,High,Clear,4.5,Van,97.3,19,2,4,Delayed
+SHP-00696,Factory B,George Town,Factory B to George Town,434.1,Medium,Rain,18.1,Van,119.91,18,2,2,On Time
+SHP-00697,Factory B,Nassau,Factory B to Nassau,68.4,Medium,Rain,80.9,Truck,73.91,8,1,1,On Time
+SHP-00698,Factory B,Freeport,Factory B to Freeport,245.1,Medium,Clear,75.4,Truck,112.57,15,1,2,Delayed
+SHP-00699,Factory B,Nassau,Factory B to Nassau,78.4,Medium,Storm,47.9,Freight,141.24,11,1,2,Delayed
+SHP-00700,Factory A,Marsh Harbour,Factory A to Marsh Harbour,268.2,Low,Clear,69.1,Truck,107.16,13,1,3,Delayed
+SHP-00701,Factory A,Nassau,Factory A to Nassau,32.7,Low,Clear,42.7,Van,15.0,9,1,1,On Time
+SHP-00702,Factory A,Spanish Wells,Factory A to Spanish Wells,161.9,Medium,Rain,,Truck,86.53,14,1,3,Delayed
+SHP-00703,Factory A,Spanish Wells,Factory A to Spanish Wells,141.8,Medium,Clear,29.2,Truck,70.78,19,1,1,On Time
+SHP-00704,Factory C,Nassau,Factory C to Nassau,78.3,Low,Clear,39.8,Van,52.84,14,1,3,Delayed
+SHP-00705,Factory A,Freeport,Factory A to Freeport,234.1,Low,Clear,23.2,Truck,87.13,18,1,2,Delayed
+SHP-00706,Factory B,Marsh Harbour,Factory B to Marsh Harbour,306.3,Low,Clear,90.9,Van,89.4,18,2,2,On Time
+SHP-00707,Factory B,Marsh Harbour,Factory B to Marsh Harbour,277.8,Low,Clear,109.5,Van,56.76,6,1,1,On Time
+SHP-00708,Factory B,Freeport,Factory B to Freeport,204.0,Medium,Clear,98.8,Truck,87.64,19,1,2,Delayed
+SHP-00709,Factory A,Nassau,Factory A to Nassau,65.0,,Clear,27.3,Truck,46.16,17,1,1,On Time
+SHP-00710,Factory A,Nassau,Factory A to Nassau,33.4,Medium,Clear,18.4,Van,61.25,11,1,1,On Time
+SHP-00711,Factory C,Spanish Wells,Factory C to Spanish Wells,201.3,Low,Clear,91.8,Van,54.21,14,1,2,Delayed
+SHP-00712,Factory B,Freeport,Factory B to Freeport,227.1,Low,Clear,54.1,Van,65.54,14,1,3,Delayed
+SHP-00713,Factory C,George Town,Factory C to George Town,411.4,High,Rain,46.4,Van,124.7,16,2,2,On Time
+SHP-00714,Factory C,Freeport,Factory C to Freeport,283.6,Medium,Clear,23.2,Truck,87.31,17,2,2,On Time
+SHP-00715,Factory B,Spanish Wells,Factory B to Spanish Wells,179.9,Low,Clear,49.7,Truck,71.55,6,1,1,On Time
+SHP-00716,Factory A,Nassau,Factory A to Nassau,59.6,Low,Rain,16.8,Van,43.27,5,1,1,On Time
+SHP-00717,Factory B,Nassau,Factory B to Nassau,57.9,High,Rain,57.8,Van,57.79,8,1,2,Delayed
+SHP-00718,Factory A,Spanish Wells,Factory A to Spanish Wells,190.7,Medium,Clear,98.8,Freight,130.25,12,1,2,Delayed
+SHP-00719,Factory B,Spanish Wells,Factory B to Spanish Wells,191.6,High,Clear,118.4,Truck,93.18,17,1,3,Delayed
+SHP-00720,Factory C,Nassau,Factory C to Nassau,98.4,Medium,Rain,61.0,Van,66.91,14,1,1,On Time
+SHP-00721,Factory B,Freeport,Factory B to Freeport,244.9,Medium,Rain,13.5,Van,86.47,7,1,1,On Time
+SHP-00722,Factory A,Freeport,Factory A to Freeport,221.2,Medium,Clear,42.2,Truck,107.6,15,1,4,Delayed
+SHP-00723,Factory A,Freeport,Factory A to Freeport,216.3,Low,Clear,170.8,Van,58.37,12,1,1,On Time
+SHP-00724,Factory C,Nassau,Factory C to Nassau,78.8,Medium,Clear,19.6,Van,55.62,10,1,1,On Time
+SHP-00725,Factory A,Spanish Wells,Factory A to Spanish Wells,199.5,Medium,Clear,35.1,Truck,87.11,16,1,1,On Time
+SHP-00726,Factory A,Nassau,Factory A to Nassau,18.7,Low,Rain,101.3,Truck,70.47,9,1,1,On Time
+SHP-00727,Factory A,Marsh Harbour,Factory A to Marsh Harbour,280.1,High,Rain,57.1,Truck,125.32,14,2,2,On Time
+SHP-00728,Factory A,Nassau,Factory A to Nassau,35.3,Medium,Clear,218.3,Freight,93.95,7,1,1,On Time
+SHP-00729,Factory A,Nassau,Factory A to Nassau,42.2,Low,Clear,21.6,Truck,54.98,10,1,2,Delayed
+SHP-00730,Factory B,Marsh Harbour,Factory B to Marsh Harbour,294.3,Low,Rain,17.9,Truck,105.26,13,2,2,On Time
+SHP-00731,Factory A,Freeport,Factory A to Freeport,215.7,High,Clear,88.4,Truck,99.52,14,1,2,Delayed
+SHP-00732,Factory A,Marsh Harbour,Factory A to Marsh Harbour,277.0,,Rain,15.5,Truck,105.05,18,2,4,Delayed
+SHP-00733,Factory A,Nassau,Factory A to Nassau,12.0,Medium,Clear,31.8,Truck,63.82,9,1,3,Delayed
+SHP-00734,Factory A,Spanish Wells,Factory A to Spanish Wells,165.2,High,Clear,34.9,Van,61.4,18,1,2,Delayed
+SHP-00735,Factory A,George Town,Factory A to George Town,370.2,High,Clear,77.2,Truck,157.91,17,2,2,On Time
+SHP-00736,Factory B,George Town,Factory B to George Town,380.8,High,Clear,57.0,Truck,135.26,10,2,2,On Time
+SHP-00737,Factory A,Nassau,Factory A to Nassau,37.5,High,Storm,50.9,Truck,74.04,7,1,2,Delayed
+SHP-00738,Factory A,Freeport,Factory A to Freeport,218.8,Medium,Clear,27.4,Truck,107.53,8,1,2,Delayed
+SHP-00739,Factory A,Freeport,Factory A to Freeport,219.5,Medium,Clear,87.8,Truck,93.99,14,1,1,On Time
+SHP-00740,Factory A,Freeport,Factory A to Freeport,220.2,Medium,Clear,664.2,Van,108.25,16,1,2,Delayed
+SHP-00741,Factory A,Nassau,Factory A to Nassau,12.0,Medium,Clear,60.2,Van,15.0,14,1,2,Delayed
+SHP-00742,Factory A,Nassau,Factory A to Nassau,12.0,Low,Clear,39.3,Van,17.34,15,1,1,On Time
+SHP-00743,Factory C,Freeport,Factory C to Freeport,293.5,Medium,Rain,,Truck,121.37,6,2,2,On Time
+SHP-00744,Factory A,Nassau,Factory A to Nassau,16.2,High,Clear,23.1,Freight,100.75,12,1,1,On Time
+SHP-00745,Factory B,Freeport,Factory B to Freeport,243.0,Low,Clear,31.4,Van,59.74,18,1,1,On Time
+SHP-00746,Factory A,Nassau,Factory A to Nassau,22.6,High,Clear,24.9,Truck,51.4,10,1,1,On Time
+SHP-00747,Factory A,Nassau,Factory A to Nassau,36.4,Medium,Clear,36.2,Truck,50.98,18,1,1,On Time
+SHP-00748,Factory A,Marsh Harbour,Factory A to Marsh Harbour,268.6,Low,Clear,131.7,Van,95.35,6,1,1,On Time
+SHP-00749,Factory B,Freeport,Factory B to Freeport,242.1,Low,Clear,89.8,Truck,90.57,19,1,1,On Time
+SHP-00750,Factory C,Freeport,Factory C to Freeport,260.5,Medium,Clear,32.6,Truck,93.26,16,1,1,On Time
+SHP-00751,Factory A,Freeport,Factory A to Freeport,201.9,Medium,Rain,15.3,Van,104.31,14,1,2,Delayed
+SHP-00752,Factory A,George Town,Factory A to George Town,371.1,Low,Rain,95.9,Truck,126.95,14,2,2,On Time
+SHP-00753,Factory A,Freeport,Factory A to Freeport,214.8,Medium,Rain,35.3,Freight,168.09,19,1,3,Delayed
+SHP-00754,Factory A,Marsh Harbour,Factory A to Marsh Harbour,258.2,Low,Clear,10.6,Truck,89.62,10,1,2,Delayed
+SHP-00755,Factory B,Spanish Wells,Factory B to Spanish Wells,194.7,Medium,Clear,61.1,Truck,84.51,7,1,1,On Time
+SHP-00756,Factory A,Freeport,Factory A to Freeport,257.3,High,Rain,76.6,Truck,121.94,18,1,2,Delayed
+SHP-00757,Factory A,Spanish Wells,Factory A to Spanish Wells,189.3,Medium,Clear,6.4,Truck,94.91,6,1,3,Delayed
+SHP-00758,Factory C,George Town,Factory C to George Town,450.9,Medium,Clear,20.2,Freight,232.81,14,2,3,Delayed
+SHP-00759,Factory A,Nassau,Factory A to Nassau,33.5,Medium,Clear,33.8,Freight,124.49,8,1,1,On Time
+SHP-00760,Factory A,Freeport,Factory A to Freeport,175.1,High,Rain,62.1,Freight,182.73,18,1,4,Delayed
+SHP-00761,Factory B,Marsh Harbour,Factory B to Marsh Harbour,278.2,Low,Clear,25.2,Van,75.0,19,1,1,On Time
+SHP-00762,Factory A,Spanish Wells,Factory A to Spanish Wells,188.1,Low,Clear,20.1,Truck,82.78,12,1,3,Delayed
+SHP-00763,Factory A,Freeport,Factory A to Freeport,195.8,Low,Clear,61.8,Truck,95.43,12,1,2,Delayed
+SHP-00764,Factory A,Nassau,Factory A to Nassau,22.4,Medium,Clear,26.1,Truck,33.12,11,1,1,On Time
+SHP-00765,Factory C,Marsh Harbour,Factory C to Marsh Harbour,325.0,Medium,Clear,54.1,Freight,223.87,11,2,2,On Time
+SHP-00766,Factory A,Nassau,Factory A to Nassau,15.9,Medium,Clear,16.4,Van,21.94,19,1,1,On Time
+SHP-00767,Factory A,George Town,Factory A to George Town,367.9,Low,Clear,13.8,Truck,115.1,9,2,4,Delayed
+SHP-00768,Factory A,Freeport,Factory A to Freeport,209.1,Low,Rain,63.0,Van,55.28,19,1,1,On Time
+SHP-00769,Factory A,Marsh Harbour,Factory A to Marsh Harbour,264.0,Medium,Rain,43.9,Van,70.83,14,1,2,Delayed
+SHP-00770,Factory B,George Town,Factory B to George Town,398.7,High,Clear,71.1,Truck,156.94,19,2,2,On Time
+SHP-00771,Factory A,Marsh Harbour,Factory A to Marsh Harbour,265.9,Low,Storm,24.9,Van,121.38,14,1,2,Delayed
+SHP-00772,Factory B,Marsh Harbour,Factory B to Marsh Harbour,311.4,Low,Clear,20.6,Van,71.7,17,2,2,On Time
+SHP-00773,Factory B,George Town,Factory B to George Town,407.8,Low,Rain,97.5,Freight,224.76,12,2,2,On Time
+SHP-00774,Factory C,George Town,Factory C to George Town,434.8,Medium,Clear,12.2,Truck,143.26,11,2,2,On Time
+SHP-00775,Factory A,George Town,Factory A to George Town,400.7,Low,Clear,90.1,Truck,142.67,8,2,2,On Time
+SHP-00776,Factory C,Nassau,Factory C to Nassau,80.4,Low,Clear,94.7,Truck,83.85,8,1,1,On Time
+SHP-00777,Factory B,Freeport,Factory B to Freeport,227.0,Medium,Clear,68.0,Freight,185.19,5,2,3,Delayed
+SHP-00778,Factory A,Nassau,Factory A to Nassau,43.5,Low,Clear,22.3,Freight,105.1,10,1,2,Delayed
+SHP-00779,Factory B,George Town,Factory B to George Town,424.0,Medium,Clear,20.3,Van,112.22,19,2,2,On Time
+SHP-00780,Factory C,Marsh Harbour,Factory C to Marsh Harbour,325.4,Low,Clear,31.5,Truck,117.95,19,2,2,On Time
+SHP-00781,Factory A,Freeport,Factory A to Freeport,211.5,High,Clear,14.4,Truck,99.12,15,1,1,On Time
+SHP-00782,Factory C,Nassau,Factory C to Nassau,68.9,Medium,Clear,18.3,Van,25.13,10,1,1,On Time
+SHP-00783,Factory A,Freeport,Factory A to Freeport,194.5,Low,Storm,58.2,Truck,96.06,12,1,2,Delayed
+SHP-00784,Factory B,Marsh Harbour,Factory B to Marsh Harbour,315.8,Low,Clear,58.4,Van,95.58,16,2,2,On Time
+SHP-00785,Factory C,Nassau,Factory C to Nassau,91.0,Medium,Rain,17.2,Freight,150.1,5,1,1,On Time
+SHP-00786,Factory A,Nassau,Factory A to Nassau,43.2,High,Clear,59.5,Truck,60.42,18,1,4,Delayed
+SHP-00787,Factory C,George Town,Factory C to George Town,443.1,Low,Clear,50.8,Truck,141.59,18,2,2,On Time
+SHP-00788,Factory A,George Town,Factory A to George Town,390.8,Low,Clear,108.5,Truck,143.68,19,2,2,On Time
+SHP-00789,Factory B,Nassau,Factory B to Nassau,69.5,Low,Clear,55.1,Truck,32.29,6,1,1,On Time
+SHP-00790,Factory B,Nassau,Factory B to Nassau,73.8,Medium,Clear,78.4,Van,37.76,19,1,1,On Time
+SHP-00791,Factory A,Spanish Wells,Factory A to Spanish Wells,181.4,High,Rain,51.6,Truck,126.52,14,1,2,Delayed
+SHP-00792,Factory A,Marsh Harbour,Factory A to Marsh Harbour,278.2,Medium,Clear,74.1,Truck,111.28,13,2,2,On Time
+SHP-00793,Factory A,Marsh Harbour,Factory A to Marsh Harbour,305.0,Low,Rain,14.5,Truck,99.32,7,2,2,On Time
+SHP-00794,Factory A,Nassau,Factory A to Nassau,39.1,Medium,Clear,33.5,Truck,52.08,12,1,1,On Time
+SHP-00795,Factory A,Nassau,Factory A to Nassau,46.4,Medium,Clear,35.6,Van,47.39,10,1,1,On Time
+SHP-00796,Factory A,Nassau,Factory A to Nassau,40.1,Low,Clear,30.7,Van,15.0,19,1,2,Delayed
+SHP-00797,Factory A,Marsh Harbour,Factory A to Marsh Harbour,284.4,Low,Storm,50.4,Van,101.43,10,1,2,Delayed
+SHP-00798,Factory A,Nassau,Factory A to Nassau,21.8,Low,Clear,57.8,Van,21.43,8,1,2,Delayed
+SHP-00799,Factory B,Nassau,Factory B to Nassau,69.6,Medium,Clear,48.5,Truck,38.73,19,1,1,On Time
+SHP-00800,Factory B,Marsh Harbour,Factory B to Marsh Harbour,353.2,Medium,Clear,32.2,Van,94.18,7,2,2,On Time
+SHP-00801,Factory B,Spanish Wells,Factory B to Spanish Wells,180.3,Medium,Clear,21.5,Truck,80.91,18,1,1,On Time
+SHP-00802,Factory A,George Town,Factory A to George Town,391.3,High,Storm,80.6,Freight,247.1,19,2,3,Delayed
+SHP-00803,Factory C,Freeport,Factory C to Freeport,250.0,Low,Rain,47.1,Truck,97.68,9,1,2,Delayed
+SHP-00804,Factory B,Freeport,Factory B to Freeport,223.2,Low,Rain,17.6,Truck,81.96,15,1,1,On Time
+SHP-00805,Factory A,Freeport,Factory A to Freeport,237.8,Low,Storm,31.8,Truck,96.83,16,1,2,Delayed
+SHP-00806,Factory A,Freeport,Factory A to Freeport,197.9,High,Rain,10.4,Van,71.99,13,1,2,Delayed
+SHP-00807,Factory B,Freeport,Factory B to Freeport,223.5,Medium,Clear,37.5,Truck,103.59,15,1,3,Delayed
+SHP-00808,Factory A,Freeport,Factory A to Freeport,181.4,Low,Clear,31.7,Freight,149.7,6,1,1,On Time
+SHP-00809,Factory B,Marsh Harbour,Factory B to Marsh Harbour,288.4,Low,Clear,24.2,Truck,100.71,12,2,1,On Time
+SHP-00810,Factory C,Spanish Wells,Factory C to Spanish Wells,182.2,Medium,Clear,114.5,Freight,143.55,12,1,2,Delayed
+SHP-00811,Factory A,Spanish Wells,Factory A to Spanish Wells,176.4,Medium,Clear,15.9,Van,54.06,13,1,1,On Time
+SHP-00812,Factory A,Nassau,Factory A to Nassau,85.4,Medium,,60.9,Truck,71.53,19,1,1,On Time
+SHP-00813,Factory C,Freeport,Factory C to Freeport,251.4,Low,Storm,176.7,Truck,130.71,17,1,2,Delayed
+SHP-00814,Factory B,Nassau,Factory B to Nassau,27.0,High,Storm,79.5,Truck,78.46,14,1,1,On Time
+SHP-00815,Factory A,Freeport,Factory A to Freeport,226.2,Medium,Clear,35.8,Freight,134.25,11,2,2,On Time
+SHP-00816,Factory C,Nassau,Factory C to Nassau,69.9,Medium,Rain,16.2,Freight,121.04,11,1,2,Delayed
+SHP-00817,Factory C,Nassau,Factory C to Nassau,106.4,Medium,Clear,13.7,Truck,59.36,5,1,3,Delayed
+SHP-00818,Factory B,George Town,Factory B to George Town,406.9,High,Clear,27.2,Truck,134.06,13,2,3,Delayed
+SHP-00819,Factory B,Freeport,Factory B to Freeport,220.6,High,Clear,22.3,Truck,96.89,8,1,1,On Time
+SHP-00820,Factory A,Spanish Wells,Factory A to Spanish Wells,161.8,Medium,Clear,21.8,Truck,88.1,18,1,3,Delayed
+SHP-00821,Factory A,Nassau,Factory A to Nassau,48.6,Medium,Clear,28.9,Van,34.66,16,1,1,On Time
+SHP-00822,Factory B,Nassau,Factory B to Nassau,52.9,Medium,Clear,34.0,Truck,65.74,18,1,1,On Time
+SHP-00823,Factory A,Freeport,Factory A to Freeport,201.1,High,Clear,51.9,Truck,80.75,19,1,1,On Time
+SHP-00824,Factory B,Nassau,Factory B to Nassau,53.4,Medium,Clear,15.0,Freight,112.82,11,1,1,On Time
+SHP-00825,Factory C,Nassau,Factory C to Nassau,60.1,Low,Rain,22.4,Van,15.61,11,1,1,On Time
+SHP-00826,Factory A,Spanish Wells,Factory A to Spanish Wells,172.1,Low,Clear,32.6,Van,47.7,14,1,1,On Time
+SHP-00827,Factory B,Nassau,Factory B to Nassau,24.8,High,Clear,31.8,Truck,44.75,11,1,1,On Time
+SHP-00828,Factory A,Nassau,Factory A to Nassau,27.0,High,Clear,137.3,Freight,138.74,9,1,1,On Time
+SHP-00829,Factory C,Marsh Harbour,Factory C to Marsh Harbour,341.7,High,Clear,43.3,Van,106.65,15,2,2,On Time
+SHP-00830,Factory A,Freeport,Factory A to Freeport,215.5,Medium,Clear,11.5,Van,77.87,11,1,2,Delayed
+SHP-00831,Factory B,Marsh Harbour,Factory B to Marsh Harbour,312.6,Medium,Clear,49.5,Truck,109.22,19,2,2,On Time
+SHP-00832,Factory B,Freeport,Factory B to Freeport,230.8,High,Clear,54.2,Freight,165.28,8,2,3,Delayed
+SHP-00833,Factory A,George Town,Factory A to George Town,411.1,Low,Clear,33.4,Van,85.66,11,2,1,On Time
+SHP-00834,Factory B,Nassau,Factory B to Nassau,73.6,Low,Rain,15.3,Freight,127.33,12,1,2,Delayed
+SHP-00835,Factory B,Freeport,Factory B to Freeport,240.0,High,Clear,129.8,Van,109.76,18,1,2,Delayed
+SHP-00836,Factory B,Marsh Harbour,Factory B to Marsh Harbour,318.7,Low,Clear,16.9,Van,84.6,13,2,1,On Time
+SHP-00837,Factory B,George Town,Factory B to George Town,425.5,Medium,Clear,58.9,Van,104.18,6,2,2,On Time
+SHP-00838,Factory C,Freeport,Factory C to Freeport,250.1,Medium,Clear,42.3,Freight,170.24,10,2,1,On Time
+SHP-00839,Factory A,Marsh Harbour,Factory A to Marsh Harbour,255.8,Medium,Clear,56.4,Truck,101.28,18,1,3,Delayed
+SHP-00840,Factory B,Nassau,Factory B to Nassau,64.6,Low,Clear,125.1,Truck,79.43,9,1,1,On Time
+SHP-00841,Factory A,Nassau,Factory A to Nassau,44.8,Medium,,54.8,Van,50.88,10,1,1,On Time
+SHP-00842,Factory B,Nassau,Factory B to Nassau,76.6,Low,Rain,24.5,Van,45.27,7,1,1,On Time
+SHP-00843,Factory B,Marsh Harbour,Factory B to Marsh Harbour,285.1,High,Clear,81.2,Van,94.76,15,1,2,Delayed
+SHP-00844,Factory A,Nassau,Factory A to Nassau,18.7,Low,Clear,23.2,Van,26.65,7,1,2,Delayed
+SHP-00845,Factory A,Marsh Harbour,Factory A to Marsh Harbour,288.3,Medium,Clear,41.2,Van,87.39,10,1,1,On Time
+SHP-00846,Factory C,Nassau,Factory C to Nassau,81.7,Medium,Clear,14.4,Van,35.5,15,1,1,On Time
+SHP-00847,Factory A,George Town,Factory A to George Town,356.1,Low,Rain,17.4,Truck,114.64,18,2,4,Delayed
+SHP-00848,Factory B,George Town,Factory B to George Town,418.8,Low,Rain,38.0,Freight,233.98,8,2,2,On Time
+SHP-00849,Factory A,Nassau,Factory A to Nassau,12.0,Medium,Storm,47.7,Truck,69.41,9,1,3,Delayed
+SHP-00850,Factory C,Nassau,Factory C to Nassau,66.0,Low,Clear,10.7,Van,42.62,6,1,1,On Time
+SHP-00851,Factory A,Nassau,Factory A to Nassau,59.3,Low,Clear,52.4,Freight,133.19,11,1,1,On Time
+SHP-00852,Factory A,George Town,Factory A to George Town,422.8,Medium,Clear,20.3,Truck,144.51,19,2,2,On Time
+SHP-00853,Factory C,Nassau,Factory C to Nassau,61.1,High,Clear,92.0,Truck,72.96,9,1,2,Delayed
+SHP-00854,Factory C,Freeport,Factory C to Freeport,252.1,Medium,Clear,28.4,Truck,137.81,8,1,3,Delayed
+SHP-00855,Factory A,Freeport,Factory A to Freeport,210.8,Medium,Clear,16.3,Van,67.6,10,1,2,Delayed
+SHP-00856,Factory A,George Town,Factory A to George Town,422.1,High,Clear,38.7,Truck,135.93,18,2,2,On Time
+SHP-00857,Factory B,Freeport,Factory B to Freeport,223.1,Medium,Clear,18.9,Truck,88.88,13,1,2,Delayed
+SHP-00858,Factory C,Freeport,Factory C to Freeport,249.4,Medium,Clear,91.3,Freight,192.65,14,2,2,On Time
+SHP-00859,Factory A,Spanish Wells,Factory A to Spanish Wells,192.9,Medium,Clear,36.6,Truck,70.67,16,1,1,On Time
+SHP-00860,Factory B,Nassau,Factory B to Nassau,50.3,Low,Rain,32.8,Van,28.66,15,1,1,On Time
+SHP-00861,Factory B,George Town,Factory B to George Town,425.0,Low,Clear,56.0,Van,115.67,13,2,2,On Time
+SHP-00862,Factory B,Nassau,Factory B to Nassau,30.4,Medium,Clear,17.8,Truck,44.62,13,1,1,On Time
+SHP-00863,Factory B,Freeport,Factory B to Freeport,228.9,Low,Storm,14.5,Truck,110.05,12,1,2,Delayed
+SHP-00864,Factory B,George Town,Factory B to George Town,382.1,Medium,Clear,49.1,Freight,222.59,7,2,4,Delayed
+SHP-00865,Factory A,Marsh Harbour,Factory A to Marsh Harbour,261.0,Low,Clear,16.6,Van,60.07,11,1,1,On Time
+SHP-00866,Factory C,Marsh Harbour,Factory C to Marsh Harbour,343.1,Medium,Rain,16.6,Truck,110.12,17,2,2,On Time
+SHP-00867,Factory C,Nassau,Factory C to Nassau,82.1,Low,Clear,66.9,Van,21.28,5,1,1,On Time
+SHP-00868,Factory B,Freeport,Factory B to Freeport,226.3,Medium,Clear,53.4,Van,77.45,17,1,2,Delayed
+SHP-00869,Factory A,Freeport,Factory A to Freeport,196.5,Medium,Rain,14.8,Truck,97.04,13,1,2,Delayed
+SHP-00870,Factory A,Freeport,Factory A to Freeport,206.0,Low,Rain,23.4,Van,58.35,10,1,1,On Time
+SHP-00871,Factory B,Freeport,Factory B to Freeport,237.4,Low,Rain,19.1,Van,58.44,6,1,2,Delayed
+SHP-00872,Factory A,Freeport,Factory A to Freeport,227.7,Low,Storm,131.5,Truck,113.7,16,1,2,Delayed
+SHP-00873,Factory C,Nassau,Factory C to Nassau,35.7,High,Clear,70.3,Freight,136.85,5,1,1,On Time
+SHP-00874,Factory A,Nassau,Factory A to Nassau,20.0,Low,Rain,27.0,Truck,37.92,13,1,1,On Time
+SHP-00875,Factory B,Freeport,Factory B to Freeport,234.9,Medium,Clear,55.4,Truck,88.84,7,1,4,Delayed
+SHP-00876,Factory C,Nassau,Factory C to Nassau,81.2,Low,Clear,13.8,Truck,39.08,18,1,1,On Time
+SHP-00877,Factory A,George Town,Factory A to George Town,397.3,Low,Rain,22.5,Van,98.54,7,2,3,Delayed
+SHP-00878,Factory A,Marsh Harbour,Factory A to Marsh Harbour,284.8,Medium,Rain,39.5,Van,92.74,17,1,4,Delayed
+SHP-00879,Factory B,Nassau,Factory B to Nassau,51.5,Medium,Rain,50.7,Freight,150.58,13,1,1,On Time
+SHP-00880,Factory B,Marsh Harbour,Factory B to Marsh Harbour,292.5,Low,Clear,34.1,Truck,105.59,5,2,1,On Time
+SHP-00881,Factory A,George Town,Factory A to George Town,385.6,,Clear,43.8,Van,109.47,15,2,4,Delayed
+SHP-00882,Factory B,Nassau,Factory B to Nassau,77.7,Low,Clear,38.7,Van,45.63,18,1,1,On Time
+SHP-00883,Factory C,Nassau,Factory C to Nassau,69.8,Low,Clear,32.5,Truck,60.03,8,1,1,On Time
+SHP-00884,Factory A,Nassau,Factory A to Nassau,33.9,Medium,Rain,29.6,Truck,50.35,19,1,2,Delayed
+SHP-00885,Factory A,Nassau,Factory A to Nassau,38.3,Medium,Rain,26.9,Freight,148.29,16,1,2,Delayed
+SHP-00886,Factory A,George Town,Factory A to George Town,418.1,Medium,Clear,43.2,Truck,138.03,16,2,3,Delayed
+SHP-00887,Factory A,Spanish Wells,Factory A to Spanish Wells,159.6,Low,Clear,49.2,Van,54.36,10,1,1,On Time
+SHP-00888,Factory A,Nassau,Factory A to Nassau,52.3,High,Clear,42.2,Van,53.3,6,1,1,On Time
+SHP-00889,Factory A,George Town,Factory A to George Town,412.2,Medium,Clear,15.7,Truck,139.74,11,2,2,On Time
+SHP-00890,Factory B,Nassau,Factory B to Nassau,55.9,High,Clear,17.8,Freight,145.58,17,1,1,On Time
+SHP-00891,Factory A,Marsh Harbour,Factory A to Marsh Harbour,276.2,High,Rain,48.8,Freight,190.97,13,2,2,On Time
+SHP-00892,Factory C,George Town,Factory C to George Town,432.1,High,Clear,105.6,Truck,164.06,14,2,2,On Time
+SHP-00893,Factory A,Freeport,Factory A to Freeport,205.4,Medium,Storm,40.8,Van,91.65,16,1,2,Delayed
+SHP-00894,Factory A,Nassau,Factory A to Nassau,50.4,Low,Clear,27.2,Truck,58.74,10,1,1,On Time
+SHP-00895,Factory B,Marsh Harbour,Factory B to Marsh Harbour,306.2,Medium,Rain,43.0,Van,90.39,5,2,2,On Time
+SHP-00896,Factory C,Spanish Wells,Factory C to Spanish Wells,217.2,Medium,Clear,16.1,Truck,86.56,18,1,1,On Time
+SHP-00897,Factory A,Nassau,Factory A to Nassau,14.7,Medium,Rain,93.9,Truck,64.86,14,1,1,On Time
+SHP-00898,Factory A,Nassau,Factory A to Nassau,17.6,Medium,Clear,41.9,Truck,50.44,13,1,3,Delayed
+SHP-00899,Factory A,Nassau,Factory A to Nassau,73.6,Low,Rain,22.6,Truck,50.21,13,1,1,On Time
+SHP-00900,Factory B,Freeport,Factory B to Freeport,228.8,High,Rain,32.5,Truck,128.4,17,1,3,Delayed
+SHP-00901,Factory A,Marsh Harbour,Factory A to Marsh Harbour,266.1,Low,Clear,25.0,Truck,105.24,16,1,2,Delayed
+SHP-00902,Factory A,George Town,Factory A to George Town,415.8,High,Clear,94.1,Freight,229.83,15,2,3,Delayed
+SHP-00903,Factory A,George Town,Factory A to George Town,395.1,Low,Clear,31.6,Truck,120.83,16,2,2,On Time
+SHP-00904,Factory A,Spanish Wells,Factory A to Spanish Wells,175.4,Low,Rain,40.9,Truck,88.76,9,1,2,Delayed
+SHP-00905,Factory C,George Town,Factory C to George Town,435.5,High,Clear,55.3,Truck,160.86,15,2,2,On Time
+SHP-00906,Factory B,Nassau,Factory B to Nassau,51.3,High,Clear,21.5,Van,26.02,19,1,2,Delayed
+SHP-00907,Factory A,Freeport,Factory A to Freeport,206.9,Medium,Clear,42.1,Truck,94.2,8,1,2,Delayed
+SHP-00908,Factory A,Nassau,Factory A to Nassau,12.0,High,Clear,44.6,Van,47.01,13,1,1,On Time
+SHP-00909,Factory A,Freeport,Factory A to Freeport,208.4,Low,Rain,12.0,Van,38.15,15,1,2,Delayed
+SHP-00910,Factory A,Spanish Wells,Factory A to Spanish Wells,170.3,High,Rain,43.9,Truck,101.72,12,1,2,Delayed
+SHP-00911,Factory B,Marsh Harbour,Factory B to Marsh Harbour,335.3,Low,Rain,35.4,Freight,206.46,19,2,2,On Time
+SHP-00912,Factory C,Spanish Wells,Factory C to Spanish Wells,214.5,Medium,Rain,40.2,Truck,106.32,11,1,2,Delayed
+SHP-00913,Factory C,Freeport,Factory C to Freeport,216.0,Medium,Rain,37.5,Van,85.11,8,1,3,Delayed
+SHP-00914,Factory C,Freeport,Factory C to Freeport,256.3,Low,Clear,44.1,Truck,91.22,7,1,1,On Time
+SHP-00915,Factory C,Freeport,Factory C to Freeport,307.3,Medium,Storm,95.9,Van,100.14,17,2,4,Delayed
+SHP-00916,Factory C,Nassau,Factory C to Nassau,98.6,,Clear,15.7,Freight,107.56,15,1,1,On Time
+SHP-00917,Factory A,Nassau,Factory A to Nassau,20.4,Low,Clear,28.6,Truck,53.23,13,1,1,On Time
+SHP-00918,Factory A,Freeport,Factory A to Freeport,220.6,High,Rain,59.1,Truck,120.13,11,1,2,Delayed
+SHP-00919,Factory A,Nassau,Factory A to Nassau,21.6,Medium,Clear,51.7,Truck,61.57,11,1,1,On Time
+SHP-00920,Factory B,Spanish Wells,Factory B to Spanish Wells,162.6,Low,Clear,50.9,Truck,65.24,19,1,1,On Time
+SHP-00921,Factory A,Nassau,Factory A to Nassau,28.7,Medium,Clear,265.8,Freight,127.99,15,1,2,Delayed
+SHP-00922,Factory C,Nassau,Factory C to Nassau,84.6,Low,Clear,57.0,Van,19.75,19,1,2,Delayed
+SHP-00923,Factory B,George Town,Factory B to George Town,378.3,Low,Rain,82.6,Van,92.81,17,2,2,On Time
+SHP-00924,Factory B,Nassau,Factory B to Nassau,36.3,Medium,Clear,29.3,Freight,113.7,16,1,2,Delayed
+SHP-00925,Factory A,Spanish Wells,Factory A to Spanish Wells,165.2,Low,Clear,17.9,Freight,149.84,13,1,2,Delayed
+SHP-00926,Factory A,Marsh Harbour,Factory A to Marsh Harbour,272.7,Low,Clear,29.2,Freight,192.53,8,2,2,On Time
+SHP-00927,Factory A,Nassau,Factory A to Nassau,42.1,Medium,Clear,61.1,Truck,49.86,14,1,1,On Time
+SHP-00928,Factory C,Marsh Harbour,Factory C to Marsh Harbour,306.1,Low,Clear,49.1,Truck,96.47,15,2,2,On Time
+SHP-00929,Factory B,Marsh Harbour,Factory B to Marsh Harbour,314.9,High,Clear,48.9,Truck,113.87,12,2,2,On Time
+SHP-00930,Factory B,George Town,Factory B to George Town,390.7,Medium,Clear,31.4,Truck,123.18,5,2,3,Delayed
+SHP-00931,Factory A,George Town,Factory A to George Town,419.6,Low,Clear,28.0,Truck,158.56,19,2,2,On Time
+SHP-00932,Factory A,Marsh Harbour,Factory A to Marsh Harbour,249.1,Medium,Clear,32.2,Truck,107.99,17,1,2,Delayed
+SHP-00933,Factory A,Marsh Harbour,Factory A to Marsh Harbour,260.3,Low,Clear,61.7,Truck,110.3,10,1,2,Delayed
+SHP-00934,Factory B,Freeport,Factory B to Freeport,239.5,Medium,Rain,67.0,Truck,103.57,12,1,2,Delayed
+SHP-00935,Factory B,Marsh Harbour,Factory B to Marsh Harbour,332.0,Low,Clear,17.7,Truck,111.23,6,2,2,On Time
+SHP-00936,Factory A,Spanish Wells,Factory A to Spanish Wells,170.7,High,Clear,63.4,Truck,100.82,19,1,2,Delayed
+SHP-00937,Factory C,Marsh Harbour,Factory C to Marsh Harbour,338.1,Low,Storm,22.9,Truck,130.84,8,2,2,On Time
+SHP-00938,Factory A,Marsh Harbour,Factory A to Marsh Harbour,280.3,Medium,Clear,51.3,Truck,103.54,10,2,1,On Time
+SHP-00939,Factory C,Freeport,Factory C to Freeport,239.5,Low,Clear,31.9,Van,57.48,11,1,1,On Time
+SHP-00940,Factory A,George Town,Factory A to George Town,381.2,Low,Rain,113.0,Van,100.4,8,2,3,Delayed
+SHP-00941,Factory A,Spanish Wells,Factory A to Spanish Wells,143.2,Medium,Clear,27.1,Truck,74.88,14,1,2,Delayed
+SHP-00942,Factory C,Nassau,Factory C to Nassau,60.0,Medium,Rain,41.6,Truck,54.02,19,1,3,Delayed
+SHP-00943,Factory A,Nassau,Factory A to Nassau,42.2,High,Rain,56.6,Truck,73.97,17,1,2,Delayed
+SHP-00944,Factory A,Freeport,Factory A to Freeport,189.8,Low,Storm,19.5,Truck,106.04,12,1,2,Delayed
+SHP-00945,Factory A,Freeport,Factory A to Freeport,215.8,Low,Storm,34.7,Truck,107.22,6,1,2,Delayed
+SHP-00946,Factory A,Marsh Harbour,Factory A to Marsh Harbour,256.6,Low,Clear,30.2,Freight,157.98,17,2,3,Delayed
+SHP-00947,Factory B,Nassau,Factory B to Nassau,62.3,Medium,Rain,25.3,Truck,64.85,8,1,1,On Time
+SHP-00948,Factory C,Freeport,Factory C to Freeport,249.2,High,Clear,26.7,Truck,102.59,18,1,2,Delayed
+SHP-00949,Factory C,Marsh Harbour,Factory C to Marsh Harbour,353.3,High,Clear,81.5,Van,106.98,10,2,2,On Time
+SHP-00950,Factory A,Marsh Harbour,Factory A to Marsh Harbour,285.8,High,Clear,23.8,Van,103.03,12,1,2,Delayed
+SHP-00951,Factory B,Marsh Harbour,Factory B to Marsh Harbour,324.2,Low,Clear,55.0,Truck,96.28,11,2,2,On Time
+SHP-00952,Factory A,Marsh Harbour,Factory A to Marsh Harbour,266.4,Medium,,45.9,Truck,129.65,11,1,2,Delayed
+SHP-00953,Factory A,Marsh Harbour,Factory A to Marsh Harbour,281.0,Medium,Clear,13.4,Freight,179.28,7,2,2,On Time
+SHP-00954,Factory A,George Town,Factory A to George Town,372.3,Low,Clear,53.2,Truck,127.23,13,2,3,Delayed
+SHP-00955,Factory C,Marsh Harbour,Factory C to Marsh Harbour,320.6,Medium,Clear,13.2,Van,76.74,11,2,2,On Time
+SHP-00956,Factory C,Freeport,Factory C to Freeport,253.3,Low,Rain,57.5,Van,91.57,17,1,2,Delayed
+SHP-00957,Factory B,Marsh Harbour,Factory B to Marsh Harbour,288.9,Low,Clear,25.4,Truck,100.21,12,2,4,Delayed
+SHP-00958,Factory B,Nassau,Factory B to Nassau,35.1,High,Rain,36.8,Van,46.33,19,1,3,Delayed
+SHP-00959,Factory A,Nassau,Factory A to Nassau,12.0,Low,Rain,14.4,Truck,38.57,9,1,1,On Time
+SHP-00960,Factory B,Freeport,Factory B to Freeport,189.9,High,Rain,40.0,Truck,100.46,9,1,2,Delayed
+SHP-00961,Factory B,George Town,Factory B to George Town,393.0,Low,Clear,71.3,Truck,132.98,5,2,2,On Time
+SHP-00962,Factory A,Marsh Harbour,Factory A to Marsh Harbour,291.3,Low,Rain,20.5,Freight,187.36,16,2,3,Delayed
+SHP-00963,Factory A,Nassau,Factory A to Nassau,12.0,Low,Rain,23.6,Truck,45.46,6,1,1,On Time
+SHP-00964,Factory A,Marsh Harbour,Factory A to Marsh Harbour,255.4,Low,Rain,50.8,Truck,94.74,9,1,2,Delayed
+SHP-00965,Factory C,Nassau,Factory C to Nassau,115.2,Medium,Rain,51.7,Freight,133.84,18,1,2,Delayed
+SHP-00966,Factory A,Marsh Harbour,Factory A to Marsh Harbour,268.5,Low,Clear,6.3,Truck,90.54,14,1,2,Delayed
+SHP-00967,Factory C,George Town,Factory C to George Town,443.8,Medium,Clear,156.2,Freight,236.25,13,2,2,On Time
+SHP-00968,Factory A,Marsh Harbour,Factory A to Marsh Harbour,291.6,High,Rain,53.5,Van,108.83,17,1,2,Delayed
+SHP-00969,Factory B,Marsh Harbour,Factory B to Marsh Harbour,313.9,Medium,Clear,60.4,Van,97.13,16,2,3,Delayed
+SHP-00970,Factory A,Freeport,Factory A to Freeport,182.6,Low,Rain,33.0,Van,62.82,18,1,1,On Time
+SHP-00971,Factory A,Freeport,Factory A to Freeport,205.8,Medium,Clear,9.6,Van,68.33,14,1,2,Delayed
+SHP-00972,Factory A,George Town,Factory A to George Town,360.9,Medium,Clear,59.5,Truck,123.96,11,2,2,On Time
+SHP-00973,Factory A,Marsh Harbour,Factory A to Marsh Harbour,324.0,Medium,Clear,24.4,Freight,171.67,6,2,2,On Time
+SHP-00974,Factory C,Freeport,Factory C to Freeport,229.3,Low,Clear,54.1,Freight,158.51,10,2,2,On Time
+SHP-00975,Factory A,Freeport,Factory A to Freeport,191.1,Medium,Storm,31.3,Freight,175.1,15,1,2,Delayed
+SHP-00976,Factory B,Nassau,Factory B to Nassau,38.3,Medium,Clear,43.4,Van,21.63,8,1,1,On Time
+SHP-00977,Factory A,Nassau,Factory A to Nassau,12.0,Low,Rain,20.9,Van,22.83,15,1,1,On Time
+SHP-00978,Factory A,Nassau,Factory A to Nassau,59.3,Low,Clear,68.2,Van,35.32,7,1,1,On Time
+SHP-00979,Factory B,Freeport,Factory B to Freeport,275.6,High,Storm,15.6,Truck,124.57,5,2,2,On Time
+SHP-00980,Factory A,Spanish Wells,Factory A to Spanish Wells,156.4,Low,Clear,184.3,Van,51.17,10,1,1,On Time
+SHP-00981,Factory C,Freeport,Factory C to Freeport,234.2,Low,Clear,183.3,Van,92.99,8,1,1,On Time
+SHP-00982,Factory C,Nassau,Factory C to Nassau,42.7,Low,Clear,118.6,Van,15.0,18,1,1,On Time
+SHP-00983,Factory B,Nassau,Factory B to Nassau,52.6,Medium,Clear,91.7,Truck,54.48,10,1,1,On Time
+SHP-00984,Factory A,Freeport,Factory A to Freeport,204.3,Medium,Storm,34.4,Truck,98.71,11,1,2,Delayed
+SHP-00985,Factory A,George Town,Factory A to George Town,378.3,Low,Storm,84.8,Van,110.37,11,2,2,On Time
+SHP-00986,Factory C,Freeport,Factory C to Freeport,262.0,Medium,Clear,34.1,Truck,99.59,9,1,3,Delayed
+SHP-00987,Factory A,George Town,Factory A to George Town,397.1,Medium,Clear,12.0,Freight,200.76,18,2,3,Delayed
+SHP-00988,Factory A,George Town,Factory A to George Town,395.8,Low,Clear,108.0,Van,107.11,16,2,3,Delayed
+SHP-00989,Factory A,Nassau,Factory A to Nassau,29.3,High,Clear,82.5,Truck,77.08,7,1,4,Delayed
+SHP-00990,Factory B,Marsh Harbour,Factory B to Marsh Harbour,282.2,Low,Clear,35.8,Truck,110.8,8,2,2,On Time
+SHP-00991,Factory B,Spanish Wells,Factory B to Spanish Wells,199.0,Low,Clear,15.1,Van,69.09,6,1,1,On Time
+SHP-00992,Factory B,Freeport,Factory B to Freeport,232.2,High,Clear,,Truck,88.05,8,1,1,On Time
+SHP-00993,Factory B,Nassau,Factory B to Nassau,73.0,High,Rain,9.9,Freight,136.87,14,1,2,Delayed
+SHP-00994,Factory A,Spanish Wells,Factory A to Spanish Wells,179.2,Low,Clear,72.3,Truck,84.44,19,1,1,On Time
+SHP-00995,Factory C,George Town,Factory C to George Town,412.4,High,Clear,11.5,Truck,155.88,12,2,2,On Time
+SHP-00996,Factory A,Freeport,Factory A to Freeport,184.2,Medium,Clear,45.0,Truck,105.66,6,1,1,On Time
+SHP-00997,Factory B,Freeport,Factory B to Freeport,218.4,Low,Clear,19.9,Van,73.62,5,1,1,On Time
+SHP-00998,Factory A,Nassau,Factory A to Nassau,16.0,High,Clear,13.1,Freight,126.7,11,1,1,On Time
+SHP-00999,Factory C,George Town,Factory C to George Town,451.6,Medium,Clear,43.5,Freight,260.57,8,2,2,On Time
+SHP-01000,Factory A,Freeport,Factory A to Freeport,216.3,Low,Clear,28.8,Truck,86.34,13,1,2,Delayed
+SHP-01001,Factory A,Nassau,Factory A to Nassau,54.8,Medium,Rain,66.9,Freight,123.22,6,1,2,Delayed
+SHP-01002,Factory A,Marsh Harbour,Factory A to Marsh Harbour,287.1,Medium,Rain,14.7,Truck,116.9,8,2,2,On Time
+SHP-01003,Factory A,Spanish Wells,Factory A to Spanish Wells,168.8,Low,Rain,21.2,Van,48.47,13,1,2,Delayed
+SHP-01004,Factory A,George Town,Factory A to George Town,411.6,High,Clear,6.6,Freight,227.29,9,2,4,Delayed
+SHP-01005,Factory B,Nassau,Factory B to Nassau,65.5,Medium,Clear,7.6,Truck,34.72,10,1,1,On Time
+SHP-01006,Factory A,Nassau,Factory A to Nassau,36.2,Medium,Clear,133.6,Freight,109.46,8,1,1,On Time
+SHP-01007,Factory C,Spanish Wells,Factory C to Spanish Wells,239.6,Medium,Clear,164.1,Truck,101.93,5,1,2,Delayed
+SHP-01008,Factory A,Spanish Wells,Factory A to Spanish Wells,167.1,Medium,Storm,39.1,Truck,115.78,10,1,2,Delayed
+SHP-01009,Factory B,Freeport,Factory B to Freeport,226.5,Low,Storm,20.2,Van,99.68,9,1,1,On Time
+SHP-01010,Factory A,Marsh Harbour,Factory A to Marsh Harbour,264.9,High,Clear,29.5,Freight,174.64,18,2,2,On Time
+SHP-01011,Factory B,Freeport,Factory B to Freeport,244.7,Medium,Clear,68.6,Truck,124.62,18,1,4,Delayed
+SHP-01012,Factory B,Freeport,Factory B to Freeport,254.3,Medium,Clear,25.3,Van,75.74,11,1,2,Delayed
+SHP-01013,Factory A,Nassau,Factory A to Nassau,34.1,Medium,Clear,43.4,Truck,52.89,9,1,1,On Time
+SHP-01014,Factory C,Nassau,Factory C to Nassau,106.5,Low,Storm,36.3,Van,45.18,11,1,2,Delayed
+SHP-01015,Factory A,Nassau,Factory A to Nassau,12.0,Low,Clear,24.3,Van,15.0,14,1,1,On Time
+SHP-01016,Factory A,George Town,Factory A to George Town,389.0,Low,Clear,25.1,Truck,137.32,10,2,4,Delayed
+SHP-01017,Factory B,Nassau,Factory B to Nassau,56.3,Low,Clear,45.2,Van,33.67,16,1,2,Delayed
+SHP-01018,Factory C,Nassau,Factory C to Nassau,69.9,Medium,Clear,18.1,Van,39.75,19,1,1,On Time
+SHP-01019,Factory A,Freeport,Factory A to Freeport,252.9,High,Clear,50.7,Van,88.07,11,1,2,Delayed
+SHP-01020,Factory A,Nassau,Factory A to Nassau,33.8,Low,Rain,26.1,Truck,33.76,6,1,1,On Time
+SHP-01021,Factory C,Nassau,Factory C to Nassau,75.7,Low,Clear,40.1,Truck,52.26,6,1,1,On Time
+SHP-01022,Factory B,Marsh Harbour,Factory B to Marsh Harbour,302.5,Medium,Clear,99.1,Freight,206.07,18,2,3,Delayed
+SHP-01023,Factory C,Freeport,Factory C to Freeport,221.9,Low,Clear,32.4,Van,75.31,11,1,2,Delayed
+SHP-01024,Factory B,Marsh Harbour,Factory B to Marsh Harbour,288.3,High,Clear,71.0,Van,91.89,9,1,2,Delayed
+SHP-01025,Factory B,Spanish Wells,Factory B to Spanish Wells,204.7,Medium,Clear,10.1,Van,82.31,14,1,3,Delayed
+SHP-01026,Factory A,Nassau,Factory A to Nassau,23.7,Low,Clear,26.1,Freight,87.44,19,1,1,On Time
+SHP-01027,Factory C,Spanish Wells,Factory C to Spanish Wells,198.1,Low,Clear,37.3,Truck,69.77,11,1,2,Delayed
+SHP-01028,Factory A,Spanish Wells,Factory A to Spanish Wells,188.6,High,Clear,146.2,Van,101.7,9,1,2,Delayed
+SHP-01029,Factory B,George Town,Factory B to George Town,436.1,Low,Rain,8.9,Van,116.37,17,2,2,On Time
+SHP-01030,Factory A,Marsh Harbour,Factory A to Marsh Harbour,289.3,Medium,Rain,34.1,Truck,112.78,6,2,2,On Time
+SHP-01031,Factory B,Marsh Harbour,Factory B to Marsh Harbour,293.8,Low,Storm,104.5,Truck,130.14,17,2,3,Delayed
+SHP-01032,Factory B,Marsh Harbour,Factory B to Marsh Harbour,297.7,Low,Clear,20.8,Van,66.24,12,1,1,On Time
+SHP-01033,Factory B,Marsh Harbour,Factory B to Marsh Harbour,287.5,High,Rain,31.4,Freight,203.92,5,2,2,On Time
+SHP-01034,Factory C,Nassau,Factory C to Nassau,65.1,Low,Clear,46.5,Van,35.76,8,1,1,On Time
+SHP-01035,Factory A,Spanish Wells,Factory A to Spanish Wells,146.2,Low,Clear,41.8,Truck,69.95,15,1,2,Delayed
+SHP-01036,Factory B,Marsh Harbour,Factory B to Marsh Harbour,290.9,Medium,Clear,113.0,Freight,172.49,16,2,3,Delayed
+SHP-01037,Factory A,George Town,Factory A to George Town,371.4,High,Clear,50.5,Truck,141.12,7,2,2,On Time
+SHP-01038,Factory A,Freeport,Factory A to Freeport,181.9,Low,Rain,95.2,Truck,82.24,14,1,2,Delayed
+SHP-01039,Factory A,Nassau,Factory A to Nassau,38.9,Low,Clear,28.2,Freight,95.05,19,1,1,On Time
+SHP-01040,Factory A,Freeport,Factory A to Freeport,214.2,High,Clear,21.5,Van,91.3,15,1,2,Delayed
+SHP-01041,Factory A,Freeport,Factory A to Freeport,240.6,Medium,Storm,31.1,Freight,219.49,15,2,2,On Time
+SHP-01042,Factory B,Freeport,Factory B to Freeport,220.0,High,Clear,15.9,Van,100.14,7,1,1,On Time
+SHP-01043,Factory B,Freeport,Factory B to Freeport,237.3,Medium,Storm,51.8,Van,104.26,14,1,3,Delayed
+SHP-01044,Factory B,Nassau,Factory B to Nassau,62.6,Medium,Rain,27.7,Truck,60.6,15,1,1,On Time
+SHP-01045,Factory A,Freeport,Factory A to Freeport,205.4,Medium,Rain,22.6,Truck,95.53,6,1,2,Delayed
+SHP-01046,Factory A,Freeport,Factory A to Freeport,223.4,Low,Rain,52.4,Freight,172.25,9,2,2,On Time
+SHP-01047,Factory A,Spanish Wells,Factory A to Spanish Wells,179.0,Medium,Clear,16.1,Freight,146.64,18,1,2,Delayed
+SHP-01048,Factory B,Nassau,Factory B to Nassau,62.9,Medium,Clear,63.7,Truck,73.48,19,1,1,On Time
+SHP-01049,Factory C,Nassau,Factory C to Nassau,78.4,High,Rain,25.9,Truck,52.9,7,1,4,Delayed
+SHP-01050,Factory A,Nassau,Factory A to Nassau,28.6,Medium,Rain,84.3,Truck,55.24,15,1,1,On Time
+SHP-01051,Factory B,Freeport,Factory B to Freeport,207.4,Low,Clear,27.6,Truck,92.69,12,1,1,On Time
+SHP-01052,Factory A,Freeport,Factory A to Freeport,195.5,Medium,Clear,57.7,Freight,147.62,13,1,2,Delayed
+SHP-01053,Factory A,Marsh Harbour,Factory A to Marsh Harbour,268.8,Medium,Clear,41.6,Truck,101.02,12,1,2,Delayed
+SHP-01054,Factory A,Spanish Wells,Factory A to Spanish Wells,144.8,Medium,Clear,62.5,Truck,83.55,18,1,1,On Time
+SHP-01055,Factory A,Nassau,Factory A to Nassau,42.9,Medium,Clear,39.6,Freight,132.62,11,1,1,On Time
+SHP-01056,Factory B,Marsh Harbour,Factory B to Marsh Harbour,323.5,Medium,Rain,11.0,Van,78.65,13,2,2,On Time
+SHP-01057,Factory C,Nassau,Factory C to Nassau,66.7,Low,Rain,75.7,Truck,44.71,15,1,1,On Time
+SHP-01058,Factory A,Nassau,Factory A to Nassau,40.1,Medium,Rain,34.4,Truck,47.59,13,1,1,On Time
+SHP-01059,Factory B,Freeport,Factory B to Freeport,213.4,Medium,Clear,64.6,Truck,73.86,18,1,2,Delayed
+SHP-01060,Factory B,Nassau,Factory B to Nassau,51.5,High,Clear,60.2,Truck,47.26,8,1,2,Delayed
+SHP-01061,Factory C,Marsh Harbour,Factory C to Marsh Harbour,315.6,Medium,Clear,21.0,Truck,101.97,19,2,3,Delayed
+SHP-01062,Factory B,Marsh Harbour,Factory B to Marsh Harbour,312.8,Medium,Clear,18.9,Truck,127.69,15,2,3,Delayed
+SHP-01063,Factory A,George Town,Factory A to George Town,377.8,Medium,Clear,58.7,Truck,126.08,19,2,4,Delayed
+SHP-01064,Factory B,Freeport,Factory B to Freeport,250.2,Medium,Clear,29.4,Truck,99.39,10,1,2,Delayed
+SHP-01065,Factory A,Marsh Harbour,Factory A to Marsh Harbour,275.6,Low,Clear,71.8,Truck,89.51,12,2,2,On Time
+SHP-01066,Factory C,Freeport,Factory C to Freeport,246.3,High,Clear,32.2,Freight,188.69,5,2,2,On Time
+SHP-01067,Factory A,Nassau,Factory A to Nassau,12.4,High,Clear,76.5,Truck,79.19,18,1,1,On Time
+SHP-01068,Factory B,Nassau,Factory B to Nassau,61.6,Medium,Clear,49.6,Truck,46.0,17,1,1,On Time
+SHP-01069,Factory A,Marsh Harbour,Factory A to Marsh Harbour,296.1,Medium,Clear,45.0,Freight,206.18,9,2,2,On Time
+SHP-01070,Factory A,Spanish Wells,Factory A to Spanish Wells,169.9,Low,Clear,28.0,Truck,78.85,5,1,1,On Time
+SHP-01071,Factory C,Nassau,Factory C to Nassau,123.3,Medium,Clear,43.3,Truck,70.73,15,1,2,Delayed
+SHP-01072,Factory B,Freeport,Factory B to Freeport,257.7,Medium,Clear,86.4,Freight,180.98,15,2,2,On Time
+SHP-01073,Factory A,George Town,Factory A to George Town,384.5,Medium,Clear,35.2,Van,104.03,12,2,2,On Time
+SHP-01074,Factory C,George Town,Factory C to George Town,432.3,Low,Storm,53.6,Truck,182.39,7,2,2,On Time
+SHP-01075,Factory C,Freeport,Factory C to Freeport,266.5,Medium,Clear,37.8,Van,83.33,18,1,4,Delayed
+SHP-01076,Factory A,Marsh Harbour,Factory A to Marsh Harbour,264.9,Low,Rain,40.0,Van,85.42,11,1,1,On Time
+SHP-01077,Factory B,Marsh Harbour,Factory B to Marsh Harbour,323.0,Medium,Clear,126.6,Truck,115.56,15,2,2,On Time
+SHP-01078,Factory A,George Town,Factory A to George Town,396.5,Medium,Rain,86.9,Truck,153.61,17,2,2,On Time
+SHP-01079,Factory B,Nassau,Factory B to Nassau,61.6,Low,Rain,38.8,Truck,46.63,13,1,1,On Time
+SHP-01080,Factory A,Spanish Wells,Factory A to Spanish Wells,177.4,Medium,Clear,42.7,Freight,153.47,6,1,1,On Time
+SHP-01081,Factory A,Nassau,Factory A to Nassau,66.0,High,Rain,22.1,Truck,108.88,18,1,2,Delayed
+SHP-01082,Factory C,George Town,Factory C to George Town,441.1,Medium,Clear,32.3,Truck,113.02,15,2,4,Delayed
+SHP-01083,Factory C,Nassau,Factory C to Nassau,81.0,Low,Clear,45.7,Van,39.16,18,1,3,Delayed
+SHP-01084,Factory C,Nassau,Factory C to Nassau,110.2,Medium,Clear,67.5,Freight,137.48,14,1,1,On Time
+SHP-01085,Factory C,Nassau,Factory C to Nassau,100.4,Low,Clear,62.8,Truck,57.49,18,1,2,Delayed
+SHP-01086,Factory B,Freeport,Factory B to Freeport,226.2,Medium,Storm,16.5,Truck,114.4,18,1,3,Delayed
+SHP-01087,Factory B,Freeport,Factory B to Freeport,232.1,Medium,Rain,,Truck,106.18,8,1,3,Delayed
+SHP-01088,Factory B,Nassau,Factory B to Nassau,60.5,Low,Clear,34.3,Van,28.7,7,1,1,On Time
+SHP-01089,Factory A,Freeport,Factory A to Freeport,216.5,Medium,Storm,18.0,Truck,117.36,7,1,2,Delayed
+SHP-01090,Factory A,Freeport,Factory A to Freeport,185.6,Medium,Clear,95.8,Freight,150.47,16,1,2,Delayed
+SHP-01091,Factory A,George Town,Factory A to George Town,362.2,Medium,Clear,105.0,Truck,152.82,8,2,2,On Time
+SHP-01092,Factory B,Spanish Wells,Factory B to Spanish Wells,171.0,Low,Rain,44.3,Truck,80.52,11,1,2,Delayed
+SHP-01093,Factory A,Marsh Harbour,Factory A to Marsh Harbour,262.6,Low,Clear,61.0,Truck,104.28,16,1,2,Delayed
+SHP-01094,Factory A,Nassau,Factory A to Nassau,23.4,Medium,Clear,63.6,Truck,40.53,11,1,1,On Time
+SHP-01095,Factory B,Nassau,Factory B to Nassau,68.4,Low,Clear,100.0,Truck,65.93,5,1,1,On Time
+SHP-01096,Factory A,Spanish Wells,Factory A to Spanish Wells,162.0,Medium,Clear,61.8,Van,67.6,10,1,1,On Time
+SHP-01097,Factory A,Nassau,Factory A to Nassau,38.5,Low,Clear,14.1,Truck,48.59,6,1,1,On Time
+SHP-01098,Factory C,Freeport,Factory C to Freeport,236.0,Low,Clear,155.6,Van,60.63,10,1,1,On Time
+SHP-01099,Factory C,Spanish Wells,Factory C to Spanish Wells,204.7,Medium,Rain,78.8,Truck,89.99,16,1,2,Delayed
+SHP-01100,Factory A,Spanish Wells,Factory A to Spanish Wells,175.6,Low,Clear,25.4,Van,73.25,12,1,1,On Time
+SHP-01101,Factory A,Freeport,Factory A to Freeport,220.7,Medium,Clear,17.4,Truck,82.47,15,1,1,On Time
+SHP-01102,Factory A,Marsh Harbour,Factory A to Marsh Harbour,267.0,Low,Rain,52.6,Van,87.84,6,1,2,Delayed
+SHP-01103,Factory B,Freeport,Factory B to Freeport,234.9,Medium,Clear,30.0,Truck,84.19,16,1,2,Delayed
+SHP-01104,Factory C,George Town,Factory C to George Town,477.6,Medium,Clear,46.4,Freight,248.45,11,2,2,On Time
+SHP-01105,Factory A,Nassau,Factory A to Nassau,34.7,Medium,Rain,62.5,Freight,112.67,9,1,1,On Time
+SHP-01106,Factory B,Nassau,Factory B to Nassau,44.5,Medium,Rain,24.3,Freight,110.75,14,1,2,Delayed
+SHP-01107,Factory A,Marsh Harbour,Factory A to Marsh Harbour,276.9,Medium,Clear,16.4,Freight,170.56,7,2,2,On Time
+SHP-01108,Factory A,Nassau,Factory A to Nassau,36.7,Medium,Rain,48.3,Truck,52.21,12,1,3,Delayed
+SHP-01109,Factory C,Marsh Harbour,Factory C to Marsh Harbour,325.3,Low,Rain,24.9,Van,94.28,11,2,2,On Time
+SHP-01110,Factory A,Freeport,Factory A to Freeport,209.4,Medium,Clear,40.7,Truck,91.03,7,1,1,On Time
+SHP-01111,Factory A,George Town,Factory A to George Town,364.0,Low,Rain,13.9,Freight,192.26,19,2,2,On Time
+SHP-01112,Factory A,George Town,Factory A to George Town,372.7,Medium,Rain,30.5,Truck,134.91,10,2,3,Delayed
+SHP-01113,Factory B,Freeport,Factory B to Freeport,229.3,Low,Clear,61.2,Truck,76.08,5,1,2,Delayed
+SHP-01114,Factory C,George Town,Factory C to George Town,435.0,High,,56.6,Van,128.05,11,2,4,Delayed
+SHP-01115,Factory C,Nassau,Factory C to Nassau,72.8,Medium,Rain,20.7,Truck,75.7,19,1,2,Delayed
+SHP-01116,Factory A,Freeport,Factory A to Freeport,206.8,Medium,Storm,15.8,Van,88.03,15,1,2,Delayed
+SHP-01117,Factory A,Nassau,Factory A to Nassau,36.1,Medium,Clear,37.0,Truck,53.41,14,1,1,On Time
+SHP-01118,Factory B,George Town,Factory B to George Town,428.0,Low,,54.8,Van,131.91,18,2,2,On Time
+SHP-01119,Factory A,George Town,Factory A to George Town,388.2,Low,Rain,49.0,Freight,211.52,6,2,4,Delayed
+SHP-01120,Factory C,Spanish Wells,Factory C to Spanish Wells,220.2,High,Rain,25.3,Van,74.15,13,1,2,Delayed
+SHP-01121,Factory B,George Town,Factory B to George Town,402.3,Medium,Storm,45.4,Truck,165.75,9,2,3,Delayed
+SHP-01122,Factory A,Spanish Wells,Factory A to Spanish Wells,175.3,Low,Clear,108.0,Truck,66.13,15,1,1,On Time
+SHP-01123,Factory C,Nassau,Factory C to Nassau,89.8,Medium,Clear,42.4,Truck,60.25,17,1,1,On Time
+SHP-01124,Factory A,Spanish Wells,Factory A to Spanish Wells,180.6,Medium,Clear,11.3,Truck,74.92,6,1,1,On Time
+SHP-01125,Factory A,Marsh Harbour,Factory A to Marsh Harbour,292.8,Low,Clear,42.4,Van,67.97,7,1,2,Delayed
+SHP-01126,Factory B,Freeport,Factory B to Freeport,242.6,Medium,Clear,159.4,Truck,100.77,19,1,4,Delayed
+SHP-01127,Factory B,Marsh Harbour,Factory B to Marsh Harbour,300.2,Low,Rain,14.5,Truck,122.57,12,2,2,On Time
+SHP-01128,Factory B,Freeport,Factory B to Freeport,236.4,Low,Rain,37.4,Truck,111.51,9,1,2,Delayed
+SHP-01129,Factory B,Nassau,Factory B to Nassau,76.1,Medium,Clear,31.1,Freight,134.51,7,1,1,On Time
+SHP-01130,Factory C,Nassau,Factory C to Nassau,71.3,Low,Rain,39.2,Truck,64.4,10,1,1,On Time
+SHP-01131,Factory C,Nassau,Factory C to Nassau,71.7,High,Clear,42.1,Truck,65.5,5,1,2,Delayed
+SHP-01132,Factory B,Freeport,Factory B to Freeport,235.3,Medium,Clear,83.2,Truck,69.99,8,1,1,On Time
+SHP-01133,Factory A,George Town,Factory A to George Town,397.5,High,Clear,38.9,Truck,147.78,7,2,2,On Time
+SHP-01134,Factory B,Marsh Harbour,Factory B to Marsh Harbour,287.2,Medium,Clear,91.8,Freight,157.28,6,2,3,Delayed
+SHP-01135,Factory C,Freeport,Factory C to Freeport,256.7,High,Clear,33.6,Truck,87.64,19,1,2,Delayed
+SHP-01136,Factory A,Freeport,Factory A to Freeport,208.3,Medium,Rain,28.4,Van,71.48,16,1,1,On Time
+SHP-01137,Factory A,Freeport,Factory A to Freeport,170.1,,Clear,22.6,Van,60.96,19,1,2,Delayed
+SHP-01138,Factory A,Nassau,Factory A to Nassau,31.0,Medium,Clear,9.9,Van,25.12,8,1,1,On Time
+SHP-01139,Factory A,George Town,Factory A to George Town,387.2,High,Clear,44.6,Van,128.89,9,2,3,Delayed
+SHP-01140,Factory B,Nassau,Factory B to Nassau,54.1,Low,Clear,160.6,Van,44.26,9,1,1,On Time
+SHP-01141,Factory A,Marsh Harbour,Factory A to Marsh Harbour,305.5,Medium,Storm,50.9,Truck,133.82,13,2,2,On Time
+SHP-01142,Factory B,George Town,Factory B to George Town,390.1,Medium,Rain,60.0,Truck,157.36,7,2,2,On Time
+SHP-01143,Factory C,Marsh Harbour,Factory C to Marsh Harbour,313.2,Medium,Clear,27.2,Van,104.06,8,2,1,On Time
+SHP-01144,Factory C,George Town,Factory C to George Town,391.0,High,Clear,30.7,Van,116.44,19,2,2,On Time
+SHP-01145,Factory A,Nassau,Factory A to Nassau,26.3,Medium,Clear,74.4,Van,24.53,10,1,1,On Time
+SHP-01146,Factory A,George Town,Factory A to George Town,382.9,Low,Rain,155.4,Truck,131.23,16,2,2,On Time
+SHP-01147,Factory B,Marsh Harbour,Factory B to Marsh Harbour,292.8,Medium,Clear,106.8,Truck,95.32,8,2,2,On Time
+SHP-01148,Factory C,George Town,Factory C to George Town,457.9,Medium,Clear,65.4,Truck,148.08,18,2,4,Delayed
+SHP-01149,Factory A,Marsh Harbour,Factory A to Marsh Harbour,295.5,Low,Clear,37.5,Truck,91.24,15,2,2,On Time
+SHP-01150,Factory C,George Town,Factory C to George Town,439.4,Low,Clear,42.6,Truck,133.24,17,2,2,On Time
+SHP-01151,Factory A,Spanish Wells,Factory A to Spanish Wells,158.3,Low,Clear,21.3,Truck,74.6,12,1,1,On Time
+SHP-01152,Factory C,Freeport,Factory C to Freeport,276.5,Medium,Clear,12.9,Van,53.57,18,1,3,Delayed
+SHP-01153,Factory A,George Town,Factory A to George Town,389.6,High,Clear,16.3,Van,93.92,10,2,2,On Time
+SHP-01154,Factory A,George Town,Factory A to George Town,375.3,Medium,Clear,37.9,Van,91.69,12,2,2,On Time
+SHP-01155,Factory B,Freeport,Factory B to Freeport,201.1,Low,Clear,29.7,Van,57.51,5,1,2,Delayed
+SHP-01156,Factory A,Spanish Wells,Factory A to Spanish Wells,157.1,Medium,Clear,12.7,Truck,70.84,7,1,3,Delayed
+SHP-01157,Factory A,Freeport,Factory A to Freeport,223.6,High,Clear,35.6,Truck,99.96,16,1,3,Delayed
+SHP-01158,Factory A,Marsh Harbour,Factory A to Marsh Harbour,321.0,Medium,Rain,29.1,Van,86.41,9,2,4,Delayed
+SHP-01159,Factory A,Nassau,Factory A to Nassau,36.1,Low,Storm,15.7,Van,32.49,6,1,2,Delayed
+SHP-01160,Factory B,Nassau,Factory B to Nassau,43.2,Low,Clear,28.0,Van,21.61,9,1,1,On Time
+SHP-01161,Factory A,George Town,Factory A to George Town,368.7,High,Rain,29.0,Van,111.38,10,2,3,Delayed
+SHP-01162,Factory B,Freeport,Factory B to Freeport,241.9,High,Rain,23.5,Van,85.76,15,1,3,Delayed
+SHP-01163,Factory C,Freeport,Factory C to Freeport,226.2,Low,,71.3,Van,74.95,6,1,1,On Time
+SHP-01164,Factory A,Nassau,Factory A to Nassau,44.9,High,Clear,9.3,Van,48.16,5,1,2,Delayed
+SHP-01165,Factory A,Freeport,Factory A to Freeport,224.7,Low,Clear,8.8,Van,69.45,15,1,2,Delayed
+SHP-01166,Factory C,George Town,Factory C to George Town,445.9,Low,Clear,36.7,Truck,130.79,7,2,2,On Time
+SHP-01167,Factory C,Spanish Wells,Factory C to Spanish Wells,209.0,Medium,Storm,39.2,Truck,95.12,11,1,2,Delayed
+SHP-01168,Factory B,Nassau,Factory B to Nassau,67.2,Medium,Clear,49.0,Truck,73.17,15,1,1,On Time
+SHP-01169,Factory C,Marsh Harbour,Factory C to Marsh Harbour,331.1,Medium,Clear,24.8,Van,93.15,12,2,2,On Time
+SHP-01170,Factory A,Freeport,Factory A to Freeport,196.0,High,Clear,18.9,Van,61.01,6,1,2,Delayed
+SHP-01171,Factory A,Marsh Harbour,Factory A to Marsh Harbour,313.3,High,Clear,36.4,Truck,127.21,15,2,4,Delayed
+SHP-01172,Factory B,Freeport,Factory B to Freeport,225.7,Low,Clear,26.6,Truck,100.06,5,1,2,Delayed
+SHP-01173,Factory A,Freeport,Factory A to Freeport,224.0,Medium,Clear,111.8,Van,94.58,8,1,1,On Time
+SHP-01174,Factory B,Freeport,Factory B to Freeport,188.5,Medium,Clear,29.0,Truck,87.81,6,1,1,On Time
+SHP-01175,Factory B,Marsh Harbour,Factory B to Marsh Harbour,325.0,Medium,Rain,35.2,Freight,213.95,12,2,4,Delayed
+SHP-01176,Factory B,Freeport,Factory B to Freeport,258.4,High,Clear,217.5,Truck,105.79,15,1,1,On Time
+SHP-01177,Factory A,Freeport,Factory A to Freeport,210.5,Medium,Clear,31.8,Truck,89.57,14,1,1,On Time
+SHP-01178,Factory A,George Town,Factory A to George Town,400.1,Low,Rain,54.6,Truck,132.73,7,2,2,On Time
+SHP-01179,Factory A,George Town,Factory A to George Town,400.1,Low,Clear,58.3,Truck,133.05,10,2,3,Delayed
+SHP-01180,Factory A,Freeport,Factory A to Freeport,198.4,High,Rain,62.0,Truck,126.07,7,1,3,Delayed
+SHP-01181,Factory B,George Town,Factory B to George Town,421.8,High,Rain,45.1,Truck,160.27,10,2,2,On Time
+SHP-01182,Factory A,George Town,Factory A to George Town,375.4,Low,Clear,42.1,Truck,111.19,8,2,2,On Time
+SHP-01183,Factory A,Nassau,Factory A to Nassau,24.0,Low,Clear,39.3,Truck,26.32,16,1,1,On Time
+SHP-01184,Factory A,Marsh Harbour,Factory A to Marsh Harbour,300.3,Medium,Clear,24.2,Van,102.38,16,1,1,On Time
+SHP-01185,Factory A,Nassau,Factory A to Nassau,52.5,Low,Clear,46.3,Truck,54.56,17,1,1,On Time
+SHP-01186,Factory C,Marsh Harbour,Factory C to Marsh Harbour,315.3,Low,Clear,157.7,Truck,119.78,8,2,2,On Time
+SHP-01187,Factory A,Nassau,Factory A to Nassau,21.8,High,Clear,87.5,Truck,55.26,5,1,1,On Time
+SHP-01188,Factory C,Marsh Harbour,Factory C to Marsh Harbour,316.4,High,Clear,45.6,Freight,204.4,5,2,3,Delayed
+SHP-01189,Factory A,Nassau,Factory A to Nassau,48.2,High,Clear,67.8,Van,35.72,17,1,2,Delayed
+SHP-01190,Factory B,Freeport,Factory B to Freeport,214.0,Medium,Clear,19.6,Freight,166.25,18,1,3,Delayed
+SHP-01191,Factory A,Spanish Wells,Factory A to Spanish Wells,171.4,Low,Clear,30.3,Freight,129.95,8,1,2,Delayed
+SHP-01192,Factory A,Freeport,Factory A to Freeport,223.4,High,Clear,72.4,Truck,100.69,18,1,2,Delayed
+SHP-01193,Factory C,George Town,Factory C to George Town,436.4,Low,Storm,106.8,Van,124.14,12,2,2,On Time
+SHP-01194,Factory C,Spanish Wells,Factory C to Spanish Wells,231.2,Low,Clear,21.0,Truck,49.14,7,1,2,Delayed
+SHP-01195,Factory C,George Town,Factory C to George Town,432.5,High,Clear,25.8,Freight,228.84,9,2,2,On Time
+SHP-01196,Factory A,Nassau,Factory A to Nassau,31.2,Medium,Clear,176.0,Truck,45.19,8,1,1,On Time
+SHP-01197,Factory A,George Town,Factory A to George Town,372.4,High,Clear,39.2,Truck,135.09,16,2,3,Delayed
+SHP-01198,Factory B,Nassau,Factory B to Nassau,75.3,Low,Clear,136.0,Freight,120.86,7,1,1,On Time
+SHP-01199,Factory A,Freeport,Factory A to Freeport,196.2,High,Rain,42.5,Freight,196.64,7,1,3,Delayed
+SHP-01200,Factory B,George Town,Factory B to George Town,418.3,Medium,Clear,43.7,Freight,223.31,15,2,4,Delayed
+SHP-01201,Factory B,Marsh Harbour,Factory B to Marsh Harbour,300.7,Medium,Clear,29.4,Truck,114.64,9,2,2,On Time
+SHP-01202,Factory B,Freeport,Factory B to Freeport,213.0,High,Clear,72.1,Truck,108.54,8,1,2,Delayed
+SHP-01203,Factory C,Freeport,Factory C to Freeport,247.0,Medium,Rain,97.3,Truck,120.14,17,1,2,Delayed
+SHP-01204,Factory B,George Town,Factory B to George Town,436.9,Medium,Clear,17.4,Truck,146.81,18,2,2,On Time
+SHP-01205,Factory A,Marsh Harbour,Factory A to Marsh Harbour,283.6,Medium,Clear,28.4,Truck,110.03,13,2,2,On Time
+SHP-01206,Factory A,Freeport,Factory A to Freeport,191.8,Medium,Rain,70.7,Truck,104.18,17,1,2,Delayed
+SHP-01207,Factory B,Spanish Wells,Factory B to Spanish Wells,192.5,High,Rain,33.3,Van,51.62,17,1,3,Delayed
+SHP-01208,Factory A,Nassau,Factory A to Nassau,32.4,Medium,Clear,25.7,Truck,73.81,13,1,1,On Time
+SHP-01209,Factory A,Nassau,Factory A to Nassau,97.2,Low,Storm,75.7,Van,84.47,17,1,1,On Time
+SHP-01210,Factory A,Marsh Harbour,Factory A to Marsh Harbour,285.1,Low,Rain,81.0,Freight,188.27,5,2,2,On Time
+SHP-01211,Factory B,Spanish Wells,Factory B to Spanish Wells,180.1,High,Clear,26.5,Van,52.99,5,1,2,Delayed
+SHP-01212,Factory C,Nassau,Factory C to Nassau,108.6,High,Rain,42.6,Truck,99.63,18,1,3,Delayed
+SHP-01213,Factory B,Nassau,Factory B to Nassau,23.9,High,Clear,15.3,Truck,47.94,7,1,1,On Time
+SHP-01214,Factory A,Nassau,Factory A to Nassau,36.7,Low,Clear,19.2,Truck,49.81,15,1,1,On Time
+SHP-01215,Factory A,George Town,Factory A to George Town,425.9,Medium,Clear,40.0,Van,92.13,11,2,2,On Time
+SHP-01216,Factory B,Nassau,Factory B to Nassau,54.9,Medium,Rain,37.4,Truck,89.21,16,1,2,Delayed
+SHP-01217,Factory A,Freeport,Factory A to Freeport,178.8,Medium,Clear,18.2,Truck,64.73,14,1,2,Delayed
+SHP-01218,Factory B,Spanish Wells,Factory B to Spanish Wells,179.9,Low,Clear,21.9,Freight,146.97,6,1,3,Delayed
+SHP-01219,Factory B,Nassau,Factory B to Nassau,83.2,Medium,Clear,17.0,Van,15.45,10,1,1,On Time
+SHP-01220,Factory A,Freeport,Factory A to Freeport,216.8,Low,Clear,50.8,Freight,156.99,15,1,1,On Time
+SHP-01221,Factory A,Freeport,Factory A to Freeport,194.9,Medium,Rain,8.9,Truck,88.17,18,1,1,On Time
+SHP-01222,Factory A,George Town,Factory A to George Town,377.7,Low,Rain,17.7,Freight,223.02,17,2,2,On Time
+SHP-01223,Factory C,Freeport,Factory C to Freeport,247.9,Low,Clear,9.6,Truck,86.39,18,1,2,Delayed
+SHP-01224,Factory B,Freeport,Factory B to Freeport,238.5,Low,Rain,49.5,Truck,112.99,19,1,1,On Time
+SHP-01225,Factory A,Nassau,Factory A to Nassau,59.1,High,Rain,10.0,Freight,123.61,18,1,3,Delayed
+SHP-01226,Factory C,George Town,Factory C to George Town,456.9,Medium,Clear,37.4,Freight,226.86,13,2,2,On Time
+SHP-01227,Factory A,George Town,Factory A to George Town,398.2,High,Clear,119.2,Van,114.26,10,2,2,On Time
+SHP-01228,Factory A,Nassau,Factory A to Nassau,12.0,Medium,Clear,122.1,Truck,54.81,12,1,1,On Time
+SHP-01229,Factory C,Freeport,Factory C to Freeport,234.1,Medium,Clear,10.0,Truck,98.76,16,1,2,Delayed
+SHP-01230,Factory A,Spanish Wells,Factory A to Spanish Wells,174.6,Low,Clear,45.4,Van,62.79,11,1,2,Delayed
+SHP-01231,Factory A,Nassau,Factory A to Nassau,12.0,Medium,Clear,18.0,Freight,108.19,17,1,3,Delayed
+SHP-01232,Factory B,Nassau,Factory B to Nassau,52.9,Low,Rain,15.5,Truck,62.88,15,1,1,On Time
+SHP-01233,Factory A,Freeport,Factory A to Freeport,215.5,Medium,Clear,33.7,Truck,80.48,8,1,2,Delayed
+SHP-01234,Factory B,Freeport,Factory B to Freeport,211.5,High,Rain,88.6,Van,92.61,18,1,2,Delayed
+SHP-01235,Factory A,Nassau,Factory A to Nassau,16.6,High,Rain,56.4,Van,68.12,17,1,1,On Time
+SHP-01236,Factory A,Freeport,Factory A to Freeport,208.3,Low,Clear,21.9,Truck,62.84,13,1,2,Delayed
+SHP-01237,Factory A,Nassau,Factory A to Nassau,44.1,Medium,Clear,60.8,Van,42.2,7,1,3,Delayed
+SHP-01238,Factory A,Freeport,Factory A to Freeport,229.1,Low,Rain,7.3,Freight,175.52,8,2,2,On Time
+SHP-01239,Factory A,Marsh Harbour,Factory A to Marsh Harbour,290.9,Low,Rain,21.3,Truck,127.51,17,2,1,On Time
+SHP-01240,Factory A,Marsh Harbour,Factory A to Marsh Harbour,281.3,Medium,Clear,20.2,Van,87.47,5,1,2,Delayed
+SHP-01241,Factory C,Nassau,Factory C to Nassau,69.6,Medium,Clear,38.7,Van,40.94,12,1,1,On Time
+SHP-01242,Factory A,George Town,Factory A to George Town,370.7,Medium,Clear,31.6,Van,101.65,14,2,2,On Time
+SHP-01243,Factory A,Nassau,Factory A to Nassau,25.8,Low,Rain,33.1,Freight,102.56,8,1,1,On Time
+SHP-01244,Factory A,George Town,Factory A to George Town,397.4,High,Rain,32.3,Van,114.95,17,2,2,On Time
+SHP-01245,Factory A,Freeport,Factory A to Freeport,216.1,High,Clear,37.2,Van,61.45,12,1,3,Delayed
+SHP-01246,Factory A,George Town,Factory A to George Town,352.2,Medium,Clear,54.0,Truck,141.55,5,2,2,On Time
+SHP-01247,Factory B,Nassau,Factory B to Nassau,42.9,High,Clear,40.8,Van,50.2,9,1,2,Delayed
+SHP-01248,Factory A,Nassau,Factory A to Nassau,56.7,Low,Rain,29.8,Truck,45.54,10,1,1,On Time
+SHP-01249,Factory C,Freeport,Factory C to Freeport,259.4,Medium,Rain,48.9,Truck,113.36,8,1,2,Delayed
+SHP-01250,Factory C,Nassau,Factory C to Nassau,57.5,High,Rain,66.3,Truck,88.45,19,1,1,On Time
+SHP-01251,Factory A,Nassau,Factory A to Nassau,77.4,High,Clear,24.5,Van,62.21,10,1,2,Delayed
+SHP-01252,Factory A,Marsh Harbour,Factory A to Marsh Harbour,279.5,High,Clear,35.1,Freight,179.36,12,2,2,On Time
+SHP-01253,Factory A,George Town,Factory A to George Town,396.9,Medium,Clear,,Van,67.3,13,2,2,On Time
+SHP-01254,Factory B,Nassau,Factory B to Nassau,64.2,High,Clear,16.5,Freight,134.3,8,1,3,Delayed
+SHP-01255,Factory A,George Town,Factory A to George Town,383.4,Medium,Clear,134.2,Truck,124.25,13,2,2,On Time
+SHP-01256,Factory C,George Town,Factory C to George Town,424.9,Low,Rain,14.0,Van,115.11,10,2,2,On Time
+SHP-01257,Factory B,George Town,Factory B to George Town,450.2,Low,Clear,28.5,Freight,233.46,5,2,3,Delayed
+SHP-01258,Factory C,Marsh Harbour,Factory C to Marsh Harbour,346.1,Medium,Clear,18.5,Truck,133.89,11,2,2,On Time
+SHP-01259,Factory B,Marsh Harbour,Factory B to Marsh Harbour,316.8,,Storm,176.9,Van,140.63,13,2,3,Delayed
+SHP-01260,Factory C,Freeport,Factory C to Freeport,268.4,Medium,Rain,25.5,Van,99.49,6,1,1,On Time
+SHP-01261,Factory A,Marsh Harbour,Factory A to Marsh Harbour,261.9,High,Clear,25.5,Truck,132.51,16,1,2,Delayed
+SHP-01262,Factory A,Spanish Wells,Factory A to Spanish Wells,188.0,Medium,Rain,28.0,Van,86.09,14,1,1,On Time
+SHP-01263,Factory A,Nassau,Factory A to Nassau,19.8,Medium,Clear,39.2,Truck,64.11,9,1,2,Delayed
+SHP-01264,Factory C,Nassau,Factory C to Nassau,88.1,Medium,Clear,28.9,Truck,61.22,13,1,1,On Time
+SHP-01265,Factory B,Nassau,Factory B to Nassau,27.5,Medium,Clear,33.3,Truck,32.52,9,1,1,On Time
+SHP-01266,Factory C,Spanish Wells,Factory C to Spanish Wells,176.3,Medium,Rain,2.9,Truck,118.48,14,1,1,On Time
+SHP-01267,Factory A,Freeport,Factory A to Freeport,215.7,Medium,Clear,38.1,Truck,92.27,7,1,1,On Time
+SHP-01268,Factory C,Marsh Harbour,Factory C to Marsh Harbour,313.4,Medium,Clear,37.1,Freight,204.79,14,2,2,On Time
+SHP-01269,Factory A,George Town,Factory A to George Town,354.2,Medium,Clear,77.3,Truck,118.73,5,2,3,Delayed
+SHP-01270,Factory A,Spanish Wells,Factory A to Spanish Wells,174.7,Medium,Clear,93.9,Freight,164.77,5,1,3,Delayed
+SHP-01271,Factory C,Nassau,Factory C to Nassau,121.2,High,Rain,32.0,Van,37.77,8,1,2,Delayed
+SHP-01272,Factory A,George Town,Factory A to George Town,415.0,Low,Clear,65.9,Truck,127.82,7,2,2,On Time
+SHP-01273,Factory A,George Town,Factory A to George Town,385.4,Medium,Clear,16.6,Truck,128.29,12,2,2,On Time
+SHP-01274,Factory B,Nassau,Factory B to Nassau,57.2,Medium,Clear,63.6,Freight,124.79,7,1,1,On Time
+SHP-01275,Factory A,George Town,Factory A to George Town,406.0,Low,Clear,24.2,Van,109.58,8,2,3,Delayed
+SHP-01276,Factory A,Freeport,Factory A to Freeport,230.2,Medium,Clear,15.6,Freight,152.87,6,2,2,On Time
+SHP-01277,Factory A,Marsh Harbour,Factory A to Marsh Harbour,273.8,Medium,Clear,32.0,Truck,112.49,18,2,2,On Time
+SHP-01278,Factory A,Freeport,Factory A to Freeport,210.6,Medium,Clear,100.3,Van,85.25,16,1,2,Delayed
+SHP-01279,Factory C,Nassau,Factory C to Nassau,88.4,Medium,Clear,41.7,Van,71.66,8,1,2,Delayed
+SHP-01280,Factory B,Nassau,Factory B to Nassau,67.0,Low,Rain,107.5,Freight,134.0,6,1,1,On Time
+SHP-01281,Factory A,Nassau,Factory A to Nassau,32.6,Low,Storm,21.3,Truck,61.05,17,1,2,Delayed
+SHP-01282,Factory A,Nassau,Factory A to Nassau,32.8,Low,Clear,77.8,Freight,91.65,15,1,2,Delayed
+SHP-01283,Factory A,Marsh Harbour,Factory A to Marsh Harbour,304.8,Medium,Clear,22.9,Truck,133.2,18,2,1,On Time
+SHP-01284,Factory B,Freeport,Factory B to Freeport,253.8,Medium,Clear,,Freight,182.42,7,2,1,On Time
+SHP-01285,Factory C,Nassau,Factory C to Nassau,91.6,High,Clear,42.8,Van,53.92,10,1,1,On Time
+SHP-01286,Factory C,Marsh Harbour,Factory C to Marsh Harbour,358.9,Medium,Clear,58.9,Van,76.58,6,2,2,On Time
+SHP-01287,Factory A,Marsh Harbour,Factory A to Marsh Harbour,273.0,Low,Rain,43.8,Truck,95.81,11,2,2,On Time
+SHP-01288,Factory A,Freeport,Factory A to Freeport,239.2,Medium,Rain,21.5,Freight,184.3,7,2,2,On Time
+SHP-01289,Factory A,Spanish Wells,Factory A to Spanish Wells,174.8,Low,Clear,69.0,Truck,81.9,5,1,1,On Time
+SHP-01290,Factory B,Freeport,Factory B to Freeport,290.9,Medium,Storm,127.3,Van,88.19,12,1,2,Delayed
+SHP-01291,Factory A,George Town,Factory A to George Town,368.5,Low,Clear,24.0,Van,97.17,19,2,2,On Time
+SHP-01292,Factory B,Nassau,Factory B to Nassau,44.6,Medium,Clear,9.8,Van,15.0,14,1,3,Delayed
+SHP-01293,Factory B,Marsh Harbour,Factory B to Marsh Harbour,309.5,Medium,Clear,52.4,Truck,130.05,16,2,3,Delayed
+SHP-01294,Factory A,Spanish Wells,Factory A to Spanish Wells,172.2,Medium,Clear,28.8,Van,61.09,17,1,1,On Time
+SHP-01295,Factory A,George Town,Factory A to George Town,425.1,Low,Rain,33.3,Truck,135.88,19,2,2,On Time
+SHP-01296,Factory A,Marsh Harbour,Factory A to Marsh Harbour,268.0,Low,Clear,54.6,Van,84.35,6,1,2,Delayed
+SHP-01297,Factory A,Marsh Harbour,Factory A to Marsh Harbour,296.3,Medium,Clear,26.3,Van,86.25,8,1,2,Delayed
+SHP-01298,Factory A,Freeport,Factory A to Freeport,230.9,Medium,Clear,30.2,Van,85.73,14,1,2,Delayed
+SHP-01299,Factory B,Marsh Harbour,Factory B to Marsh Harbour,314.7,Low,Rain,34.1,Freight,193.28,17,2,2,On Time
+SHP-01300,Factory A,George Town,Factory A to George Town,372.7,High,Clear,105.4,Van,113.33,16,2,3,Delayed
+SHP-01301,Factory A,Spanish Wells,Factory A to Spanish Wells,190.3,Medium,Clear,37.4,Truck,82.22,15,1,3,Delayed
+SHP-01302,Factory B,Freeport,Factory B to Freeport,254.1,Medium,Clear,15.0,Van,76.41,9,1,2,Delayed
+SHP-01303,Factory B,Nassau,Factory B to Nassau,67.8,Low,Rain,15.5,Truck,78.74,10,1,1,On Time
+SHP-01304,Factory A,Marsh Harbour,Factory A to Marsh Harbour,283.7,Medium,Clear,40.5,Truck,101.24,6,2,2,On Time
+SHP-01305,Factory C,Nassau,Factory C to Nassau,87.1,Low,Clear,16.2,Van,43.38,9,1,2,Delayed
+SHP-01306,Factory C,Nassau,Factory C to Nassau,81.6,Low,Rain,11.9,Truck,50.8,7,1,1,On Time
+SHP-01307,Factory B,Freeport,Factory B to Freeport,243.5,Medium,Clear,57.8,Van,49.22,19,1,2,Delayed
+SHP-01308,Factory B,Marsh Harbour,Factory B to Marsh Harbour,302.6,Medium,Clear,59.9,Freight,190.31,6,2,1,On Time
+SHP-01309,Factory A,Nassau,Factory A to Nassau,19.7,High,Clear,28.1,Truck,60.38,10,1,1,On Time
+SHP-01310,Factory C,Nassau,Factory C to Nassau,64.1,High,Clear,45.2,Truck,65.68,18,1,1,On Time
+SHP-01311,Factory A,Nassau,Factory A to Nassau,21.5,Low,Clear,41.9,Truck,23.09,19,1,1,On Time
+SHP-01312,Factory C,George Town,Factory C to George Town,442.0,Low,Clear,56.5,Truck,142.14,10,2,2,On Time
+SHP-01313,Factory B,Marsh Harbour,Factory B to Marsh Harbour,301.5,Medium,Clear,56.6,Van,88.16,11,1,2,Delayed
+SHP-01314,Factory A,Nassau,Factory A to Nassau,38.9,High,Clear,5.6,Van,31.09,12,1,1,On Time
+SHP-01315,Factory A,Nassau,Factory A to Nassau,44.0,High,Clear,30.8,Van,28.12,17,1,1,On Time
+SHP-01316,Factory B,Freeport,Factory B to Freeport,220.7,Low,Storm,53.1,Truck,108.39,16,1,4,Delayed
+SHP-01317,Factory B,Nassau,Factory B to Nassau,83.4,Low,Clear,27.2,Van,43.45,12,1,1,On Time
+SHP-01318,Factory A,Marsh Harbour,Factory A to Marsh Harbour,275.2,Low,Clear,37.6,Truck,104.18,10,2,2,On Time
+SHP-01319,Factory B,Freeport,Factory B to Freeport,224.2,High,Clear,62.8,Van,70.11,10,1,2,Delayed
+SHP-01320,Factory C,Spanish Wells,Factory C to Spanish Wells,221.7,Medium,Rain,38.8,Van,78.29,14,1,2,Delayed
+SHP-01321,Factory A,Nassau,Factory A to Nassau,12.0,Medium,Clear,108.4,Truck,58.83,17,1,1,On Time
+SHP-01322,Factory A,Marsh Harbour,Factory A to Marsh Harbour,265.8,Medium,Clear,82.4,Freight,164.24,6,2,2,On Time
+SHP-01323,Factory A,Nassau,Factory A to Nassau,52.7,Low,Clear,33.6,Van,30.95,16,1,3,Delayed
+SHP-01324,Factory B,Spanish Wells,Factory B to Spanish Wells,155.7,Medium,Clear,31.7,Truck,93.47,12,1,2,Delayed
+SHP-01325,Factory A,Spanish Wells,Factory A to Spanish Wells,185.1,Low,Rain,4.7,Van,46.18,7,1,3,Delayed
+SHP-01326,Factory C,Marsh Harbour,Factory C to Marsh Harbour,355.2,Medium,Rain,28.9,Van,115.23,6,2,1,On Time
+SHP-01327,Factory A,Freeport,Factory A to Freeport,203.3,Medium,Rain,13.8,Truck,114.88,10,1,1,On Time
+SHP-01328,Factory B,Nassau,Factory B to Nassau,62.3,Medium,Clear,42.9,Truck,53.81,8,1,1,On Time
+SHP-01329,Factory A,George Town,Factory A to George Town,410.1,Low,Clear,40.9,Van,94.46,6,2,2,On Time
+SHP-01330,Factory A,Marsh Harbour,Factory A to Marsh Harbour,271.6,High,Clear,60.4,Freight,201.56,9,2,2,On Time
+SHP-01331,Factory B,Nassau,Factory B to Nassau,72.6,Medium,Rain,100.0,Van,50.06,17,1,1,On Time
+SHP-01332,Factory A,Freeport,Factory A to Freeport,197.9,Low,Rain,35.9,Van,37.7,15,1,1,On Time
+SHP-01333,Factory B,Freeport,Factory B to Freeport,223.4,Low,Rain,189.0,Van,79.55,8,1,2,Delayed
+SHP-01334,Factory C,George Town,Factory C to George Town,423.6,Medium,Clear,43.3,Truck,145.24,15,2,2,On Time
+SHP-01335,Factory C,Marsh Harbour,Factory C to Marsh Harbour,334.2,Low,Rain,14.2,Truck,128.46,11,2,4,Delayed
+SHP-01336,Factory C,Marsh Harbour,Factory C to Marsh Harbour,348.8,Low,Clear,24.4,Truck,104.88,16,2,2,On Time
+SHP-01337,Factory A,Marsh Harbour,Factory A to Marsh Harbour,276.7,Low,Rain,28.0,Freight,178.22,8,2,4,Delayed
+SHP-01338,Factory B,Nassau,Factory B to Nassau,34.1,Low,Clear,56.1,Van,39.85,5,1,1,On Time
+SHP-01339,Factory C,Freeport,Factory C to Freeport,238.5,Medium,Clear,18.5,Freight,167.71,9,2,3,Delayed
+SHP-01340,Factory A,Nassau,Factory A to Nassau,42.1,Medium,Clear,29.5,Truck,32.81,19,1,1,On Time
+SHP-01341,Factory A,George Town,Factory A to George Town,423.2,Low,Storm,32.6,Van,139.38,13,2,3,Delayed
+SHP-01342,Factory C,Freeport,Factory C to Freeport,265.1,Medium,Clear,26.5,Van,73.52,5,1,2,Delayed
+SHP-01343,Factory A,Freeport,Factory A to Freeport,203.0,Low,Clear,65.6,Truck,97.06,19,1,2,Delayed
+SHP-01344,Factory B,Nassau,Factory B to Nassau,70.8,Low,Clear,58.1,Truck,36.44,17,1,1,On Time
+SHP-01345,Factory C,Nassau,Factory C to Nassau,78.7,Low,Clear,84.8,Van,37.01,13,1,1,On Time
+SHP-01346,Factory B,Marsh Harbour,Factory B to Marsh Harbour,295.2,Medium,Storm,28.8,Van,112.08,16,1,2,Delayed
+SHP-01347,Factory A,Nassau,Factory A to Nassau,17.7,High,Clear,87.0,Van,41.97,7,1,1,On Time
+SHP-01348,Factory A,Nassau,Factory A to Nassau,60.4,Medium,Clear,13.7,Truck,40.38,13,1,1,On Time
+SHP-01349,Factory A,George Town,Factory A to George Town,344.3,Low,Rain,13.5,Van,63.65,18,2,2,On Time
+SHP-01350,Factory A,Freeport,Factory A to Freeport,224.4,Low,Clear,15.3,Truck,104.66,11,1,2,Delayed
+SHP-01351,Factory B,Freeport,Factory B to Freeport,223.7,Low,Clear,36.8,Truck,90.27,5,1,1,On Time
+SHP-01352,Factory C,Freeport,Factory C to Freeport,250.6,High,Clear,87.0,Van,101.27,16,1,2,Delayed
+SHP-01353,Factory A,George Town,Factory A to George Town,420.5,Low,Clear,23.7,Truck,143.04,15,2,2,On Time
+SHP-01354,Factory A,Freeport,Factory A to Freeport,197.1,High,Clear,26.0,Freight,174.26,16,1,2,Delayed
+SHP-01355,Factory C,George Town,Factory C to George Town,425.8,Medium,Clear,31.3,Truck,135.64,14,2,4,Delayed
+SHP-01356,Factory A,Spanish Wells,Factory A to Spanish Wells,162.7,Medium,Clear,55.3,Truck,86.06,7,1,1,On Time
+SHP-01357,Factory B,Marsh Harbour,Factory B to Marsh Harbour,309.4,High,Rain,25.9,Truck,147.65,6,2,2,On Time
+SHP-01358,Factory A,Freeport,Factory A to Freeport,202.0,Low,Rain,24.9,Van,66.99,16,1,2,Delayed
+SHP-01359,Factory B,George Town,Factory B to George Town,383.7,Medium,Rain,13.9,Truck,159.77,17,2,4,Delayed
+SHP-01360,Factory A,Freeport,Factory A to Freeport,194.4,Low,Clear,24.2,Truck,61.93,6,1,2,Delayed
+SHP-01361,Factory B,Freeport,Factory B to Freeport,255.1,High,Clear,85.4,Truck,93.66,13,1,4,Delayed
+SHP-01362,Factory A,Freeport,Factory A to Freeport,211.3,Medium,Storm,39.1,Truck,126.41,12,1,2,Delayed
+SHP-01363,Factory B,Nassau,Factory B to Nassau,65.1,Low,Rain,21.5,Van,29.94,10,1,2,Delayed
+SHP-01364,Factory A,Nassau,Factory A to Nassau,30.3,High,Clear,89.1,Truck,85.94,14,1,3,Delayed
+SHP-01365,Factory A,Freeport,Factory A to Freeport,198.1,Low,Clear,24.0,Truck,96.81,18,1,4,Delayed
+SHP-01366,Factory B,Nassau,Factory B to Nassau,87.2,Low,Clear,101.7,Van,60.23,17,1,1,On Time
+SHP-01367,Factory A,Freeport,Factory A to Freeport,206.6,Medium,Clear,100.5,Truck,103.16,7,1,1,On Time
+SHP-01368,Factory A,Freeport,Factory A to Freeport,202.0,Medium,Clear,38.1,Van,53.8,11,1,2,Delayed
+SHP-01369,Factory A,Spanish Wells,Factory A to Spanish Wells,184.7,High,Clear,12.4,Truck,73.19,19,1,2,Delayed
+SHP-01370,Factory A,Nassau,Factory A to Nassau,22.0,Medium,Storm,190.3,Van,82.49,8,1,3,Delayed
+SHP-01371,Factory A,Marsh Harbour,Factory A to Marsh Harbour,269.3,Medium,Clear,48.4,Truck,86.36,17,1,3,Delayed
+SHP-01372,Factory C,Freeport,Factory C to Freeport,258.2,Low,Clear,29.0,Van,87.96,12,1,2,Delayed
+SHP-01373,Factory A,Nassau,Factory A to Nassau,35.0,Low,Clear,72.9,Truck,53.73,12,1,1,On Time
+SHP-01374,Factory C,Nassau,Factory C to Nassau,87.7,High,Rain,60.7,Freight,144.77,8,1,1,On Time
+SHP-01375,Factory C,Nassau,Factory C to Nassau,120.7,Low,Rain,94.1,Truck,79.77,18,1,2,Delayed
+SHP-01376,Factory A,Nassau,Factory A to Nassau,41.1,Medium,Clear,22.7,Freight,118.89,12,1,1,On Time
+SHP-01377,Factory B,Nassau,Factory B to Nassau,14.2,Low,Clear,46.0,Freight,98.16,13,1,2,Delayed
+SHP-01378,Factory C,Freeport,Factory C to Freeport,263.9,Low,Clear,15.6,Truck,112.59,11,1,2,Delayed
+SHP-01379,Factory B,Freeport,Factory B to Freeport,232.7,Medium,Rain,59.1,Truck,121.17,6,1,1,On Time
+SHP-01380,Factory A,Nassau,Factory A to Nassau,35.8,Medium,Clear,36.0,Truck,51.9,16,1,1,On Time
+SHP-01381,Factory A,Nassau,Factory A to Nassau,39.4,Medium,Rain,44.8,Freight,114.4,9,1,1,On Time
+SHP-01382,Factory A,Nassau,Factory A to Nassau,34.5,High,Clear,32.9,Van,58.36,8,1,1,On Time
+SHP-01383,Factory B,Freeport,Factory B to Freeport,231.1,Low,Clear,30.5,Van,39.62,16,1,2,Delayed
+SHP-01384,Factory C,Freeport,Factory C to Freeport,269.0,Medium,Clear,19.6,Truck,108.18,7,1,2,Delayed
+SHP-01385,Factory C,Freeport,Factory C to Freeport,248.2,Low,Clear,64.7,Freight,175.64,15,2,2,On Time
+SHP-01386,Factory A,Nassau,Factory A to Nassau,17.9,Medium,Clear,107.0,Truck,39.53,12,1,1,On Time
+SHP-01387,Factory B,Nassau,Factory B to Nassau,111.4,Low,Clear,24.5,Truck,72.53,16,1,1,On Time
+SHP-01388,Factory A,Spanish Wells,Factory A to Spanish Wells,152.1,Medium,Rain,54.5,Truck,85.39,5,1,1,On Time
+SHP-01389,Factory C,Nassau,Factory C to Nassau,84.8,Low,Clear,50.0,Truck,49.46,16,1,1,On Time
+SHP-01390,Factory A,Nassau,Factory A to Nassau,12.0,High,Storm,36.8,Freight,151.21,8,1,1,On Time
+SHP-01391,Factory C,Nassau,Factory C to Nassau,85.1,High,Clear,12.2,Van,37.93,18,1,1,On Time
+SHP-01392,Factory C,Spanish Wells,Factory C to Spanish Wells,196.2,High,Clear,14.3,Truck,106.27,10,1,2,Delayed
+SHP-01393,Factory A,Marsh Harbour,Factory A to Marsh Harbour,272.0,Low,Rain,20.9,Truck,81.82,5,2,2,On Time
+SHP-01394,Factory A,Marsh Harbour,Factory A to Marsh Harbour,298.8,High,Rain,7.8,Van,102.71,12,1,2,Delayed
+SHP-01395,Factory C,Spanish Wells,Factory C to Spanish Wells,221.5,Low,Clear,100.9,Van,67.17,5,1,2,Delayed
+SHP-01396,Factory A,Nassau,Factory A to Nassau,45.2,Low,Rain,47.7,Truck,48.3,9,1,1,On Time
+SHP-01397,Factory B,Spanish Wells,Factory B to Spanish Wells,155.1,Low,Clear,35.8,Truck,76.14,15,1,2,Delayed
+SHP-01398,Factory C,Nassau,Factory C to Nassau,116.1,Low,Clear,7.6,Van,39.6,13,1,1,On Time
+SHP-01399,Factory B,Marsh Harbour,Factory B to Marsh Harbour,280.5,Medium,Clear,9.8,Freight,192.54,15,2,2,On Time
+SHP-01400,Factory A,Freeport,Factory A to Freeport,237.5,Low,Clear,36.5,Van,72.22,18,1,1,On Time
+SHP-01401,Factory A,Freeport,Factory A to Freeport,228.4,Medium,Clear,151.2,Truck,105.52,12,1,2,Delayed
+SHP-01402,Factory A,Spanish Wells,Factory A to Spanish Wells,175.4,Medium,Clear,22.1,Van,62.26,13,1,2,Delayed
+SHP-01403,Factory C,Nassau,Factory C to Nassau,67.6,High,Rain,68.2,Truck,71.29,5,1,2,Delayed
+SHP-01404,Factory A,Spanish Wells,Factory A to Spanish Wells,167.7,Medium,Rain,25.9,Freight,153.24,9,1,3,Delayed
+SHP-01405,Factory A,Freeport,Factory A to Freeport,201.5,Medium,Rain,38.1,Truck,99.23,15,1,2,Delayed
+SHP-01406,Factory A,Marsh Harbour,Factory A to Marsh Harbour,280.5,Low,Rain,87.8,Truck,108.82,5,2,2,On Time
+SHP-01407,Factory C,Spanish Wells,Factory C to Spanish Wells,208.5,High,Clear,28.5,Truck,112.72,10,1,2,Delayed
+SHP-01408,Factory A,Nassau,Factory A to Nassau,12.0,Low,Clear,22.3,Truck,39.0,7,1,1,On Time
+SHP-01409,Factory C,Spanish Wells,Factory C to Spanish Wells,233.2,Low,Clear,101.6,Truck,97.23,17,1,2,Delayed
+SHP-01410,Factory B,Marsh Harbour,Factory B to Marsh Harbour,300.5,Low,Clear,37.8,Van,60.72,13,1,3,Delayed
+SHP-01411,Factory C,Marsh Harbour,Factory C to Marsh Harbour,319.3,Medium,Clear,80.3,Van,101.21,14,2,3,Delayed
+SHP-01412,Factory C,Nassau,Factory C to Nassau,72.9,Medium,Clear,22.3,Freight,115.22,15,1,1,On Time
+SHP-01413,Factory C,Freeport,Factory C to Freeport,264.5,Medium,Clear,100.8,Truck,93.36,8,1,2,Delayed
+SHP-01414,Factory C,Marsh Harbour,Factory C to Marsh Harbour,311.9,Low,Clear,44.6,Truck,127.72,5,2,4,Delayed
+SHP-01415,Factory A,Freeport,Factory A to Freeport,169.4,Medium,Clear,50.1,Truck,89.84,10,1,2,Delayed
+SHP-01416,Factory B,Nassau,Factory B to Nassau,64.3,Medium,Clear,40.2,Truck,68.52,7,1,1,On Time
+SHP-01417,Factory B,Nassau,Factory B to Nassau,66.3,Low,Clear,25.4,Truck,55.97,9,1,1,On Time
+SHP-01418,Factory B,George Town,Factory B to George Town,408.4,,Storm,36.6,Freight,239.52,9,2,3,Delayed
+SHP-01419,Factory C,Nassau,Factory C to Nassau,62.3,Medium,,26.6,Freight,116.02,16,1,2,Delayed
+SHP-01420,Factory C,Marsh Harbour,Factory C to Marsh Harbour,329.6,Medium,Rain,73.0,Truck,136.81,9,2,3,Delayed
+SHP-01421,Factory B,Spanish Wells,Factory B to Spanish Wells,160.6,Low,Rain,,Van,72.16,7,1,2,Delayed
+SHP-01422,Factory A,Nassau,Factory A to Nassau,16.5,Medium,Clear,12.5,Van,27.13,19,1,1,On Time
+SHP-01423,Factory A,Nassau,Factory A to Nassau,21.5,Low,Clear,10.9,Truck,64.36,5,1,1,On Time
+SHP-01424,Factory A,Marsh Harbour,Factory A to Marsh Harbour,295.2,Low,Clear,10.6,Van,72.41,8,1,2,Delayed
+SHP-01425,Factory A,Nassau,Factory A to Nassau,28.5,Low,Clear,57.1,Truck,26.68,10,1,1,On Time
+SHP-01426,Factory A,Marsh Harbour,Factory A to Marsh Harbour,271.9,Medium,Clear,16.0,Truck,82.68,5,2,1,On Time
+SHP-01427,Factory A,Marsh Harbour,Factory A to Marsh Harbour,315.2,Low,Rain,45.4,Freight,172.59,18,2,4,Delayed
+SHP-01428,Factory A,Marsh Harbour,Factory A to Marsh Harbour,286.3,Medium,Storm,40.4,Van,100.06,10,1,2,Delayed
+SHP-01429,Factory B,Freeport,Factory B to Freeport,238.1,Low,Clear,34.9,Truck,87.72,16,1,2,Delayed
+SHP-01430,Factory A,Marsh Harbour,Factory A to Marsh Harbour,273.3,Medium,Clear,50.2,Truck,113.56,7,2,2,On Time
+SHP-01431,Factory C,Marsh Harbour,Factory C to Marsh Harbour,317.3,Low,Clear,41.0,Freight,184.94,12,2,3,Delayed
+SHP-01432,Factory B,Nassau,Factory B to Nassau,17.6,Medium,Rain,5.2,Truck,62.43,6,1,1,On Time
+SHP-01433,Factory A,Marsh Harbour,Factory A to Marsh Harbour,297.4,Medium,Clear,29.0,Freight,185.83,8,2,2,On Time
+SHP-01434,Factory A,George Town,Factory A to George Town,398.1,Medium,Clear,49.7,Freight,214.37,11,2,4,Delayed
+SHP-01435,Factory A,Marsh Harbour,Factory A to Marsh Harbour,276.8,Low,Rain,119.2,Truck,104.69,17,2,2,On Time
+SHP-01436,Factory C,Freeport,Factory C to Freeport,255.5,Medium,Clear,123.3,Van,97.63,9,1,2,Delayed
+SHP-01437,Factory A,Freeport,Factory A to Freeport,223.3,High,Clear,13.7,Van,58.94,16,1,1,On Time
+SHP-01438,Factory B,Nassau,Factory B to Nassau,29.0,High,Clear,28.5,Van,44.98,6,1,1,On Time
+SHP-01439,Factory C,Nassau,Factory C to Nassau,72.4,Low,Clear,11.9,Truck,49.07,8,1,1,On Time
+SHP-01440,Factory C,Nassau,Factory C to Nassau,62.5,Medium,Clear,109.3,Truck,69.22,14,1,3,Delayed
+SHP-01441,Factory A,Spanish Wells,Factory A to Spanish Wells,196.9,Low,Clear,75.9,Truck,82.83,12,1,1,On Time
+SHP-01442,Factory A,Nassau,Factory A to Nassau,50.8,Low,Clear,47.1,Van,30.82,12,1,1,On Time
+SHP-01443,Factory A,George Town,Factory A to George Town,350.4,Medium,Rain,41.2,Van,98.05,15,2,2,On Time
+SHP-01444,Factory A,Nassau,Factory A to Nassau,12.0,Medium,Clear,98.9,Van,49.43,6,1,1,On Time
+SHP-01445,Factory A,Nassau,Factory A to Nassau,32.6,Medium,Rain,87.5,Van,43.91,15,1,1,On Time
+SHP-01446,Factory B,Freeport,Factory B to Freeport,223.5,High,Clear,84.3,Truck,129.26,17,1,2,Delayed
+SHP-01447,Factory C,Freeport,Factory C to Freeport,234.2,Low,Rain,50.8,Truck,101.67,16,1,2,Delayed
+SHP-01448,Factory B,George Town,Factory B to George Town,447.0,Medium,Clear,28.5,Van,111.04,9,2,2,On Time
+SHP-01449,Factory B,Spanish Wells,Factory B to Spanish Wells,192.6,Medium,Rain,63.6,Van,70.98,10,1,1,On Time
+SHP-01450,Factory A,George Town,Factory A to George Town,398.5,Low,Clear,65.9,Van,104.77,19,2,2,On Time
+SHP-01451,Factory C,Nassau,Factory C to Nassau,70.5,Medium,Clear,31.9,Truck,50.75,16,1,1,On Time
+SHP-01452,Factory B,George Town,Factory B to George Town,425.0,High,Clear,28.4,Truck,150.92,18,2,2,On Time
+SHP-01453,Factory C,Nassau,Factory C to Nassau,76.2,Medium,Clear,82.8,Freight,125.33,18,1,1,On Time
+SHP-01454,Factory C,Spanish Wells,Factory C to Spanish Wells,207.9,Low,Storm,121.3,Truck,115.78,11,1,3,Delayed
+SHP-01455,Factory A,Freeport,Factory A to Freeport,221.0,Medium,Storm,21.3,Truck,120.1,6,1,3,Delayed
+SHP-01456,Factory A,Freeport,Factory A to Freeport,180.7,High,Rain,30.3,Van,83.13,8,1,2,Delayed
+SHP-01457,Factory A,Nassau,Factory A to Nassau,63.7,High,Clear,47.1,Van,50.3,9,1,1,On Time
+SHP-01458,Factory A,Nassau,Factory A to Nassau,38.3,Medium,Rain,52.0,Freight,140.37,17,1,3,Delayed
+SHP-01459,Factory C,Nassau,Factory C to Nassau,106.1,Medium,Rain,25.1,Freight,144.66,9,1,1,On Time
+SHP-01460,Factory A,Spanish Wells,Factory A to Spanish Wells,145.6,Medium,Clear,142.0,Van,92.17,10,1,1,On Time
+SHP-01461,Factory B,George Town,Factory B to George Town,395.4,High,Clear,49.6,Truck,144.02,17,2,2,On Time
+SHP-01462,Factory B,Spanish Wells,Factory B to Spanish Wells,166.1,High,Clear,53.7,Truck,102.39,7,1,3,Delayed
+SHP-01463,Factory A,Nassau,Factory A to Nassau,39.5,High,Clear,129.9,Freight,117.89,14,1,1,On Time
+SHP-01464,Factory A,Marsh Harbour,Factory A to Marsh Harbour,281.2,Medium,Clear,26.5,Truck,122.81,13,2,4,Delayed
+SHP-01465,Factory B,Nassau,Factory B to Nassau,48.6,Low,Rain,34.3,Freight,109.36,19,1,1,On Time
+SHP-01466,Factory B,Freeport,Factory B to Freeport,213.7,Medium,Clear,14.8,Van,71.04,12,1,2,Delayed
+SHP-01467,Factory A,Freeport,Factory A to Freeport,187.2,Low,Clear,32.3,Truck,75.5,12,1,1,On Time
+SHP-01468,Factory A,Nassau,Factory A to Nassau,34.1,Low,Clear,12.5,Van,30.72,17,1,2,Delayed
+SHP-01469,Factory B,Marsh Harbour,Factory B to Marsh Harbour,293.6,Medium,Rain,62.7,Van,89.04,19,1,4,Delayed
+SHP-01470,Factory A,Nassau,Factory A to Nassau,22.7,Medium,Storm,49.5,Truck,62.22,15,1,1,On Time
+SHP-01471,Factory C,Freeport,Factory C to Freeport,285.8,High,Rain,30.0,Truck,121.97,15,2,2,On Time
+SHP-01472,Factory A,Marsh Harbour,Factory A to Marsh Harbour,278.5,Medium,Clear,34.0,Van,97.62,18,1,1,On Time
+SHP-01473,Factory A,Nassau,Factory A to Nassau,57.9,High,Clear,63.3,Truck,72.09,19,1,1,On Time
+SHP-01474,Factory A,Spanish Wells,Factory A to Spanish Wells,155.4,Medium,Clear,16.2,Truck,61.09,16,1,2,Delayed
+SHP-01475,Factory B,Freeport,Factory B to Freeport,236.4,Medium,Clear,42.4,Van,84.82,9,1,2,Delayed
+SHP-01476,Factory B,George Town,Factory B to George Town,411.0,Low,Clear,60.6,Van,89.33,14,2,2,On Time
+SHP-01477,Factory A,Marsh Harbour,Factory A to Marsh Harbour,249.4,Medium,Rain,10.1,Van,88.96,8,1,1,On Time
+SHP-01478,Factory C,Marsh Harbour,Factory C to Marsh Harbour,353.7,Low,Rain,59.9,Freight,210.77,12,2,4,Delayed
+SHP-01479,Factory A,Marsh Harbour,Factory A to Marsh Harbour,277.6,Low,Clear,11.0,Freight,180.51,11,2,2,On Time
+SHP-01480,Factory A,George Town,Factory A to George Town,403.4,Low,Rain,33.6,Truck,158.7,19,2,3,Delayed
+SHP-01481,Factory A,Marsh Harbour,Factory A to Marsh Harbour,266.5,High,Rain,15.8,Truck,110.14,13,1,2,Delayed
+SHP-01482,Factory A,Nassau,Factory A to Nassau,32.0,Medium,Clear,102.6,Van,44.08,19,1,2,Delayed
+SHP-01483,Factory B,Nassau,Factory B to Nassau,41.4,High,Clear,15.9,Truck,75.43,17,1,2,Delayed
+SHP-01484,Factory A,Marsh Harbour,Factory A to Marsh Harbour,302.2,High,Clear,11.2,Freight,188.29,17,2,2,On Time
+SHP-01485,Factory B,Nassau,Factory B to Nassau,62.6,High,Clear,40.3,Van,39.56,7,1,2,Delayed
+SHP-01486,Factory A,Nassau,Factory A to Nassau,41.6,Low,Clear,27.2,Truck,41.48,16,1,4,Delayed
+SHP-01487,Factory C,Nassau,Factory C to Nassau,107.4,High,Clear,12.4,Van,59.11,8,1,1,On Time
+SHP-01488,Factory A,Freeport,Factory A to Freeport,230.8,High,Clear,53.4,Van,64.4,13,1,2,Delayed
+SHP-01489,Factory C,Nassau,Factory C to Nassau,96.8,High,Clear,8.7,Freight,145.03,12,1,1,On Time
+SHP-01490,Factory A,Marsh Harbour,Factory A to Marsh Harbour,254.4,Low,Rain,,Truck,84.48,8,1,2,Delayed
+SHP-01491,Factory A,George Town,Factory A to George Town,377.5,Low,Rain,24.2,Freight,225.07,19,2,4,Delayed
+SHP-01492,Factory C,George Town,Factory C to George Town,419.9,High,Clear,65.2,Truck,156.0,18,2,4,Delayed
+SHP-01493,Factory B,Nassau,Factory B to Nassau,70.1,Low,Clear,93.0,Van,60.32,13,1,1,On Time
+SHP-01494,Factory B,Freeport,Factory B to Freeport,235.1,Medium,Clear,81.0,Freight,177.69,5,2,3,Delayed
+SHP-01495,Factory A,Marsh Harbour,Factory A to Marsh Harbour,255.0,Medium,Clear,32.8,Truck,96.63,7,1,2,Delayed
+SHP-01496,Factory B,Freeport,Factory B to Freeport,228.6,Low,Clear,6.4,Truck,77.31,8,1,1,On Time
+SHP-01497,Factory C,Marsh Harbour,Factory C to Marsh Harbour,301.1,Low,Clear,48.5,Van,81.23,19,1,2,Delayed
+SHP-01498,Factory B,Nassau,Factory B to Nassau,56.0,High,Clear,105.5,Freight,130.01,11,1,3,Delayed
+SHP-01499,Factory A,Spanish Wells,Factory A to Spanish Wells,135.2,High,Storm,89.0,Truck,123.78,5,1,2,Delayed
+SHP-01500,Factory B,Nassau,Factory B to Nassau,66.5,High,Clear,51.1,Van,38.81,13,1,1,On Time
